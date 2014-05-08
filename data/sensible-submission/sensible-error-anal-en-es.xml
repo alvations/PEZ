@@ -1,1988 +1,1988 @@
 <inp>La pelota vasca es <f id="1">a sport</f>  tradicional vasco .</inp>
-<out>La pelota vasca es <f id="1">es un</f>  tradicional vasco .</output>
+<out>La pelota vasca es <f id="1">es un</f>  tradicional vasco .</out>
 <ref>La pelota vasca es <f id="1">un deporte</f>  tradicional vasco .</ref>
 
 <inp>En ocasiones puede <f id="1">give the impression</f>  que el proceso no es tan rápido como se quisiera .</inp>
-<out>En ocasiones puede <f id="1">la impresión de</f>  que el proceso no es tan rápido como se quisiera .</output>
+<out>En ocasiones puede <f id="1">la impresión de</f>  que el proceso no es tan rápido como se quisiera .</out>
 <ref>En ocasiones puede <f id="1">dar la impresión<alt>dar la impresión de</alt></f>  que el proceso no es tan rápido como se quisiera .</ref>
 
 <inp>A los niños les falta un espacio para hacer <f id="1">their homework</f>  .</inp>
-<out>A los niños les falta un espacio para hacer <f id="1">estados miembros</f>  .</output>
+<out>A los niños les falta un espacio para hacer <f id="1">estados miembros</f>  .</out>
 <ref>A los niños les falta un espacio para hacer <f id="1">sus deberes<alt>los deberes</alt><alt>sus tareas</alt></f>  .</ref>
 
 <inp>Se han observado <f id="1">occasionally</f>  sequedad de boca y visión borrosa .</inp>
-<out>Se han observado <f id="1">ocasión</f>  sequedad de boca y visión borrosa .</output>
+<out>Se han observado <f id="1">ocasión</f>  sequedad de boca y visión borrosa .</out>
 <ref>Se han observado <f id="1">ocasionalmente<alt>de vez en cuando</alt><alt>en ocasiones</alt><alt>a veces</alt></f>  sequedad de boca y visión borrosa .</ref>
 
 <inp>No fue nada fácil , <f id="1">although</f>  al final conseguí .</inp>
-<out>No fue nada fácil , <f id="1">empero</f>  al final conseguí .</output>
+<out>No fue nada fácil , <f id="1">empero</f>  al final conseguí .</out>
 <ref>No fue nada fácil , <f id="1">aunque</f>  al final conseguí .</ref>
 
 <inp>Julito , <f id="1">her boyfriend</f>  , trabajaba en una tienda .</inp>
-<out>Julito , <f id="1"></f>  , trabajaba en una tienda .</output>
+<out>Julito , <f id="1"></f>  , trabajaba en una tienda .</out>
 <ref>Julito , <f id="1">su novio</f>  , trabajaba en una tienda .</ref>
 
 <inp>Cerca del Auditorio Nacional en Madrid es un sitio excelente para degustar mil formas de cocinar <f id="1">cod</f>  .</inp>
-<out>Cerca del Auditorio Nacional en Madrid es un sitio excelente para degustar mil formas de cocinar <f id="1">bacalao</f>  .</output>
+<out>Cerca del Auditorio Nacional en Madrid es un sitio excelente para degustar mil formas de cocinar <f id="1">bacalao</f>  .</out>
 <ref>Cerca del Auditorio Nacional en Madrid es un sitio excelente para degustar mil formas de cocinar <f id="1">el bacalao<alt>bacalao</alt></f>  .</ref>
 
 <inp>¡ No deje <f id="1">the towel</f>  en la piscina !</inp>
-<out>¡ No deje <f id="1">tirar la</f>  en la piscina !</output>
+<out>¡ No deje <f id="1">tirar la</f>  en la piscina !</out>
 <ref>¡ No deje <f id="1">la toalla</f>  en la piscina !</ref>
 
 <inp>Es una medida que nos vuelve a llevar a <f id="1">the Middle Ages</f>  .</inp>
-<out>Es una medida que nos vuelve a llevar a <f id="1">Edad Media</f>  .</output>
+<out>Es una medida que nos vuelve a llevar a <f id="1">Edad Media</f>  .</out>
 <ref>Es una medida que nos vuelve a llevar a <f id="1">la Edad Media</f>  .</ref>
 
 <inp>Yo <f id="1">am against</f>  plantear este objetivo en los términos de una batalla contra otras formas de ocio .</inp>
-<out>Yo <f id="1">en contra</f>  plantear este objetivo en los términos de una batalla contra otras formas de ocio .</output>
+<out>Yo <f id="1">en contra</f>  plantear este objetivo en los términos de una batalla contra otras formas de ocio .</out>
 <ref>Yo <f id="1">soy contrario a<alt>estoy en contra de</alt><alt>opongo a</alt></f>  plantear este objetivo en los términos de una batalla contra otras formas de ocio .</ref>
 
 <inp>En este momento nieva <f id="1">in the north</f>  de Holanda .</inp>
-<out>En este momento nieva <f id="1">del norte son</f>  de Holanda .</output>
+<out>En este momento nieva <f id="1">del norte son</f>  de Holanda .</out>
 <ref>En este momento nieva <f id="1">en el norte</f>  de Holanda .</ref>
 
 <inp>A mí me parece que esta tarde no <f id="1">going to rain</f>  , pero quiza mañana sí .</inp>
-<out>A mí me parece que esta tarde no <f id="1"></f>  , pero quiza mañana sí .</output>
+<out>A mí me parece que esta tarde no <f id="1"></f>  , pero quiza mañana sí .</out>
 <ref>A mí me parece que esta tarde no <f id="1">va a llover</f>  , pero quiza mañana sí .</ref>
 
 <inp>Esta orquesta sinfónica es dirigida por <f id="1">one of the most famous</f>  directores del mundo .</inp>
-<out>Esta orquesta sinfónica es dirigida por <f id="1"></f>  directores del mundo .</output>
+<out>Esta orquesta sinfónica es dirigida por <f id="1"></f>  directores del mundo .</out>
 <ref>Esta orquesta sinfónica es dirigida por <f id="1">uno de los más famosos<alt>uno de los más reconocidos</alt></f>  directores del mundo .</ref>
 
 <inp><f id="1">Nowadays</f>  , la concentración de ácidos en la atmósfera es un problema .</inp>
-<out><f id="1">En la actualidad</f>  , la concentración de ácidos en la atmósfera es un problema .</output>
+<out><f id="1">En la actualidad</f>  , la concentración de ácidos en la atmósfera es un problema .</out>
 <ref><f id="1">Hoy en día<alt>En la actualidad</alt><alt>Actualmente</alt></f>  , la concentración de ácidos en la atmósfera es un problema .</ref>
 
 <inp>El embajador <f id="1">signed</f>  hoy el acuerdo .</inp>
-<out>El embajador <f id="1">firmé</f>  hoy el acuerdo .</output>
+<out>El embajador <f id="1">firmé</f>  hoy el acuerdo .</out>
 <ref>El embajador <f id="1">firmó</f>  hoy el acuerdo .</ref>
 
 <inp>Es una pequeña victoria para el gobierno español que <f id="1">has begun to</f>  luchar contra la enorme tasa de desempleo .</inp>
-<out>Es una pequeña victoria para el gobierno español que <f id="1">ha comenzado a</f>  luchar contra la enorme tasa de desempleo .</output>
+<out>Es una pequeña victoria para el gobierno español que <f id="1">ha comenzado a</f>  luchar contra la enorme tasa de desempleo .</out>
 <ref>Es una pequeña victoria para el gobierno español que <f id="1">ha empezado a<alt>ha comenzado a</alt></f>  luchar contra la enorme tasa de desempleo .</ref>
 
 <inp>En muchas de tus <f id="1">previous</f>  películas vuelve a acentuarse el papel de la transexualidad y la inseguridad sexual .</inp>
-<out>En muchas de tus <f id="1">anterior</f>  películas vuelve a acentuarse el papel de la transexualidad y la inseguridad sexual .</output>
+<out>En muchas de tus <f id="1">anterior</f>  películas vuelve a acentuarse el papel de la transexualidad y la inseguridad sexual .</out>
 <ref>En muchas de tus <f id="1">anteriores<alt>pasadas</alt></f>  películas vuelve a acentuarse el papel de la transexualidad y la inseguridad sexual .</ref>
 
 <inp>Trabajaba en una tienda de mobiliario de cocina que <f id="1">had inherited from</f>  sus padres</inp>
-<out>Trabajaba en una tienda de mobiliario de cocina que <f id="1"></f>  sus padres</output>
+<out>Trabajaba en una tienda de mobiliario de cocina que <f id="1"></f>  sus padres</out>
 <ref>Trabajaba en una tienda de mobiliario de cocina que <f id="1">había heredado de</f>  sus padres</ref>
 
 <inp>El Gobierno defiende que <f id="1">to spy on terrorists</f>  es legal .</inp>
-<out>El Gobierno defiende que <f id="1"></f>  es legal .</output>
+<out>El Gobierno defiende que <f id="1"></f>  es legal .</out>
 <ref>El Gobierno defiende que <f id="1">espiar a terroristas</f>  es legal .</ref>
 
 <inp>Parece que hay algunos problemas con <f id="1">his</f>  pasaporte .</inp>
-<out>Parece que hay algunos problemas con <f id="1">su vocación de actor a su</f>  pasaporte .</output>
+<out>Parece que hay algunos problemas con <f id="1">su vocación de actor a su</f>  pasaporte .</out>
 <ref>Parece que hay algunos problemas con <f id="1">su</f>  pasaporte .</ref>
 
 <inp><f id="1">She</f>  tiene la llave .</inp>
-<out><f id="1">Ella</f>  tiene la llave .</output>
+<out><f id="1">Ella</f>  tiene la llave .</out>
 <ref><f id="1">Ella</f>  tiene la llave .</ref>
 
 <inp>Nos comimos dos pollos <f id="1">entire</f>  .</inp>
-<out>Nos comimos dos pollos <f id="1">entera</f>  .</output>
+<out>Nos comimos dos pollos <f id="1">entera</f>  .</out>
 <ref>Nos comimos dos pollos <f id="1">enteros</f>  .</ref>
 
 <inp>Mi jefe <f id="1">needs</f>  una moto que consuma menos gasolina .</inp>
-<out>Mi jefe <f id="1">precisa</f>  una moto que consuma menos gasolina .</output>
+<out>Mi jefe <f id="1">precisa</f>  una moto que consuma menos gasolina .</out>
 <ref>Mi jefe <f id="1">necesita</f>  una moto que consuma menos gasolina .</ref>
 
 <inp>La educación sexual es un aspecto <f id="1">of great importance</f>  en nuestra sociedad moderna .</inp>
-<out>La educación sexual es un aspecto <f id="1">gran importancia para</f>  en nuestra sociedad moderna .</output>
+<out>La educación sexual es un aspecto <f id="1">gran importancia para</f>  en nuestra sociedad moderna .</out>
 <ref>La educación sexual es un aspecto <f id="1">de gran importancia<alt>muy importante</alt><alt>de una gran importancia</alt></f>  en nuestra sociedad moderna .</ref>
 
 <inp><f id="1">By means of</f>  juegos de ficción el niño asimila poco a poco ese mundo externo .</inp>
-<out><f id="1"></f>  juegos de ficción el niño asimila poco a poco ese mundo externo .</output>
+<out><f id="1"></f>  juegos de ficción el niño asimila poco a poco ese mundo externo .</out>
 <ref><f id="1">Por medio de<alt>Mediante</alt><alt>A través de</alt><alt>Mediante de</alt></f>  juegos de ficción el niño asimila poco a poco ese mundo externo .</ref>
 
 <inp>Al mismo tiempo el obispo pide a sus feligreses que recen para que los líderes de ETA opten por la salida pacífica y <f id="1">distance themselves from</f>  la violencia y el terror .</inp>
-<out>Al mismo tiempo el obispo pide a sus feligreses que recen para que los líderes de ETA opten por la salida pacífica y <f id="1">se distanciarán de</f>  la violencia y el terror .</output>
+<out>Al mismo tiempo el obispo pide a sus feligreses que recen para que los líderes de ETA opten por la salida pacífica y <f id="1">se distanciarán de</f>  la violencia y el terror .</out>
 <ref>Al mismo tiempo el obispo pide a sus feligreses que recen para que los líderes de ETA opten por la salida pacífica y <f id="1">se distancien de</f>  la violencia y el terror .</ref>
 
 <inp>En el periódico aparece <f id="1">an article</f>  sobre la crisis</inp>
-<out>En el periódico aparece <f id="1">un artículo</f>  sobre la crisis</output>
+<out>En el periódico aparece <f id="1">un artículo</f>  sobre la crisis</out>
 <ref>En el periódico aparece <f id="1">un artículo</f>  sobre la crisis</ref>
 
 <inp>Le aconsejo este vino <f id="1">red</f>  de Argentina .</inp>
-<out>Le aconsejo este vino <f id="1">red</f>  de Argentina .</output>
+<out>Le aconsejo este vino <f id="1">red</f>  de Argentina .</out>
 <ref>Le aconsejo este vino <f id="1">tinto</f>  de Argentina .</ref>
 
 <inp>Pero aún quedan muchos reductos en los que el macho hispánico <f id="1">exercises</f>  su poder .</inp>
-<out>Pero aún quedan muchos reductos en los que el macho hispánico <f id="1">ejercicios</f>  su poder .</output>
+<out>Pero aún quedan muchos reductos en los que el macho hispánico <f id="1">ejercicios</f>  su poder .</out>
 <ref>Pero aún quedan muchos reductos en los que el macho hispánico <f id="1">ejerce</f>  su poder .</ref>
 
 <inp>Muchas personas tratan el problema de las drogas <f id="1">from the point of view</f>  del gobierno .</inp>
-<out>Muchas personas tratan el problema de las drogas <f id="1">desde el punto de vista</f>  del gobierno .</output>
+<out>Muchas personas tratan el problema de las drogas <f id="1">desde el punto de vista</f>  del gobierno .</out>
 <ref>Muchas personas tratan el problema de las drogas <f id="1">desde el punto de vista<alt>desde la perspectiva</alt></f>  del gobierno .</ref>
 
 <inp>En el dilema actual , <f id="1">the minority</f>  ha pasado a ser más grande .</inp>
-<out>En el dilema actual , <f id="1">de la</f>  ha pasado a ser más grande .</output>
+<out>En el dilema actual , <f id="1">de la</f>  ha pasado a ser más grande .</out>
 <ref>En el dilema actual , <f id="1">la minoría</f>  ha pasado a ser más grande .</ref>
 
 <inp>Me quieren todos , <f id="1">even</f>  el idiota ese .</inp>
-<out>Me quieren todos , <f id="1">incluso</f>  el idiota ese .</output>
+<out>Me quieren todos , <f id="1">incluso</f>  el idiota ese .</out>
 <ref>Me quieren todos , <f id="1">hasta<alt>incluso</alt></f>  el idiota ese .</ref>
 
 <inp><f id="1">In winter</f>  se suele ir de viaje a otros destinos .</inp>
-<out><f id="1"></f>  se suele ir de viaje a otros destinos .</output>
+<out><f id="1"></f>  se suele ir de viaje a otros destinos .</out>
 <ref><f id="1">En invierno</f>  se suele ir de viaje a otros destinos .</ref>
 
 <inp>Los partidos políticos <f id="1">took the initiative</f>  del proceso .</inp>
-<out>Los partidos políticos <f id="1">la iniciativa de</f>  del proceso .</output>
+<out>Los partidos políticos <f id="1">la iniciativa de</f>  del proceso .</out>
 <ref>Los partidos políticos <f id="1">tomaron la iniciativa<alt>han tomado la iniciativa</alt></f>  del proceso .</ref>
 
 <inp>Es el instrumento que <f id="1">sounds</f>  más fuerte .</inp>
-<out>Es el instrumento que <f id="1">suena</f>  más fuerte .</output>
+<out>Es el instrumento que <f id="1">suena</f>  más fuerte .</out>
 <ref>Es el instrumento que <f id="1">suena</f>  más fuerte .</ref>
 
 <inp>Es importante <f id="1">to save</f>  dinero .</inp>
-<out>Es importante <f id="1">Guardar o No guardar</f>  dinero .</output>
+<out>Es importante <f id="1">Guardar o No guardar</f>  dinero .</out>
 <ref>Es importante <f id="1">ahorrar</f>  dinero .</ref>
 
 <inp>Durante toda la guerra estuvo escondido en <f id="1">the basement</f>  de su propia casa .</inp>
-<out>Durante toda la guerra estuvo escondido en <f id="1">en el</f>  de su propia casa .</output>
+<out>Durante toda la guerra estuvo escondido en <f id="1">en el</f>  de su propia casa .</out>
 <ref>Durante toda la guerra estuvo escondido en <f id="1">el sótano</f>  de su propia casa .</ref>
 
 <inp><f id="1">The same happens</f>  con las relaciones homosexuales .</inp>
-<out><f id="1">sucede e</f>  con las relaciones homosexuales .</output>
+<out><f id="1">sucede e</f>  con las relaciones homosexuales .</out>
 <ref><f id="1">Lo mismo sucede<alt>Lo mismo ocurre</alt><alt>Lo mismo pasa</alt></f>  con las relaciones homosexuales .</ref>
 
 <inp>Tengo <f id="1">too many</f>  problemas para ocuparme también de los tuyos .</inp>
-<out>Tengo <f id="1">demasiados</f>  problemas para ocuparme también de los tuyos .</output>
+<out>Tengo <f id="1">demasiados</f>  problemas para ocuparme también de los tuyos .</out>
 <ref>Tengo <f id="1">demasiados</f>  problemas para ocuparme también de los tuyos .</ref>
 
 <inp>Cuando terminaron de cantar , Joaquín sopló <f id="1">the candles</f>  con fuerza .</inp>
-<out>Cuando terminaron de cantar , Joaquín sopló <f id="1">las velas</f>  con fuerza .</output>
+<out>Cuando terminaron de cantar , Joaquín sopló <f id="1">las velas</f>  con fuerza .</out>
 <ref>Cuando terminaron de cantar , Joaquín sopló <f id="1">las velas<alt>los cirios</alt></f>  con fuerza .</ref>
 
 <inp>El crítico literario Lothar Junge vivía en una casita en las afueras , junto a un bosque y <f id="1">a hill</f>  .</inp>
-<out>El crítico literario Lothar Junge vivía en una casita en las afueras , junto a un bosque y <f id="1">en una</f>  .</output>
+<out>El crítico literario Lothar Junge vivía en una casita en las afueras , junto a un bosque y <f id="1">en una</f>  .</out>
 <ref>El crítico literario Lothar Junge vivía en una casita en las afueras , junto a un bosque y <f id="1">una colina<alt>un cerro</alt></f>  .</ref>
 
 <inp>Si eso <f id="1">goes on this way</f>  , el sector se colapsará en un plazo no muy largo .</inp>
-<out>Si eso <f id="1"></f>  , el sector se colapsará en un plazo no muy largo .</output>
+<out>Si eso <f id="1"></f>  , el sector se colapsará en un plazo no muy largo .</out>
 <ref>Si eso <f id="1">sigue así</f>  , el sector se colapsará en un plazo no muy largo .</ref>
 
 <inp>Mañana la televisión italiana transmitirá dos <f id="1">football matches</f>  .</inp>
-<out>Mañana la televisión italiana transmitirá dos <f id="1">partidos de</f>  .</output>
+<out>Mañana la televisión italiana transmitirá dos <f id="1">partidos de</f>  .</out>
 <ref>Mañana la televisión italiana transmitirá dos <f id="1">partidos de fútbol</f>  .</ref>
 
 <inp>El <f id="1">judge</f>  es la única persona que puede instituir una adopción .</inp>
-<out>El <f id="1">juez</f>  es la única persona que puede instituir una adopción .</output>
+<out>El <f id="1">juez</f>  es la única persona que puede instituir una adopción .</out>
 <ref>El <f id="1">juez</f>  es la única persona que puede instituir una adopción .</ref>
 
 <inp>El año pasado fallecieron siete personas <f id="1">as a consequence of</f>  saltar o caer de balcones en hoteles de España .</inp>
-<out>El año pasado fallecieron siete personas <f id="1">como consecuencia de la</f>  saltar o caer de balcones en hoteles de España .</output>
+<out>El año pasado fallecieron siete personas <f id="1">como consecuencia de la</f>  saltar o caer de balcones en hoteles de España .</out>
 <ref>El año pasado fallecieron siete personas <f id="1">a consecuencia de<alt>como consecuencia de</alt></f>  saltar o caer de balcones en hoteles de España .</ref>
 
 <inp>Los socialistan buscan fomentar <f id="1">the dissidence</f>  en el PP .</inp>
-<out>Los socialistan buscan fomentar <f id="1"></f>  en el PP .</output>
+<out>Los socialistan buscan fomentar <f id="1"></f>  en el PP .</out>
 <ref>Los socialistan buscan fomentar <f id="1">la disidencia</f>  en el PP .</ref>
 
 <inp>El gobierno junto con los empresarios del sector <f id="1">are searching for</f>  la mejor manera .</inp>
-<out>El gobierno junto con los empresarios del sector <f id="1">mientras los inspectores</f>  la mejor manera .</output>
+<out>El gobierno junto con los empresarios del sector <f id="1">mientras los inspectores</f>  la mejor manera .</out>
 <ref>El gobierno junto con los empresarios del sector <f id="1">están buscando</f>  la mejor manera .</ref>
 
 <inp>Sólo el 10 % de la población <f id="1">pays the fines</f>  .</inp>
-<out>Sólo el 10 % de la población <f id="1"></f>  .</output>
+<out>Sólo el 10 % de la población <f id="1"></f>  .</out>
 <ref>Sólo el 10 % de la población <f id="1">paga las multas</f>  .</ref>
 
 <inp><f id="1">A crow</f>  usa el cerebro para obtener de beber .</inp>
-<out><f id="1"></f>  usa el cerebro para obtener de beber .</output>
+<out><f id="1"></f>  usa el cerebro para obtener de beber .</out>
 <ref><f id="1">Un cuervo</f>  usa el cerebro para obtener de beber .</ref>
 
 <inp>Al otro lado de la pensión <f id="1">is</f>  la carretera que va de Málaga a Torremolinos .</inp>
-<out>Al otro lado de la pensión <f id="1">está</f>  la carretera que va de Málaga a Torremolinos .</output>
+<out>Al otro lado de la pensión <f id="1">está</f>  la carretera que va de Málaga a Torremolinos .</out>
 <ref>Al otro lado de la pensión <f id="1">está</f>  la carretera que va de Málaga a Torremolinos .</ref>
 
 <inp>El hombre <f id="1">has understood</f>  que su mujer es su igual en todos los terrenos .</inp>
-<out>El hombre <f id="1">ha comprendido</f>  que su mujer es su igual en todos los terrenos .</output>
+<out>El hombre <f id="1">ha comprendido</f>  que su mujer es su igual en todos los terrenos .</out>
 <ref>El hombre <f id="1">ha comprendido<alt>ha entendido</alt><alt>ha entendido</alt></f>  que su mujer es su igual en todos los terrenos .</ref>
 
 <inp>El mensaje renovador del Papa <f id="1">loses value</f>  si el Vaticano consiente la pederastia en su seno .</inp>
-<out>El mensaje renovador del Papa <f id="1"></f>  si el Vaticano consiente la pederastia en su seno .</output>
+<out>El mensaje renovador del Papa <f id="1"></f>  si el Vaticano consiente la pederastia en su seno .</out>
 <ref>El mensaje renovador del Papa <f id="1">pierde valor<alt>pierde su valor</alt></f>  si el Vaticano consiente la pederastia en su seno .</ref>
 
 <inp>Una de las consecuencias de la crisis económica es <f id="1">the decrease</f>  considerable del número de matrimonios .</inp>
-<out>Una de las consecuencias de la crisis económica es <f id="1">de la</f>  considerable del número de matrimonios .</output>
+<out>Una de las consecuencias de la crisis económica es <f id="1">de la</f>  considerable del número de matrimonios .</out>
 <ref>Una de las consecuencias de la crisis económica es <f id="1">el descenso<alt>la disminución</alt><alt>una reducción</alt></f>  considerable del número de matrimonios .</ref>
 
 <inp><f id="1">If I had money</f>  , te compraría el anillo más precioso del mundo .</inp>
-<out><f id="1"></f>  , te compraría el anillo más precioso del mundo .</output>
+<out><f id="1"></f>  , te compraría el anillo más precioso del mundo .</out>
 <ref><f id="1">Si tuviese dinero<alt>Si tuviera divero</alt><alt>Si yo hubiera dinero</alt><alt>Si hubiera dinero</alt></f>  , te compraría el anillo más precioso del mundo .</ref>
 
 <inp>Entonces también se esperan grandes <f id="1">delays</f>  y posibles anulaciones de vuelos .</inp>
-<out>Entonces también se esperan grandes <f id="1">demora</f>  y posibles anulaciones de vuelos .</output>
+<out>Entonces también se esperan grandes <f id="1">demora</f>  y posibles anulaciones de vuelos .</out>
 <ref>Entonces también se esperan grandes <f id="1">retrasos<alt>demoras</alt></f>  y posibles anulaciones de vuelos .</ref>
 
 <inp><f id="1">Any</f>  tema puede ser atractivo si se sabe contar bien .</inp>
-<out><f id="1">alguno</f>  tema puede ser atractivo si se sabe contar bien .</output>
+<out><f id="1">alguno</f>  tema puede ser atractivo si se sabe contar bien .</out>
 <ref><f id="1">Cualquier</f>  tema puede ser atractivo si se sabe contar bien .</ref>
 
 <inp><f id="1">They fired him</f>  porque había robado dinero .</inp>
-<out><f id="1"></f>  porque había robado dinero .</output>
+<out><f id="1"></f>  porque había robado dinero .</out>
 <ref><f id="1">Le despidieron<alt>Lo despidieron</alt></f>  porque había robado dinero .</ref>
 
 <inp>El número de inmigrantes indocumentados <f id="1">approaches</f>  los 250000 .</inp>
-<out>El número de inmigrantes indocumentados <f id="1">enfosca</f>  los 250000 .</output>
+<out>El número de inmigrantes indocumentados <f id="1">enfosca</f>  los 250000 .</out>
 <ref>El número de inmigrantes indocumentados <f id="1">se aproxima a<alt>se acerca a</alt></f>  los 250000 .</ref>
 
 <inp>Los jóvenes <f id="1">consumers</f>  de drogas ilícitas presentan características comunes .</inp>
-<out>Los jóvenes <f id="1">consumidores</f>  de drogas ilícitas presentan características comunes .</output>
+<out>Los jóvenes <f id="1">consumidores</f>  de drogas ilícitas presentan características comunes .</out>
 <ref>Los jóvenes <f id="1">consumidores</f>  de drogas ilícitas presentan características comunes .</ref>
 
 <inp>Y en España <f id="1">in the countryside</f>  también es muy normal .</inp>
-<out>Y en España <f id="1">en el campo</f>  también es muy normal .</output>
+<out>Y en España <f id="1">en el campo</f>  también es muy normal .</out>
 <ref>Y en España <f id="1">en el campo</f>  también es muy normal .</ref>
 
 <inp>El gobierno espera recuperar la confianza de <f id="1">the investors</f>  .</inp>
-<out>El gobierno espera recuperar la confianza de <f id="1">los inversores</f>  .</output>
+<out>El gobierno espera recuperar la confianza de <f id="1">los inversores</f>  .</out>
 <ref>El gobierno espera recuperar la confianza de <f id="1">los inversores</f>  .</ref>
 
 <inp>Joaquín se miró <f id="1">in the mirror</f>  .</inp>
-<out>Joaquín se miró <f id="1">mirarse en el</f>  .</output>
+<out>Joaquín se miró <f id="1">mirarse en el</f>  .</out>
 <ref>Joaquín se miró <f id="1">en el espejo</f>  .</ref>
 
 <inp>Sony eliminará 5000 <f id="1">jobs</f>  .</inp>
-<out>Sony eliminará 5000 <f id="1">empleos</f>  .</output>
+<out>Sony eliminará 5000 <f id="1">empleos</f>  .</out>
 <ref>Sony eliminará 5000 <f id="1">empleos<alt>puestos de trabajo</alt><alt>puestos de empleo</alt></f>  .</ref>
 
 <inp>La Guerra Civil española <f id="1">ended</f>  provocando más de medio millón de víctimas .</inp>
-<out>La Guerra Civil española <f id="1">concluí</f>  provocando más de medio millón de víctimas .</output>
+<out>La Guerra Civil española <f id="1">concluí</f>  provocando más de medio millón de víctimas .</out>
 <ref>La Guerra Civil española <f id="1">terminó<alt>acabó</alt></f>  provocando más de medio millón de víctimas .</ref>
 
 <inp>Vino a vernos <f id="1">on sunday</f>  .</inp>
-<out>Vino a vernos <f id="1"></f>  .</output>
+<out>Vino a vernos <f id="1"></f>  .</out>
 <ref>Vino a vernos <f id="1">el domingo</f>  .</ref>
 
 <inp>La velocidad <f id="1">average</f>  de los vehículos se situaba en 11 kilómetros por hora .</inp>
-<out>La velocidad <f id="1">mediano</f>  de los vehículos se situaba en 11 kilómetros por hora .</output>
+<out>La velocidad <f id="1">mediano</f>  de los vehículos se situaba en 11 kilómetros por hora .</out>
 <ref>La velocidad <f id="1">media</f>  de los vehículos se situaba en 11 kilómetros por hora .</ref>
 
 <inp>¡ Tienes que <f id="1">hurry up</f>  , la película está para comenzar !</inp>
-<out>¡ Tienes que <f id="1">dé prisa</f>  , la película está para comenzar !</output>
+<out>¡ Tienes que <f id="1">dé prisa</f>  , la película está para comenzar !</out>
 <ref>¡ Tienes que <f id="1">darte prisa<alt>apurarte</alt></f>  , la película está para comenzar !</ref>
 
 <inp>¿ Por qué no <f id="1">follow</f>  ustedes mi consejo ?</inp>
-<out>¿ Por qué no <f id="1">seguir</f>  ustedes mi consejo ?</output>
+<out>¿ Por qué no <f id="1">seguir</f>  ustedes mi consejo ?</out>
 <ref>¿ Por qué no <f id="1">siguen</f>  ustedes mi consejo ?</ref>
 
 <inp><f id="1">Given the facts</f>  es probable que parte de su viaje lo realice en caravana .</inp>
-<out><f id="1"></f>  es probable que parte de su viaje lo realice en caravana .</output>
+<out><f id="1"></f>  es probable que parte de su viaje lo realice en caravana .</out>
 <ref><f id="1">Dadas las fechas<alt>Dados los hechos</alt></f>  es probable que parte de su viaje lo realice en caravana .</ref>
 
 <inp>Las <f id="1">flight attendants</f>  cuentan a los pasajeros .</inp>
-<out>Las <f id="1"></f>  cuentan a los pasajeros .</output>
+<out>Las <f id="1"></f>  cuentan a los pasajeros .</out>
 <ref>Las <f id="1">azafatas</f>  cuentan a los pasajeros .</ref>
 
 <inp><f id="1">After</f>  del segundo bloque de notícias se tiene pensado ofrecer una entrevista .</inp>
-<out><f id="1">tras</f>  del segundo bloque de notícias se tiene pensado ofrecer una entrevista .</output>
+<out><f id="1">tras</f>  del segundo bloque de notícias se tiene pensado ofrecer una entrevista .</out>
 <ref><f id="1">Después</f>  del segundo bloque de notícias se tiene pensado ofrecer una entrevista .</ref>
 
 <inp>Con el traspaso al Ministerio de Cultura , el gobierno español <f id="1">recognises</f>  que las corridas de toros son una disciplina artística .</inp>
-<out>Con el traspaso al Ministerio de Cultura , el gobierno español <f id="1">admitir</f>  que las corridas de toros son una disciplina artística .</output>
+<out>Con el traspaso al Ministerio de Cultura , el gobierno español <f id="1">admitir</f>  que las corridas de toros son una disciplina artística .</out>
 <ref>Con el traspaso al Ministerio de Cultura , el gobierno español <f id="1">reconoce</f>  que las corridas de toros son una disciplina artística .</ref>
 
 <inp>Su nombre <f id="1">has been lost</f>  o nunca se supo , pero andaba desnudo por estas calles , o cubierto de harapos , contándose los dedos con el pulgar y haciendo mofa de los árboles</inp>
-<out>Su nombre <f id="1">se ha perdido</f>  o nunca se supo , pero andaba desnudo por estas calles , o cubierto de harapos , contándose los dedos con el pulgar y haciendo mofa de los árboles</output>
+<out>Su nombre <f id="1">se ha perdido</f>  o nunca se supo , pero andaba desnudo por estas calles , o cubierto de harapos , contándose los dedos con el pulgar y haciendo mofa de los árboles</out>
 <ref>Su nombre <f id="1">se ha perdido<alt>se perdió</alt></f>  o nunca se supo , pero andaba desnudo por estas calles , o cubierto de harapos , contándose los dedos con el pulgar y haciendo mofa de los árboles</ref>
 
 <inp>Te trataremos como a <f id="1">everybody else</f>  .</inp>
-<out>Te trataremos como a <f id="1">todos los</f>  .</output>
+<out>Te trataremos como a <f id="1">todos los</f>  .</out>
 <ref>Te trataremos como a <f id="1">todos los demás<alt>los demás</alt></f>  .</ref>
 
 <inp>Todos aplaudieron , <f id="1">except for</f>  Luis Felipe .</inp>
-<out>Todos aplaudieron , <f id="1">en el</f>  Luis Felipe .</output>
+<out>Todos aplaudieron , <f id="1">en el</f>  Luis Felipe .</out>
 <ref>Todos aplaudieron , <f id="1">con excepción de<alt>menos</alt><alt>excepto</alt><alt>excepto por</alt><alt>salvo por</alt></f>  Luis Felipe .</ref>
 
 <inp>El tratamiento es largo , <f id="1">it can take years</f>  , yo todavía estoy inmerso en él .</inp>
-<out>El tratamiento es largo , <f id="1"></f>  , yo todavía estoy inmerso en él .</output>
+<out>El tratamiento es largo , <f id="1"></f>  , yo todavía estoy inmerso en él .</out>
 <ref>El tratamiento es largo , <f id="1">puede durar años<alt>puede tomar años</alt><alt>puede tardar años</alt></f>  , yo todavía estoy inmerso en él .</ref>
 
 <inp>¿ <f id="1">Do you regret</f>  que tu colega sustituya al jefe del departamento ?</inp>
-<out>¿ <f id="1"></f>  que tu colega sustituya al jefe del departamento ?</output>
+<out>¿ <f id="1"></f>  que tu colega sustituya al jefe del departamento ?</out>
 <ref>¿ <f id="1">Lamentas<alt>Te arrepientes que</alt></f>  que tu colega sustituya al jefe del departamento ?</ref>
 
 <inp>Deseaba <f id="1">overcome</f>  la tradicional división entre las dos Españas que había llevado a la Guerra Civil .</inp>
-<out>Deseaba <f id="1">invadir</f>  la tradicional división entre las dos Españas que había llevado a la Guerra Civil .</output>
+<out>Deseaba <f id="1">invadir</f>  la tradicional división entre las dos Españas que había llevado a la Guerra Civil .</out>
 <ref>Deseaba <f id="1">superar</f>  la tradicional división entre las dos Españas que había llevado a la Guerra Civil .</ref>
 
 <inp>Además tienen que seguir <f id="1">performing</f>  en su puesto de trabajo cada vez mejor y se les exige absoluta lealtad .</inp>
-<out>Además tienen que seguir <f id="1">representando</f>  en su puesto de trabajo cada vez mejor y se les exige absoluta lealtad .</output>
+<out>Además tienen que seguir <f id="1">representando</f>  en su puesto de trabajo cada vez mejor y se les exige absoluta lealtad .</out>
 <ref>Además tienen que seguir <f id="1">rindiendo<alt>funcionando</alt><alt>cumpliendo</alt></f>  en su puesto de trabajo cada vez mejor y se les exige absoluta lealtad .</ref>
 
 <inp>El toro que entra en la plaza se convierte <f id="1">almost</f>  en un animal sagrado .</inp>
-<out>El toro que entra en la plaza se convierte <f id="1">Por poco</f>  en un animal sagrado .</output>
+<out>El toro que entra en la plaza se convierte <f id="1">Por poco</f>  en un animal sagrado .</out>
 <ref>El toro que entra en la plaza se convierte <f id="1">casi<alt>prácticamente</alt></f>  en un animal sagrado .</ref>
 
 <inp>Hoy unos 18000 de sus lagos <f id="1">are victims of</f>  la acidez .</inp>
-<out>Hoy unos 18000 de sus lagos <f id="1">son víctimas de</f>  la acidez .</output>
+<out>Hoy unos 18000 de sus lagos <f id="1">son víctimas de</f>  la acidez .</out>
 <ref>Hoy unos 18000 de sus lagos <f id="1">son víctimas de</f>  la acidez .</ref>
 
 <inp>Pueden <f id="1">bring to an end</f>  todas estas iniciativas .</inp>
-<out>Pueden <f id="1">y poner fin al</f>  todas estas iniciativas .</output>
+<out>Pueden <f id="1">y poner fin al</f>  todas estas iniciativas .</out>
 <ref>Pueden <f id="1">llevar a cabo<alt>poner fin a</alt><alt>acabar</alt></f>  todas estas iniciativas .</ref>
 
 <inp>Todavía no se ha pensado <f id="1">enough</f>  sobre las consecuencias .</inp>
-<out>Todavía no se ha pensado <f id="1">suficiente</f>  sobre las consecuencias .</output>
+<out>Todavía no se ha pensado <f id="1">suficiente</f>  sobre las consecuencias .</out>
 <ref>Todavía no se ha pensado <f id="1">suficientemente<alt>bastante</alt><alt>lo suficiente</alt></f>  sobre las consecuencias .</ref>
 
 <inp>Los aldeanos <f id="1">no longer</f>  lavan la ropa en el río .</inp>
-<out>Los aldeanos <f id="1">ya no</f>  lavan la ropa en el río .</output>
+<out>Los aldeanos <f id="1">ya no</f>  lavan la ropa en el río .</out>
 <ref>Los aldeanos <f id="1">ya no</f>  lavan la ropa en el río .</ref>
 
 <inp>Los catalanes están empezando a mostrar <f id="1">symptoms of weakness</f>  .</inp>
-<out>Los catalanes están empezando a mostrar <f id="1"></f>  .</output>
+<out>Los catalanes están empezando a mostrar <f id="1"></f>  .</out>
 <ref>Los catalanes están empezando a mostrar <f id="1">síntomas de debilidad</f>  .</ref>
 
 <inp>No puedes <f id="1">complain</f>  , que el culpable eres tú .</inp>
-<out>No puedes <f id="1">quejar</f>  , que el culpable eres tú .</output>
+<out>No puedes <f id="1">quejar</f>  , que el culpable eres tú .</out>
 <ref>No puedes <f id="1">quejarte</f>  , que el culpable eres tú .</ref>
 
 <inp>Los controles antidopaje acababan de instaurarse <f id="1">one year ago</f>  .</inp>
-<out>Los controles antidopaje acababan de instaurarse <f id="1">un año que</f>  .</output>
+<out>Los controles antidopaje acababan de instaurarse <f id="1">un año que</f>  .</out>
 <ref>Los controles antidopaje acababan de instaurarse <f id="1">hace uno año</f>  .</ref>
 
 <inp>La banda terrorista ETA <f id="1">has become</f>  una organización debilitada .</inp>
-<out>La banda terrorista ETA <f id="1">ha devenido</f>  una organización debilitada .</output>
+<out>La banda terrorista ETA <f id="1">ha devenido</f>  una organización debilitada .</out>
 <ref>La banda terrorista ETA <f id="1">se ha convertido en<alt>se ha vuelto</alt></f>  una organización debilitada .</ref>
 
 <inp>El profesor no es <f id="1">as</f>  inteligente como usted cree .</inp>
-<out>El profesor no es <f id="1">tan</f>  inteligente como usted cree .</output>
+<out>El profesor no es <f id="1">tan</f>  inteligente como usted cree .</out>
 <ref>El profesor no es <f id="1">tan</f>  inteligente como usted cree .</ref>
 
 <inp>La mejor forma <f id="1">to protect yourself</f>  es no tener relaciones sexuales .</inp>
-<out>La mejor forma <f id="1">se dice que</f>  es no tener relaciones sexuales .</output>
+<out>La mejor forma <f id="1">se dice que</f>  es no tener relaciones sexuales .</out>
 <ref>La mejor forma <f id="1">de protegerte<alt>de protegerse</alt></f>  es no tener relaciones sexuales .</ref>
 
 <inp>Sacyr y Panamá <f id="1">are looking for ways to</f>  intentar desatascar la crisis del canal .</inp>
-<out>Sacyr y Panamá <f id="1"></f>  intentar desatascar la crisis del canal .</output>
+<out>Sacyr y Panamá <f id="1"></f>  intentar desatascar la crisis del canal .</out>
 <ref>Sacyr y Panamá <f id="1">buscan vías para<alt>están buscando formas de</alt><alt>buscan maneras de</alt><alt>buscan formas de</alt><alt>están buscando maneras de</alt></f>  intentar desatascar la crisis del canal .</ref>
 
 <inp>Según muchos estudios , es un error <f id="1">to believe</f>  que la educación bilingüe perjudica al progreso de los niños en sus estudios .</inp>
-<out>Según muchos estudios , es un error <f id="1">considerar</f>  que la educación bilingüe perjudica al progreso de los niños en sus estudios .</output>
+<out>Según muchos estudios , es un error <f id="1">considerar</f>  que la educación bilingüe perjudica al progreso de los niños en sus estudios .</out>
 <ref>Según muchos estudios , es un error <f id="1">creer<alt>pensar</alt></f>  que la educación bilingüe perjudica al progreso de los niños en sus estudios .</ref>
 
 <inp>Con este portátil no se puede <f id="1">translate</f>  el texto suficientemente rápido .</inp>
-<out>Con este portátil no se puede <f id="1">traducir</f>  el texto suficientemente rápido .</output>
+<out>Con este portátil no se puede <f id="1">traducir</f>  el texto suficientemente rápido .</out>
 <ref>Con este portátil no se puede <f id="1">traducir</f>  el texto suficientemente rápido .</ref>
 
 <inp>Tienes que <f id="1">bring me</f>  el periódico .</inp>
-<out>Tienes que <f id="1">que me</f>  el periódico .</output>
+<out>Tienes que <f id="1">que me</f>  el periódico .</out>
 <ref>Tienes que <f id="1">traerme</f>  el periódico .</ref>
 
 <inp><f id="1">The broadcast</f>  de la Televisión Española se hace via satélite .</inp>
-<out><f id="1"></f>  de la Televisión Española se hace via satélite .</output>
+<out><f id="1"></f>  de la Televisión Española se hace via satélite .</out>
 <ref><f id="1">La emisión<alt>La difusión</alt><alt>La transmisión</alt></f>  de la Televisión Española se hace via satélite .</ref>
 
 <inp>Ahora además se marchan los inmigrantes <f id="1">due to</f>  la crisis .</inp>
-<out>Ahora además se marchan los inmigrantes <f id="1">con motivo de</f>  la crisis .</output>
+<out>Ahora además se marchan los inmigrantes <f id="1">con motivo de</f>  la crisis .</out>
 <ref>Ahora además se marchan los inmigrantes <f id="1">debido a<alt>por causa de</alt><alt>por</alt></f>  la crisis .</ref>
 
 <inp>Paco , el Bajo , se aproximó <f id="1">slowly</f>  al grupo .</inp>
-<out>Paco , el Bajo , se aproximó <f id="1">lento</f>  al grupo .</output>
+<out>Paco , el Bajo , se aproximó <f id="1">lento</f>  al grupo .</out>
 <ref>Paco , el Bajo , se aproximó <f id="1">lentamente<alt>despacio</alt></f>  al grupo .</ref>
 
 <inp>Se encontró <f id="1">face to face</f>  con su padre .</inp>
-<out>Se encontró <f id="1">frente a frente</f>  con su padre .</output>
+<out>Se encontró <f id="1">frente a frente</f>  con su padre .</out>
 <ref>Se encontró <f id="1">cara a cara<alt>frente a frente</alt></f>  con su padre .</ref>
 
 <inp>La felicidad es el fuego <f id="1">holy</f>  que mantiene nuestro ánimo encendido .</inp>
-<out>La felicidad es el fuego <f id="1">Sacro</f>  que mantiene nuestro ánimo encendido .</output>
+<out>La felicidad es el fuego <f id="1">Sacro</f>  que mantiene nuestro ánimo encendido .</out>
 <ref>La felicidad es el fuego <f id="1">sagrado<alt>santo</alt></f>  que mantiene nuestro ánimo encendido .</ref>
 
 <inp><f id="1">In fact</f>  ya hay bacterias resistentes a todos los antibióticos .</inp>
-<out><f id="1">En efecto</f>  ya hay bacterias resistentes a todos los antibióticos .</output>
+<out><f id="1">En efecto</f>  ya hay bacterias resistentes a todos los antibióticos .</out>
 <ref><f id="1">De hecho<alt>En realidad</alt></f>  ya hay bacterias resistentes a todos los antibióticos .</ref>
 
 <inp>Llevas <f id="1">the same</f>  zapatos que yo .</inp>
-<out>Llevas <f id="1">igual</f>  zapatos que yo .</output>
+<out>Llevas <f id="1">igual</f>  zapatos que yo .</out>
 <ref>Llevas <f id="1">los mismos</f>  zapatos que yo .</ref>
 
 <inp>Los marinos <f id="1">fear</f>  estas tormentas .</inp>
-<out>Los marinos <f id="1">temor</f>  estas tormentas .</output>
+<out>Los marinos <f id="1">temor</f>  estas tormentas .</out>
 <ref>Los marinos <f id="1">temen<alt>tienen miedo de</alt></f>  estas tormentas .</ref>
 
 <inp>Si está usted <f id="1">pregnant</f>  consulte a su médico antes de tomar este medicamento .</inp>
-<out>Si está usted <f id="1">embarazada</f>  consulte a su médico antes de tomar este medicamento .</output>
+<out>Si está usted <f id="1">embarazada</f>  consulte a su médico antes de tomar este medicamento .</out>
 <ref>Si está usted <f id="1">embarazada</f>  consulte a su médico antes de tomar este medicamento .</ref>
 
 <inp>La votación en favor <f id="1">implies</f>  la legalización del aborto .</inp>
-<out>La votación en favor <f id="1">alude</f>  la legalización del aborto .</output>
+<out>La votación en favor <f id="1">alude</f>  la legalización del aborto .</out>
 <ref>La votación en favor <f id="1">implica</f>  la legalización del aborto .</ref>
 
 <inp>Mañana <f id="1">please</f>  no vuelvas a despertarme a esta hora .</inp>
-<out>Mañana <f id="1">contentar</f>  no vuelvas a despertarme a esta hora .</output>
+<out>Mañana <f id="1">contentar</f>  no vuelvas a despertarme a esta hora .</out>
 <ref>Mañana <f id="1">por favor<alt>te ruego</alt></f>  no vuelvas a despertarme a esta hora .</ref>
 
 <inp>Según una reconocida psicóloga , Julia Vidal , se sigue esperando de las mujeres que realicen la mayoría de <f id="1">household chores</f>  .</inp>
-<out>Según una reconocida psicóloga , Julia Vidal , se sigue esperando de las mujeres que realicen la mayoría de <f id="1"></f>  .</output>
+<out>Según una reconocida psicóloga , Julia Vidal , se sigue esperando de las mujeres que realicen la mayoría de <f id="1"></f>  .</out>
 <ref>Según una reconocida psicóloga , Julia Vidal , se sigue esperando de las mujeres que realicen la mayoría de <f id="1">las tareas domésticas<alt>las tareas del hogar</alt><alt>las quehaceres de casa</alt></f>  .</ref>
 
 <inp>Señor Elías , <f id="1">fill</f>  este formulario , por favor .</inp>
-<out>Señor Elías , <f id="1">llenarse</f>  este formulario , por favor .</output>
+<out>Señor Elías , <f id="1">llenarse</f>  este formulario , por favor .</out>
 <ref>Señor Elías , <f id="1">rellene</f>  este formulario , por favor .</ref>
 
 <inp>La cita olímpica más cara <f id="1">in history</f>  despierta muchas dudas .</inp>
-<out>La cita olímpica más cara <f id="1">a hist</f>  despierta muchas dudas .</output>
+<out>La cita olímpica más cara <f id="1">a hist</f>  despierta muchas dudas .</out>
 <ref>La cita olímpica más cara <f id="1">de la historia</f>  despierta muchas dudas .</ref>
 
 <inp>Un estudio de la Comisión <f id="1">concludes</f>  que la lección de accidentes pasados no ha servido para consolidar los programas contra derramamientos de petróleo de gobiernos e industriales .</inp>
-<out>Un estudio de la Comisión <f id="1">concluye</f>  que la lección de accidentes pasados no ha servido para consolidar los programas contra derramamientos de petróleo de gobiernos e industriales .</output>
+<out>Un estudio de la Comisión <f id="1">concluye</f>  que la lección de accidentes pasados no ha servido para consolidar los programas contra derramamientos de petróleo de gobiernos e industriales .</out>
 <ref>Un estudio de la Comisión <f id="1">concluye<alt>llega a la conclusión</alt></f>  que la lección de accidentes pasados no ha servido para consolidar los programas contra derramamientos de petróleo de gobiernos e industriales .</ref>
 
 <inp>Ahora dejan <f id="1">fall</f>  con fuerza precisamente a toda esa misma gente .</inp>
-<out>Ahora dejan <f id="1">recaer</f>  con fuerza precisamente a toda esa misma gente .</output>
+<out>Ahora dejan <f id="1">recaer</f>  con fuerza precisamente a toda esa misma gente .</out>
 <ref>Ahora dejan <f id="1">caer</f>  con fuerza precisamente a toda esa misma gente .</ref>
 
 <inp>No sólo necesitas una idea ; tiene que ser buena y además <f id="1">you have to know</f>  cómo desarrollarla .</inp>
-<out>No sólo necesitas una idea ; tiene que ser buena y además <f id="1">con</f>  cómo desarrollarla .</output>
+<out>No sólo necesitas una idea ; tiene que ser buena y además <f id="1">con</f>  cómo desarrollarla .</out>
 <ref>No sólo necesitas una idea ; tiene que ser buena y además <f id="1">has de saber<alt>tienes que saber</alt><alt>debes saber</alt><alt>hay que saber</alt></f>  cómo desarrollarla .</ref>
 
 <inp>A don Roberto le cogió el concierto <f id="1">scratching</f>  los labios con el mango de la pluma</inp>
-<out>A don Roberto le cogió el concierto <f id="1">rascando</f>  los labios con el mango de la pluma</output>
+<out>A don Roberto le cogió el concierto <f id="1">rascando</f>  los labios con el mango de la pluma</out>
 <ref>A don Roberto le cogió el concierto <f id="1">rascándose</f>  los labios con el mango de la pluma</ref>
 
 <inp>La frontera se cierra durante <f id="1">half an hour</f>  .</inp>
-<out>La frontera se cierra durante <f id="1">media hora</f>  .</output>
+<out>La frontera se cierra durante <f id="1">media hora</f>  .</out>
 <ref>La frontera se cierra durante <f id="1">media hora</f>  .</ref>
 
 <inp>El Pipistop es un despertador que <f id="1">predicts</f>  en qué momento justo te estás empezando a hacer pipí .</inp>
-<out>El Pipistop es un despertador que <f id="1">agüera</f>  en qué momento justo te estás empezando a hacer pipí .</output>
+<out>El Pipistop es un despertador que <f id="1">agüera</f>  en qué momento justo te estás empezando a hacer pipí .</out>
 <ref>El Pipistop es un despertador que <f id="1">adivina<alt>predice</alt><alt>prevé</alt></f>  en qué momento justo te estás empezando a hacer pipí .</ref>
 
 <inp>Recientemente se publicaron <f id="1">the results</f>  de una estudia sobre la imagen del Instituto de la Mujer .</inp>
-<out>Recientemente se publicaron <f id="1">los resultados</f>  de una estudia sobre la imagen del Instituto de la Mujer .</output>
+<out>Recientemente se publicaron <f id="1">los resultados</f>  de una estudia sobre la imagen del Instituto de la Mujer .</out>
 <ref>Recientemente se publicaron <f id="1">los resultados</f>  de una estudia sobre la imagen del Instituto de la Mujer .</ref>
 
 <inp>Luisa se pinta <f id="1">her lips</f>  .</inp>
-<out>Luisa se pinta <f id="1"></f>  .</output>
+<out>Luisa se pinta <f id="1"></f>  .</out>
 <ref>Luisa se pinta <f id="1">los labios<alt>sus labios</alt></f>  .</ref>
 
 <inp>Dormir bien es <f id="1">a pleasure</f>  y una necesidad .</inp>
-<out>Dormir bien es <f id="1">un placer</f>  y una necesidad .</output>
+<out>Dormir bien es <f id="1">un placer</f>  y una necesidad .</out>
 <ref>Dormir bien es <f id="1">un placer<alt>un gusto</alt></f>  y una necesidad .</ref>
 
 <inp>El Ejecutivo español volvió a reaccionar <f id="1">with skepticism</f>  .</inp>
-<out>El Ejecutivo español volvió a reaccionar <f id="1"></f>  .</output>
+<out>El Ejecutivo español volvió a reaccionar <f id="1"></f>  .</out>
 <ref>El Ejecutivo español volvió a reaccionar <f id="1">con escepticismo</f>  .</ref>
 
 <inp>Su sueño <f id="1">has become reality</f>  , porque en septiembre de 2010 se le fotografió en estado de buena esperanza .</inp>
-<out>Su sueño <f id="1">se ha hecho</f>  , porque en septiembre de 2010 se le fotografió en estado de buena esperanza .</output>
+<out>Su sueño <f id="1">se ha hecho</f>  , porque en septiembre de 2010 se le fotografió en estado de buena esperanza .</out>
 <ref>Su sueño <f id="1">se ha hecho realidad<alt>se ha convertido en realidad</alt><alt>se ha vuelto realidad</alt></f>  , porque en septiembre de 2010 se le fotografió en estado de buena esperanza .</ref>
 
 <inp>Sus padres seguían <f id="1">sending him</f>  dinero cada mes .</inp>
-<out>Sus padres seguían <f id="1">e a</f>  dinero cada mes .</output>
+<out>Sus padres seguían <f id="1">e a</f>  dinero cada mes .</out>
 <ref>Sus padres seguían <f id="1">enviándole<alt>enviarle</alt><alt>mandarle</alt></f>  dinero cada mes .</ref>
 
 <inp>El água de <f id="1">the geysers</f>  de Islandia tiene una temperatura muy alta .</inp>
-<out>El água de <f id="1"></f>  de Islandia tiene una temperatura muy alta .</output>
+<out>El água de <f id="1"></f>  de Islandia tiene una temperatura muy alta .</out>
 <ref>El água de <f id="1">los géiser<alt>los géiseres</alt></f>  de Islandia tiene una temperatura muy alta .</ref>
 
 <inp>Un tercio de los bosques alemanes está <f id="1">in danger of</f>  quedarse sin vida animal .</inp>
-<out>Un tercio de los bosques alemanes está <f id="1">el peligro de</f>  quedarse sin vida animal .</output>
+<out>Un tercio de los bosques alemanes está <f id="1">el peligro de</f>  quedarse sin vida animal .</out>
 <ref>Un tercio de los bosques alemanes está <f id="1">en peligro de<alt>en riesgo de</alt></f>  quedarse sin vida animal .</ref>
 
 <inp>En verano siempre <f id="1">it is very hot</f>  en el campo .</inp>
-<out>En verano siempre <f id="1"></f>  en el campo .</output>
+<out>En verano siempre <f id="1"></f>  en el campo .</out>
 <ref>En verano siempre <f id="1">hace mucho calor</f>  en el campo .</ref>
 
 <inp><f id="1">On the contrary</f>  , por aquellos días Bubis tuvo que viajar a Frankfurt .</inp>
-<out><f id="1">Al contrario</f>  , por aquellos días Bubis tuvo que viajar a Frankfurt .</output>
+<out><f id="1">Al contrario</f>  , por aquellos días Bubis tuvo que viajar a Frankfurt .</out>
 <ref><f id="1">Al contrario<alt>Por el contrario</alt></f>  , por aquellos días Bubis tuvo que viajar a Frankfurt .</ref>
 
 <inp>Según el periódico El País , para las elecciones anticipadas el Partido Popular ( PP ) , de ideología conservadora , puede <f id="1">count on</f>  el 45,3 % de los votos y la mayoría absoluta en el Congreso .</inp>
-<out>Según el periódico El País , para las elecciones anticipadas el Partido Popular ( PP ) , de ideología conservadora , puede <f id="1">contar con</f>  el 45,3 % de los votos y la mayoría absoluta en el Congreso .</output>
+<out>Según el periódico El País , para las elecciones anticipadas el Partido Popular ( PP ) , de ideología conservadora , puede <f id="1">contar con</f>  el 45,3 % de los votos y la mayoría absoluta en el Congreso .</out>
 <ref>Según el periódico El País , para las elecciones anticipadas el Partido Popular ( PP ) , de ideología conservadora , puede <f id="1">contar con</f>  el 45,3 % de los votos y la mayoría absoluta en el Congreso .</ref>
 
 <inp>El gobierno estudia un plan de acción <f id="1">in favour of</f>  la mujer .</inp>
-<out>El gobierno estudia un plan de acción <f id="1">a favor de</f>  la mujer .</output>
+<out>El gobierno estudia un plan de acción <f id="1">a favor de</f>  la mujer .</out>
 <ref>El gobierno estudia un plan de acción <f id="1">a favor de<alt>en favor de</alt></f>  la mujer .</ref>
 
 <inp>Un 20 % de la población activa <f id="1">is unemployed</f>  .</inp>
-<out>Un 20 % de la población activa <f id="1">de la</f>  .</output>
+<out>Un 20 % de la población activa <f id="1">de la</f>  .</out>
 <ref>Un 20 % de la población activa <f id="1">está desempleado</f>  .</ref>
 
 <inp><f id="1">If</f>  lo lees bien , verás lo que dice .</inp>
-<out><f id="1">si</f>  lo lees bien , verás lo que dice .</output>
+<out><f id="1">si</f>  lo lees bien , verás lo que dice .</out>
 <ref><f id="1">Si</f>  lo lees bien , verás lo que dice .</ref>
 
 <inp>Vagó por el pueblo en siesta , sin pensar en nada , <f id="1">not even</f>  tratando de convencerse de que su problema no tenía solución .</inp>
-<out>Vagó por el pueblo en siesta , sin pensar en nada , <f id="1">siquiera</f>  tratando de convencerse de que su problema no tenía solución .</output>
+<out>Vagó por el pueblo en siesta , sin pensar en nada , <f id="1">siquiera</f>  tratando de convencerse de que su problema no tenía solución .</out>
 <ref>Vagó por el pueblo en siesta , sin pensar en nada , <f id="1">ni siquiera</f>  tratando de convencerse de que su problema no tenía solución .</ref>
 
 <inp>Las perspectivas de esta generación perdida son <f id="1">little hopeful</f>  .</inp>
-<out>Las perspectivas de esta generación perdida son <f id="1"></f>  .</output>
+<out>Las perspectivas de esta generación perdida son <f id="1"></f>  .</out>
 <ref>Las perspectivas de esta generación perdida son <f id="1">poco esperanzadoras<alt>poco optimista</alt></f>  .</ref>
 
 <inp>Un dilema cada vez más frecuente <f id="1">between</f>  jóvenes es el de casarse o juntarse .</inp>
-<out>Un dilema cada vez más frecuente <f id="1">entre dos cosas</f>  jóvenes es el de casarse o juntarse .</output>
+<out>Un dilema cada vez más frecuente <f id="1">entre dos cosas</f>  jóvenes es el de casarse o juntarse .</out>
 <ref>Un dilema cada vez más frecuente <f id="1">entre</f>  jóvenes es el de casarse o juntarse .</ref>
 
 <inp>Zapatero se postuló <f id="1">as</f>  candidato en 2008 .</inp>
-<out>Zapatero se postuló <f id="1">como</f>  candidato en 2008 .</output>
+<out>Zapatero se postuló <f id="1">como</f>  candidato en 2008 .</out>
 <ref>Zapatero se postuló <f id="1">como</f>  candidato en 2008 .</ref>
 
 <inp>El periódico dice que <f id="1">the queen</f>  está de viaje .</inp>
-<out>El periódico dice que <f id="1">reina de</f>  está de viaje .</output>
+<out>El periódico dice que <f id="1">reina de</f>  está de viaje .</out>
 <ref>El periódico dice que <f id="1">la reina</f>  está de viaje .</ref>
 
 <inp>No tiene sentido <f id="1">to fight</f>  por la igualdad .</inp>
-<out>No tiene sentido <f id="1">combate</f>  por la igualdad .</output>
+<out>No tiene sentido <f id="1">combate</f>  por la igualdad .</out>
 <ref>No tiene sentido <f id="1">luchar</f>  por la igualdad .</ref>
 
 <inp>En la lucha contra la droga se necesita <f id="1">in the first place</f>  la nueva ley .</inp>
-<out>En la lucha contra la droga se necesita <f id="1">En primer lugar</f>  la nueva ley .</output>
+<out>En la lucha contra la droga se necesita <f id="1">En primer lugar</f>  la nueva ley .</out>
 <ref>En la lucha contra la droga se necesita <f id="1">en primer lugar</f>  la nueva ley .</ref>
 
 <inp>El matrimonio no es una guerra , <f id="1">but</f>  el puro servicio militar .</inp>
-<out>El matrimonio no es una guerra , <f id="1">sino</f>  el puro servicio militar .</output>
+<out>El matrimonio no es una guerra , <f id="1">sino</f>  el puro servicio militar .</out>
 <ref>El matrimonio no es una guerra , <f id="1">sino<alt>pero</alt></f>  el puro servicio militar .</ref>
 
 <inp><f id="1">In that way</f>  podemos reconstruir qué capas de pintura y qué colores se encuentran bajo la superficie visible .</inp>
-<out><f id="1">de este modo</f>  podemos reconstruir qué capas de pintura y qué colores se encuentran bajo la superficie visible .</output>
+<out><f id="1">de este modo</f>  podemos reconstruir qué capas de pintura y qué colores se encuentran bajo la superficie visible .</out>
 <ref><f id="1">Así<alt>De esa manera</alt><alt>De ese modo</alt><alt>De esa forma</alt></f>  podemos reconstruir qué capas de pintura y qué colores se encuentran bajo la superficie visible .</ref>
 
 <inp>Usted no haría nada <f id="1">against</f>  Curro .</inp>
-<out>Usted no haría nada <f id="1">en contra</f>  Curro .</output>
+<out>Usted no haría nada <f id="1">en contra</f>  Curro .</out>
 <ref>Usted no haría nada <f id="1">contra</f>  Curro .</ref>
 
 <inp><f id="1">You will find</f>  muchísimas cosas extrañas en la calle .</inp>
-<out><f id="1">esta</f>  muchísimas cosas extrañas en la calle .</output>
+<out><f id="1">esta</f>  muchísimas cosas extrañas en la calle .</out>
 <ref><f id="1">Encontrarás<alt>Encontrará</alt><alt>Usted encontrará</alt><alt>Se encuentra</alt></f>  muchísimas cosas extrañas en la calle .</ref>
 
 <inp>Habrá que <f id="1">await</f>  las declaraciones del Ministro de Interior .</inp>
-<out>Habrá que <f id="1">esperar</f>  las declaraciones del Ministro de Interior .</output>
+<out>Habrá que <f id="1">esperar</f>  las declaraciones del Ministro de Interior .</out>
 <ref>Habrá que <f id="1">esperar</f>  las declaraciones del Ministro de Interior .</ref>
 
 <inp>En <f id="1">the shop</f>  hablan francés e inglés .</inp>
-<out>En <f id="1">a la</f>  hablan francés e inglés .</output>
+<out>En <f id="1">a la</f>  hablan francés e inglés .</out>
 <ref>En <f id="1">la tienda</f>  hablan francés e inglés .</ref>
 
 <inp>Tus amigos <f id="1">have to</f>  salir antes de que vuelva tu padre .</inp>
-<out>Tus amigos <f id="1">tener que</f>  salir antes de que vuelva tu padre .</output>
+<out>Tus amigos <f id="1">tener que</f>  salir antes de que vuelva tu padre .</out>
 <ref>Tus amigos <f id="1">tienen que<alt>deben</alt><alt>tendrán que</alt></f>  salir antes de que vuelva tu padre .</ref>
 
 <inp>Apartamentos y hoteles , <f id="1">above all</f>  en Ibiza , se tienen que enfrentar a los artistas de este temerario deporte .</inp>
-<out>Apartamentos y hoteles , <f id="1">Ante todo</f>  en Ibiza , se tienen que enfrentar a los artistas de este temerario deporte .</output>
+<out>Apartamentos y hoteles , <f id="1">Ante todo</f>  en Ibiza , se tienen que enfrentar a los artistas de este temerario deporte .</out>
 <ref>Apartamentos y hoteles , <f id="1">sobre todo<alt>ante todo</alt><alt>encima de todo</alt></f>  en Ibiza , se tienen que enfrentar a los artistas de este temerario deporte .</ref>
 
 <inp>Te voy a dar <f id="1">some</f>  ejemplos .</inp>
-<out>Te voy a dar <f id="1">alguna</f>  ejemplos .</output>
+<out>Te voy a dar <f id="1">alguna</f>  ejemplos .</out>
 <ref>Te voy a dar <f id="1">unos<alt>algunos</alt></f>  ejemplos .</ref>
 
 <inp>Durante los últimos quince años ha habido una notable afluencia de <f id="1">foreigners</f>  a nuestro país .</inp>
-<out>Durante los últimos quince años ha habido una notable afluencia de <f id="1">extranjeros</f>  a nuestro país .</output>
+<out>Durante los últimos quince años ha habido una notable afluencia de <f id="1">extranjeros</f>  a nuestro país .</out>
 <ref>Durante los últimos quince años ha habido una notable afluencia de <f id="1">extranjeros</f>  a nuestro país .</ref>
 
 <inp>Latinoamérica es <f id="1">far more important</f>  para la empresa .</inp>
-<out>Latinoamérica es <f id="1">mucho más importante</f>  para la empresa .</output>
+<out>Latinoamérica es <f id="1">mucho más importante</f>  para la empresa .</out>
 <ref>Latinoamérica es <f id="1">mucho más importante<alt>muchísimo más importante</alt></f>  para la empresa .</ref>
 
 <inp><f id="1">I completely agree</f>  , las cosas no cambiarán si uno mismo no cambia primero .</inp>
-<out><f id="1">estoy totalmente de</f>  , las cosas no cambiarán si uno mismo no cambia primero .</output>
+<out><f id="1">estoy totalmente de</f>  , las cosas no cambiarán si uno mismo no cambia primero .</out>
 <ref><f id="1">Estoy totalmente de acuerdo<alt>Estoy completamente de acuerdo</alt><alt>Yo estoy completamente de acuerdo</alt></f>  , las cosas no cambiarán si uno mismo no cambia primero .</ref>
 
 <inp>El alcalde <f id="1">approves</f>  la manifestación</inp>
-<out>El alcalde <f id="1">homologa</f>  la manifestación</output>
+<out>El alcalde <f id="1">homologa</f>  la manifestación</out>
 <ref>El alcalde <f id="1">consiente<alt>aprueba</alt></f>  la manifestación</ref>
 
 <inp>Después se fue a cenar <f id="1">with another</f>  .</inp>
-<out>Después se fue a cenar <f id="1">sustituir a</f>  .</output>
+<out>Después se fue a cenar <f id="1">sustituir a</f>  .</out>
 <ref>Después se fue a cenar <f id="1">con otro<alt>con otra</alt></f>  .</ref>
 
 <inp>Ahora hace siete que no me inyecto heroína y <f id="1">am on the way to</f>  ser un profesional de la abogacía .</inp>
-<out>Ahora hace siete que no me inyecto heroína y <f id="1"></f>  ser un profesional de la abogacía .</output>
+<out>Ahora hace siete que no me inyecto heroína y <f id="1"></f>  ser un profesional de la abogacía .</out>
 <ref>Ahora hace siete que no me inyecto heroína y <f id="1">estoy en camino de</f>  ser un profesional de la abogacía .</ref>
 
 <inp>Los <f id="1">barrels</f>  siguen colocándose en aquella zona .</inp>
-<out>Los <f id="1">barriles</f>  siguen colocándose en aquella zona .</output>
+<out>Los <f id="1">barriles</f>  siguen colocándose en aquella zona .</out>
 <ref>Los <f id="1">barriles<alt>toneles</alt></f>  siguen colocándose en aquella zona .</ref>
 
 <inp>La madrileña plaza fue escenario el jueves de duros <f id="1">clashes</f>  entre manifestantes y policía .</inp>
-<out>La madrileña plaza fue escenario el jueves de duros <f id="1">discuerda</f>  entre manifestantes y policía .</output>
+<out>La madrileña plaza fue escenario el jueves de duros <f id="1">discuerda</f>  entre manifestantes y policía .</out>
 <ref>La madrileña plaza fue escenario el jueves de duros <f id="1">enfrentamientos</f>  entre manifestantes y policía .</ref>
 
 <inp>La muerte de su mujer , <f id="1">of which</f>  no sabíamos nada , nos ha afectado muchísimo .</inp>
-<out>La muerte de su mujer , <f id="1">cuya</f>  no sabíamos nada , nos ha afectado muchísimo .</output>
+<out>La muerte de su mujer , <f id="1">cuya</f>  no sabíamos nada , nos ha afectado muchísimo .</out>
 <ref>La muerte de su mujer , <f id="1">de la que<alt>de la cual</alt></f>  no sabíamos nada , nos ha afectado muchísimo .</ref>
 
 <inp>Pagamos <f id="1">the rent</f>  de la casa a principios del mes .</inp>
-<out>Pagamos <f id="1">del alquiler</f>  de la casa a principios del mes .</output>
+<out>Pagamos <f id="1">del alquiler</f>  de la casa a principios del mes .</out>
 <ref>Pagamos <f id="1">el alquiler<alt>la renta</alt></f>  de la casa a principios del mes .</ref>
 
 <inp>En las aguas del Mar Muerto es posible flotar <f id="1">without</f>  nadar .</inp>
-<out>En las aguas del Mar Muerto es posible flotar <f id="1">sin</f>  nadar .</output>
+<out>En las aguas del Mar Muerto es posible flotar <f id="1">sin</f>  nadar .</out>
 <ref>En las aguas del Mar Muerto es posible flotar <f id="1">sin</f>  nadar .</ref>
 
 <inp>Es posible que sientas <f id="1">shame</f>  por tener una ITS .</inp>
-<out>Es posible que sientas <f id="1">avergonzar</f>  por tener una ITS .</output>
+<out>Es posible que sientas <f id="1">avergonzar</f>  por tener una ITS .</out>
 <ref>Es posible que sientas <f id="1">vergüenza</f>  por tener una ITS .</ref>
 
 <inp>La novedad en <f id="1">this time</f>  es que este programa también podrá leerse en inglés .</inp>
-<out>La novedad en <f id="1">en estos</f>  es que este programa también podrá leerse en inglés .</output>
+<out>La novedad en <f id="1">en estos</f>  es que este programa también podrá leerse en inglés .</out>
 <ref>La novedad en <f id="1">esta ocasión<alt>esta vez</alt><alt>este momento</alt></f>  es que este programa también podrá leerse en inglés .</ref>
 
 <inp>El heroinómano es básicamente un masoquista , hay que expulsar la agresividad <f id="1">outwards</f>  .</inp>
-<out>El heroinómano es básicamente un masoquista , hay que expulsar la agresividad <f id="1">externo</f>  .</output>
+<out>El heroinómano es básicamente un masoquista , hay que expulsar la agresividad <f id="1">externo</f>  .</out>
 <ref>El heroinómano es básicamente un masoquista , hay que expulsar la agresividad <f id="1">hacia fuera<alt>hacia afuera</alt></f>  .</ref>
 
 <inp>Los peces murieron <f id="1">one after the other</f>  .</inp>
-<out>Los peces murieron <f id="1">14 y sólo en</f>  .</output>
+<out>Los peces murieron <f id="1">14 y sólo en</f>  .</out>
 <ref>Los peces murieron <f id="1">uno tras otro<alt>uno detrás de otro</alt></f>  .</ref>
 
 <inp>Dinamarca importa <f id="1">as much</f>  petróleo como Suecia .</inp>
-<out>Dinamarca importa <f id="1">tanto como</f>  petróleo como Suecia .</output>
+<out>Dinamarca importa <f id="1">tanto como</f>  petróleo como Suecia .</out>
 <ref>Dinamarca importa <f id="1">tanto</f>  petróleo como Suecia .</ref>
 
 <inp>El 4 de junio de 2007 , Sochi <f id="1">won</f>  en su primera presentación como aspirante a ser sede olímpica .</inp>
-<out>El 4 de junio de 2007 , Sochi <f id="1">ganaste</f>  en su primera presentación como aspirante a ser sede olímpica .</output>
+<out>El 4 de junio de 2007 , Sochi <f id="1">ganaste</f>  en su primera presentación como aspirante a ser sede olímpica .</out>
 <ref>El 4 de junio de 2007 , Sochi <f id="1">ganó</f>  en su primera presentación como aspirante a ser sede olímpica .</ref>
 
 <inp>Si sabes moverte encontrarás préstamos <f id="1">at low interest</f>  .</inp>
-<out>Si sabes moverte encontrarás préstamos <f id="1"></f>  .</output>
+<out>Si sabes moverte encontrarás préstamos <f id="1"></f>  .</out>
 <ref>Si sabes moverte encontrarás préstamos <f id="1">a bajo interés</f>  .</ref>
 
 <inp>Si lo haces en la ciudad , <f id="1">apparently</f>  se pone de moda inmediatamente , cuenta Yolanda riéndose .</inp>
-<out>Si lo haces en la ciudad , <f id="1">aparentemente</f>  se pone de moda inmediatamente , cuenta Yolanda riéndose .</output>
+<out>Si lo haces en la ciudad , <f id="1">aparentemente</f>  se pone de moda inmediatamente , cuenta Yolanda riéndose .</out>
 <ref>Si lo haces en la ciudad , <f id="1">por lo visto<alt>aparentemente</alt><alt>evidentemente</alt><alt>al parecer</alt></f>  se pone de moda inmediatamente , cuenta Yolanda riéndose .</ref>
 
 <inp>Voy a ir <f id="1">because</f>  mis padres están de vacaciones .</inp>
-<out>Voy a ir <f id="1">porque</f>  mis padres están de vacaciones .</output>
+<out>Voy a ir <f id="1">porque</f>  mis padres están de vacaciones .</out>
 <ref>Voy a ir <f id="1">porque</f>  mis padres están de vacaciones .</ref>
 
 <inp>Yo vi el diablo <f id="1">in his eyes</f>  y protesté</inp>
-<out>Yo vi el diablo <f id="1">en sus ojos</f>  y protesté</output>
+<out>Yo vi el diablo <f id="1">en sus ojos</f>  y protesté</out>
 <ref>Yo vi el diablo <f id="1">en sus ojos<alt>en los ojos</alt></f>  y protesté</ref>
 
 <inp>Las reacciones de <f id="1">the proponents</f>  de las corridas de toros son incomprensibles .</inp>
-<out>Las reacciones de <f id="1">que los</f>  de las corridas de toros son incomprensibles .</output>
+<out>Las reacciones de <f id="1">que los</f>  de las corridas de toros son incomprensibles .</out>
 <ref>Las reacciones de <f id="1">los defensores</f>  de las corridas de toros son incomprensibles .</ref>
 
 <inp>Estas botas <f id="1">cost</f>  sólo 50 euros .</inp>
-<out>Estas botas <f id="1">costar</f>  sólo 50 euros .</output>
+<out>Estas botas <f id="1">costar</f>  sólo 50 euros .</out>
 <ref>Estas botas <f id="1">valen<alt>cuestan</alt></f>  sólo 50 euros .</ref>
 
 <inp>Emiten <f id="1">a documentary</f>  sobre el hambre en el mundo .</inp>
-<out>Emiten <f id="1">un documental</f>  sobre el hambre en el mundo .</output>
+<out>Emiten <f id="1">un documental</f>  sobre el hambre en el mundo .</out>
 <ref>Emiten un <f id="1">un documental</f>  sobre el hambre en el mundo .</ref>
 
 <inp>Antes de la llegada de los españoles , los incas ya <f id="1">cultivated</f>  el maíz .</inp>
-<out>Antes de la llegada de los españoles , los incas ya <f id="1">cultivado</f>  el maíz .</output>
+<out>Antes de la llegada de los españoles , los incas ya <f id="1">cultivado</f>  el maíz .</out>
 <ref>Antes de la llegada de los españoles , los incas ya <f id="1">cultivaban</f>  el maíz .</ref>
 
 <inp><f id="1">The more</f>  lo leo , menos lo entiendo .</inp>
-<out><f id="1">entre más</f>  lo leo , menos lo entiendo .</output>
+<out><f id="1">entre más</f>  lo leo , menos lo entiendo .</out>
 <ref><f id="1">Cuanto más</f>  lo leo , menos lo entiendo .</ref>
 
 <inp><f id="1">On one hand</f>  , las exportaciónes irían cayendo .</inp>
-<out><f id="1">por un lado,</f>  , las exportaciónes irían cayendo .</output>
+<out><f id="1">por un lado,</f>  , las exportaciónes irían cayendo .</out>
 <ref><f id="1">Por un lado<alt>De una parte</alt></f>  , las exportaciónes irían cayendo .</ref>
 
 <inp>Inmigrantes acusan a la Guardia Civil de dispararles y los agentes <f id="1">deny it</f>  .</inp>
-<out>Inmigrantes acusan a la Guardia Civil de dispararles y los agentes <f id="1">no podemos</f>  .</output>
+<out>Inmigrantes acusan a la Guardia Civil de dispararles y los agentes <f id="1">no podemos</f>  .</out>
 <ref>Inmigrantes acusan a la Guardia Civil de dispararles y los agentes <f id="1">lo niegan</f>  .</ref>
 
 <inp>El plan de reformas que el Gobierno pretende desarrollar <f id="1">in the next years</f>  sólo se reflejará timidamente este curso .</inp>
-<out>El plan de reformas que el Gobierno pretende desarrollar <f id="1"></f>  sólo se reflejará timidamente este curso .</output>
+<out>El plan de reformas que el Gobierno pretende desarrollar <f id="1"></f>  sólo se reflejará timidamente este curso .</out>
 <ref>El plan de reformas que el Gobierno pretende desarrollar <f id="1">en los próximos años</f>  sólo se reflejará timidamente este curso .</ref>
 
 <inp>Los meses <f id="1">that preceded</f>  la muerte del dictador fueron tiempos convulsos .</inp>
-<out>Los meses <f id="1">a la</f>  la muerte del dictador fueron tiempos convulsos .</output>
+<out>Los meses <f id="1">a la</f>  la muerte del dictador fueron tiempos convulsos .</out>
 <ref>Los meses <f id="1">que precedieron a<alt>que han precidido a</alt></f>  la muerte del dictador fueron tiempos convulsos .</ref>
 
 <inp>Luis Felipe <f id="1">stood up</f>  y prendió las luces del comedor .</inp>
-<out>Luis Felipe <f id="1">que se</f>  y prendió las luces del comedor .</output>
+<out>Luis Felipe <f id="1">que se</f>  y prendió las luces del comedor .</out>
 <ref>Luis Felipe <f id="1">se puso de pie<alt>se levantó</alt><alt>se puso en pie</alt></f>  y prendió las luces del comedor .</ref>
 
 <inp>En este momento <f id="1">we interview</f>  el famoso cantante Julio Iglesias .</inp>
-<out>En este momento <f id="1"></f>  el famoso cantante Julio Iglesias .</output>
+<out>En este momento <f id="1"></f>  el famoso cantante Julio Iglesias .</out>
 <ref>En este momento <f id="1">entrevistamos<alt>entrevistamos a</alt></f>  el famoso cantante Julio Iglesias .</ref>
 
 <inp>Muchos jóvenes <f id="1">believe</f>  que todos los políticos son unos corruptos .</inp>
-<out>Muchos jóvenes <f id="1">considerar</f>  que todos los políticos son unos corruptos .</output>
+<out>Muchos jóvenes <f id="1">considerar</f>  que todos los políticos son unos corruptos .</out>
 <ref>Muchos jóvenes <f id="1">creen<alt>piensan</alt></f>  que todos los políticos son unos corruptos .</ref>
 
 <inp>¿ Qué vas a hacer durante <f id="1">the weekends</f>  ?</inp>
-<out>¿ Qué vas a hacer durante <f id="1"></f>  ?</output>
+<out>¿ Qué vas a hacer durante <f id="1"></f>  ?</out>
 <ref>¿ Qué vas a hacer durante <f id="1">los fines de semana</f>  ?</ref>
 
 <inp>La niña <f id="1">has hurt herself</f>  jugando en el jardín .</inp>
-<out>La niña <f id="1"></f>  jugando en el jardín .</output>
+<out>La niña <f id="1"></f>  jugando en el jardín .</out>
 <ref>La niña <f id="1">se ha hecho daño<alt>se ha lastimado</alt></f>  jugando en el jardín .</ref>
 
 <inp>Si crees que has estado <f id="1">exposed</f>  , anda a consultar a un médico .</inp>
-<out>Si crees que has estado <f id="1">expuesto</f>  , anda a consultar a un médico .</output>
+<out>Si crees que has estado <f id="1">expuesto</f>  , anda a consultar a un médico .</out>
 <ref>Si crees que has estado <f id="1">expuesto<alt>expuesta</alt></f>  , anda a consultar a un médico .</ref>
 
 <inp>Javier es <f id="1">a clown</f>  y se enamora de Natalia .</inp>
-<out>Javier es <f id="1">un payaso.</f>  y se enamora de Natalia .</output>
+<out>Javier es <f id="1">un payaso.</f>  y se enamora de Natalia .</out>
 <ref>Javier es <f id="1">un payaso</f>  y se enamora de Natalia .</ref>
 
 <inp>El mercado de Barcelona ha sido el que ha sufrido mayores <f id="1">lows</f>  de todas las bolsas .</inp>
-<out>El mercado de Barcelona ha sido el que ha sufrido mayores <f id="1">muge</f>  de todas las bolsas .</output>
+<out>El mercado de Barcelona ha sido el que ha sufrido mayores <f id="1">muge</f>  de todas las bolsas .</out>
 <ref>El mercado de Barcelona ha sido el que ha sufrido mayores <f id="1">bajas</f>  de todas las bolsas .</ref>
 
 <inp>La primera sesión de cine que se realizó ante el público fue un verdadero <f id="1">success</f>  .</inp>
-<out>La primera sesión de cine que se realizó ante el público fue un verdadero <f id="1">logro</f>  .</output>
+<out>La primera sesión de cine que se realizó ante el público fue un verdadero <f id="1">logro</f>  .</out>
 <ref>La primera sesión de cine que se realizó ante el público fue un verdadero <f id="1">éxito</f>  .</ref>
 
 <inp>En aquellos momentos <f id="1">the cyclists</f>  eran partidarios de volver a alzarse .</inp>
-<out>En aquellos momentos <f id="1"></f>  eran partidarios de volver a alzarse .</output>
+<out>En aquellos momentos <f id="1"></f>  eran partidarios de volver a alzarse .</out>
 <ref>En aquellos momentos <f id="1">los ciclistas</f>  eran partidarios de volver a alzarse .</ref>
 
 <inp>Han pasado <f id="1">to the opposition party</f>  .</inp>
-<out>Han pasado <f id="1">partido de la oposición</f>  .</output>
+<out>Han pasado <f id="1">partido de la oposición</f>  .</out>
 <ref>Han pasado <f id="1">al partido de la oposición</f>  .</ref>
 
 <inp>La misma táctica <f id="1">was employed</f>  por mis compañeros .</inp>
-<out>La misma táctica <f id="1">de la</f>  por mis compañeros .</output>
+<out>La misma táctica <f id="1">de la</f>  por mis compañeros .</out>
 <ref>La misma táctica <f id="1">fue empleada<alt>ha sido empleado</alt></f>  por mis compañeros .</ref>
 
 <inp>Los monumentos históricos se deterioran <f id="1">because of</f>  la corrosión .</inp>
-<out>Los monumentos históricos se deterioran <f id="1">A causa de</f>  la corrosión .</output>
+<out>Los monumentos históricos se deterioran <f id="1">A causa de</f>  la corrosión .</out>
 <ref>Los monumentos históricos se deterioran <f id="1">por<alt>por causa de</alt><alt>debido a</alt></f>  la corrosión .</ref>
 
 <inp>Siempre <f id="1">is worth it to</f>  hablar con él</inp>
-<out>Siempre <f id="1"></f>  hablar con él</output>
+<out>Siempre <f id="1"></f>  hablar con él</out>
 <ref>Siempre <f id="1">vale la pena<alt>vale la pena de</alt></f>  hablar con él</ref>
 
 <inp><f id="1">On saturdays</f>  salía muy temprano para ir al mercado .</inp>
-<out><f id="1"></f>  salía muy temprano para ir al mercado .</output>
+<out><f id="1"></f>  salía muy temprano para ir al mercado .</out>
 <ref><f id="1">Los sábados</f>  salía muy temprano para ir al mercado .</ref>
 
 <inp>¿ Cuál es tu <f id="1">relationship</f>  con este asunto de género ?</inp>
-<out>¿ Cuál es tu <f id="1">parentesco</f>  con este asunto de género ?</output>
+<out>¿ Cuál es tu <f id="1">parentesco</f>  con este asunto de género ?</out>
 <ref>¿ Cuál es tu <f id="1">relación</f>  con este asunto de género ?</ref>
 
 <inp>Como la abuela no veía bien , <f id="1">we used to</f>  acompañarla .</inp>
-<out>Como la abuela no veía bien , <f id="1">s que teníamos</f>  acompañarla .</output>
+<out>Como la abuela no veía bien , <f id="1">s que teníamos</f>  acompañarla .</out>
 <ref>Como la abuela no veía bien , <f id="1">solíamos</f>  acompañarla .</ref>
 
 <inp>Sin <f id="1">paying attention</f>  a la disputa , Ian siguió echando gasolina .</inp>
-<out>Sin <f id="1">atención</f>  a la disputa , Ian siguió echando gasolina .</output>
+<out>Sin <f id="1">atención</f>  a la disputa , Ian siguió echando gasolina .</out>
 <ref>Sin <f id="1">prestar atención</f>  a la disputa , Ian siguió echando gasolina .</ref>
 
 <inp><f id="1">It bothers me that</f>  hagan tanto ruido .</inp>
-<out><f id="1"></f>  hagan tanto ruido .</output>
+<out><f id="1"></f>  hagan tanto ruido .</out>
 <ref><f id="1">Me molesta que</f>  hagan tanto ruido .</ref>
 
 <inp>Una visión completa del capital de Rajoy no puede realizarse <f id="1">given that</f>  no se conoce el valor de las viviendas .</inp>
-<out>Una visión completa del capital de Rajoy no puede realizarse <f id="1">dado que</f>  no se conoce el valor de las viviendas .</output>
+<out>Una visión completa del capital de Rajoy no puede realizarse <f id="1">dado que</f>  no se conoce el valor de las viviendas .</out>
 <ref>Una visión completa del capital de Rajoy no puede realizarse <f id="1">dado que</f>  no se conoce el valor de las viviendas .</ref>
 
 <inp>¿ Qué <f id="1">size</f>  tiene tu cuarto ?</inp>
-<out>¿ Qué <f id="1">dimensión</f>  tiene tu cuarto ?</output>
+<out>¿ Qué <f id="1">dimensión</f>  tiene tu cuarto ?</out>
 <ref>¿ Qué <f id="1">tamaño</f>  tiene tu cuarto ?</ref>
 
 <inp>Casualmente estoy necesitando <f id="1">a loan</f>  de alguna entidad bancaria para financiarme un lote en Las Lomas de Pachacamac .</inp>
-<out>Casualmente estoy necesitando <f id="1">un préstamo</f>  de alguna entidad bancaria para financiarme un lote en Las Lomas de Pachacamac .</output>
+<out>Casualmente estoy necesitando <f id="1">un préstamo</f>  de alguna entidad bancaria para financiarme un lote en Las Lomas de Pachacamac .</out>
 <ref>Casualmente estoy necesitando <f id="1">un préstamo</f>  de alguna entidad bancaria para financiarme un lote en Las Lomas de Pachacamac .</ref>
 
 <inp>El coche está aparcado <f id="1">there</f>  desde las nueve de la mañana .</inp>
-<out>El coche está aparcado <f id="1">ahí</f>  desde las nueve de la mañana .</output>
+<out>El coche está aparcado <f id="1">ahí</f>  desde las nueve de la mañana .</out>
 <ref>El coche está aparcado <f id="1">ahí<alt>allí</alt></f>  desde las nueve de la mañana .</ref>
 
 <inp>Las flores son <f id="1">cheap</f>  aquí .</inp>
-<out>Las flores son <f id="1">baratos</f>  aquí .</output>
+<out>Las flores son <f id="1">baratos</f>  aquí .</out>
 <ref>Las flores son <f id="1">baratas</f>  aquí .</ref>
 
 <inp>Por favor , Horacio - dijo la Maga , <f id="1">hugging him</f>  y escondiendo la cara .</inp>
-<out>Por favor , Horacio - dijo la Maga , <f id="1"></f>  y escondiendo la cara .</output>
+<out>Por favor , Horacio - dijo la Maga , <f id="1"></f>  y escondiendo la cara .</out>
 <ref>Por favor , Horacio - dijo la Maga , <f id="1">abrazándose a él</f>  y escondiendo la cara .</ref>
 
 <inp>España y <f id="1">France</f>  siempre han declarado que no se puede negociar sobre la independencia de El País Vasco .</inp>
-<out>España y <f id="1">Francia</f>  siempre han declarado que no se puede negociar sobre la independencia de El País Vasco .</output>
+<out>España y <f id="1">Francia</f>  siempre han declarado que no se puede negociar sobre la independencia de El País Vasco .</out>
 <ref>España y <f id="1">Francia</f>  siempre han declarado que no se puede negociar sobre la independencia de El País Vasco .</ref>
 
 <inp><f id="1">I feel as if</f>  una parte de mí pertenece a ese mundo en ruinas .</inp>
-<out><f id="1">la impresión de que</f>  una parte de mí pertenece a ese mundo en ruinas .</output>
+<out><f id="1">la impresión de que</f>  una parte de mí pertenece a ese mundo en ruinas .</out>
 <ref><f id="1">Tengo la sensación de que<alt>Me siento como si</alt><alt>Tengo la impresión de que</alt></f>  una parte de mí pertenece a ese mundo en ruinas .</ref>
 
 <inp><f id="1">Perhaps</f>  esta reforma no sea más que una estrategia de comunicación .</inp>
-<out><f id="1">A lo mejor</f>  esta reforma no sea más que una estrategia de comunicación .</output>
+<out><f id="1">A lo mejor</f>  esta reforma no sea más que una estrategia de comunicación .</out>
 <ref><f id="1">Quizá<alt>Quizás</alt><alt>Tal vez</alt></f>  esta reforma no sea más que una estrategia de comunicación .</ref>
 
 <inp>La confianza pública en la medicina depende de <f id="1">the honesty</f>  de los profesionales .</inp>
-<out>La confianza pública en la medicina depende de <f id="1">la honestidad</f>  de los profesionales .</output>
+<out>La confianza pública en la medicina depende de <f id="1">la honestidad</f>  de los profesionales .</out>
 <ref>La confianza pública en la medicina depende de <f id="1">la honradez<alt>la honestidad</alt><alt>la sinceridad</alt><alt>la franqueza</alt></f>  de los profesionales .</ref>
 
 <inp>Si no <f id="1">take sufficient measures</f>  , se puede conducir al aislamiento .</inp>
-<out>Si no <f id="1"></f>  , se puede conducir al aislamiento .</output>
+<out>Si no <f id="1"></f>  , se puede conducir al aislamiento .</out>
 <ref>Si no <f id="1">se ponen medios suficientes<alt>tomamos medidas suficientes</alt><alt>se ponen medidas suficientes</alt><alt>tomamos medios suficientes</alt></f>  , se puede conducir al aislamiento .</ref>
 
 <inp>Eso significa que para el gobierno será <f id="1">more difficult</f>  reducir el déficit .</inp>
-<out>Eso significa que para el gobierno será <f id="1">más difícil</f>  reducir el déficit .</output>
+<out>Eso significa que para el gobierno será <f id="1">más difícil</f>  reducir el déficit .</out>
 <ref>Eso significa que para el gobierno será <f id="1">más difícil</f>  reducir el déficit .</ref>
 
 <inp>Corrigieron las faltas <f id="1">in less than</f>  una hora .</inp>
-<out>Corrigieron las faltas <f id="1">en menos de</f>  una hora .</output>
+<out>Corrigieron las faltas <f id="1">en menos de</f>  una hora .</out>
 <ref>Corrigieron las faltas <f id="1">en menos de</f>  una hora .</ref>
 
 <inp>Mi hermana riega las plantas <f id="1">one time per</f>  semana .</inp>
-<out>Mi hermana riega las plantas <f id="1"></f>  semana .</output>
+<out>Mi hermana riega las plantas <f id="1"></f>  semana .</out>
 <ref>Mi hermana riega las plantas <f id="1">una vez por<alt>una vez cada</alt></f>  semana .</ref>
 
 <inp>En la batalla contra las bacterias la guerra está perdida si se emplea <f id="1">brute force</f>  .</inp>
-<out>En la batalla contra las bacterias la guerra está perdida si se emplea <f id="1">la fuerza</f>  .</output>
+<out>En la batalla contra las bacterias la guerra está perdida si se emplea <f id="1">la fuerza</f>  .</out>
 <ref>En la batalla contra las bacterias la guerra está perdida si se emplea <f id="1">fuerza bruta</f>  .</ref>
 
 <inp>Los niños <f id="1">have to be more careful</f>  .</inp>
-<out>Los niños <f id="1"></f>  .</output>
+<out>Los niños <f id="1"></f>  .</out>
 <ref>Los niños <f id="1">deben tener más cuidado<alt>tienen que tener más cuidado</alt><alt>tienen que ser más cuidadosos</alt></f>  .</ref>
 
 <inp>Cuando salen las invitaciones , siempre me envio una <f id="1">to myself</f>  .</inp>
-<out>Cuando salen las invitaciones , seimpre me envio una <f id="1">conmigo</f>  .</output>
+<out>Cuando salen las invitaciones , seimpre me envio una <f id="1">conmigo</f>  .</out>
 <ref>Cuando salen las invitaciones , siempre me envio una <f id="1">a mí mismo<alt>para mí mismo</alt></f>  .</ref>
 
 <inp>El incendio había destruido gran parte <f id="1">of the neighbourhood</f>  .</inp>
-<out>El incendio había destruido gran parte <f id="1">la política de</f>  .</output>
+<out>El incendio había destruido gran parte <f id="1">la política de</f>  .</out>
 <ref>El incendio había destruido gran parte <f id="1">del barrio</f>  .</ref>
 
 <inp>Mi padre siempre <f id="1">brings me</f>  aceite de oliva de España .</inp>
-<out>Mi padre siempre <f id="1">me lleva</f>  aceite de oliva de España .</output>
+<out>Mi padre siempre <f id="1">me lleva</f>  aceite de oliva de España .</out>
 <ref>Mi padre siempre <f id="1">me trae<alt>me lleva</alt></f>  aceite de oliva de España .</ref>
 
 <inp>Todos los veranos vienen muchos turistas <f id="1">to our village</f>  .</inp>
-<out>Todos los veranos vienen muchos turistas <f id="1"></f>  .</output>
+<out>Todos los veranos vienen muchos turistas <f id="1"></f>  .</out>
 <ref>Todos los veranos vienen muchos turistas <f id="1">a nuestro pueblo<alt>a nuestra aldea</alt></f>  .</ref>
 
 <inp><f id="1">It upsets him that</f>  no haya nada que hacer .</inp>
-<out><f id="1"></f>  no haya nada que hacer .</output>
+<out><f id="1"></f>  no haya nada que hacer .</out>
 <ref><f id="1">Le molesta que</f>  no haya nada que hacer .</ref>
 
 <inp>Mi <f id="1">younger brother</f>  siempre me pide dinero .</inp>
-<out>Mi <f id="1">hermano menor,</f>  siempre me pide dinero .</output>
+<out>Mi <f id="1">hermano menor,</f>  siempre me pide dinero .</out>
 <ref>Mi <f id="1">hermano menor</f>  siempre me pide dinero .</ref>
 
 <inp>Un joven que <f id="1">is bored</f>  leyendo es un lector adulto que se ha perdido .</inp>
-<out>Un joven que <f id="1">su</f>  leyendo es un lector adulto que se ha perdido .</output>
+<out>Un joven que <f id="1">su</f>  leyendo es un lector adulto que se ha perdido .</out>
 <ref>Un joven que <f id="1">se aburre</f>  leyendo es un lector adulto que se ha perdido .</ref>
 
 <inp><f id="1">Although</f>  se entremataron abundantemente en las guerras civiles , muchos sobrevivieron .</inp>
-<out><f id="1">empero</f>  se entremataron abundantemente en las guerras civiles , muchos sobrevivieron .</output>
+<out><f id="1">empero</f>  se entremataron abundantemente en las guerras civiles , muchos sobrevivieron .</out>
 <ref><f id="1">Aunque<alt>A pesar de que</alt></f>  se entremataron abundantemente en las guerras civiles , muchos sobrevivieron .</ref>
 
 <inp>Los niños y los jóvenes <f id="1">deserve to</f>  disfrutar de la máxima calidad .</inp>
-<out>Los niños y los jóvenes <f id="1">merecen ser</f>  disfrutar de la máxima calidad .</output>
+<out>Los niños y los jóvenes <f id="1">merecen ser</f>  disfrutar de la máxima calidad .</out>
 <ref>Los niños y los jóvenes <f id="1">merecen</f>  disfrutar de la máxima calidad .</ref>
 
 <inp>Mantengo a nivel mi conocimiento del español <f id="1">reading</f>  mucho .</inp>
-<out>Mantengo a nivel mi conocimiento del español <f id="1">leyendo</f>  mucho .</output>
+<out>Mantengo a nivel mi conocimiento del español <f id="1">leyendo</f>  mucho .</out>
 <ref>Mantengo a nivel mi conocimiento del español <f id="1">leyendo</f>  mucho .</ref>
 
 <inp>Lamento <f id="1">the lack of</f>  espacios verdes .</inp>
-<out>Lamento <f id="1">la falta de</f>  espacios verdes .</output>
+<out>Lamento <f id="1">la falta de</f>  espacios verdes .</out>
 <ref>Lamento <f id="1">la falta de</f>  espacios verdes .</ref>
 
 <inp>El PSOE espera <f id="1">regain the trust</f>  de los españoles .</inp>
-<out>El PSOE espera <f id="1">recuperar la confianza</f>  de los españoles .</output>
+<out>El PSOE espera <f id="1">recuperar la confianza</f>  de los españoles .</out>
 <ref>El PSOE espera <f id="1">recuperar la confianza</f>  de los españoles .</ref>
 
 <inp>Hay inocentes imágenes <f id="1">with a certain degree of</f>  doble sentido .</inp>
-<out>Hay inocentes imágenes <f id="1">con cierto grado de</f>  doble sentido .</output>
+<out>Hay inocentes imágenes <f id="1">con cierto grado de</f>  doble sentido .</out>
 <ref>Hay inocentes imágenes <f id="1">con cierto grado de<alt>con un cierto grado de</alt><alt>con un cierto nivel de</alt></f>  doble sentido .</ref>
 
 <inp>Robert Angus Smith , un químico inglés , <f id="1">first used</f>  la expresión lluvia ácida .</inp>
-<out>Robert Angus Smith , un químico inglés , <f id="1"></f>  la expresión lluvia ácida .</output>
+<out>Robert Angus Smith , un químico inglés , <f id="1"></f>  la expresión lluvia ácida .</out>
 <ref>Robert Angus Smith , un químico inglés , <f id="1">utilizó por primera vez<alt>usó por primera vez</alt></f>  la expresión lluvia ácida .</ref>
 
 <inp>Se necesitan <f id="1">more funds</f>  para ese estudio de mercado .</inp>
-<out>Se necesitan <f id="1">más fondos</f>  para ese estudio de mercado .</output>
+<out>Se necesitan <f id="1">más fondos</f>  para ese estudio de mercado .</out>
 <ref>Se necesitan <f id="1">más fondos<alt>más dinero</alt></f>  para ese estudio de mercado .</ref>
 
 <inp>El representante del sindicato insistió a los trabajadores <f id="1">on strike</f>  a que continuaran presionando a la junta directiva de la empresa .</inp>
-<out>El representante del sindicato insistió a los trabajadores <f id="1">en huelga</f>  a que continuaran presionando a la junta directiva de la empresa .</output>
+<out>El representante del sindicato insistió a los trabajadores <f id="1">en huelga</f>  a que continuaran presionando a la junta directiva de la empresa .</out>
 <ref>El representante del sindicato insistió a los trabajadores <f id="1">en huelga</f>  a que continuaran presionando a la junta directiva de la empresa .</ref>
 
 <inp>Oímos un programa <f id="1">very strange</f>  en la radio .</inp>
-<out>Oímos un programa <f id="1">muy extraño</f>  en la radio .</output>
+<out>Oímos un programa <f id="1">muy extraño</f>  en la radio .</out>
 <ref>Oímos un programa <f id="1">muy extraño<alt>muy curioso</alt><alt>muy raro</alt></f>  en la radio .</ref>
 
 <inp><f id="1">They treated him</f>  con respeto porque era muy rico .</inp>
-<out><f id="1"></f>  con respeto porque era muy rico .</output>
+<out><f id="1"></f>  con respeto porque era muy rico .</out>
 <ref><f id="1">Le trataban<alt>Le trataron</alt></f>  con respeto porque era muy rico .</ref>
 
 <inp>En la actualidad se cuenta con la medicina <f id="1">most advanced</f>  .</inp>
-<out>En la actualidad se cuenta con la medicina <f id="1">más avanzada</f>  .</output>
+<out>En la actualidad se cuenta con la medicina <f id="1">más avanzada</f>  .</out>
 <ref>En la actualidad se cuenta con la medicina <f id="1">más avanzada</f>  .</ref>
 
 <inp>Sus físicas le permitieron <f id="1">longevity</f>  extraordinaria .</inp>
-<out>Sus físicas le permitieron <f id="1">longevidad</f>  extraordinaria .</output>
+<out>Sus físicas le permitieron <f id="1">longevidad</f>  extraordinaria .</out>
 <ref>Sus físicas le permitieron <f id="1">una longevidad</f>  extraordinaria .</ref>
 
 <inp>Si era así , el dragón tenía que ser muy poderoso , y muy difícil <f id="1">to</f>  vencer .</inp>
-<out>Si era así , el dragón tenía que ser muy poderoso , y muy difícil <f id="1">a predicar y difundir el Evangelio, a</f>  vencer .</output>
+<out>Si era así , el dragón tenía que ser muy poderoso , y muy difícil <f id="1">a predicar y difundir el Evangelio, a</f>  vencer .</out>
 <ref>Si era así , el dragón tenía que ser muy poderoso , y muy difícil <f id="1">de</f>  vencer .</ref>
 
 <inp>De nuevo , el hombre <f id="1">has played a role</f>  en esta expansión de especies extranjeras .</inp>
-<out>De nuevo , el hombre <f id="1">ación.</f>  en esta expansión de especies extranjeras .</output>
+<out>De nuevo , el hombre <f id="1">ación.</f>  en esta expansión de especies extranjeras .</out>
 <ref>De nuevo , el hombre <f id="1">ha jugado un papel<alt>ha desempeñado un papel</alt><alt>ha representado un papel</alt></f>  en esta expansión de especies extranjeras .</ref>
 
 <inp>Y hacer un mayor esfuerzo <f id="1">to try to</f>  alcanzar una mayor competitividad .</inp>
-<out>Y hacer un mayor esfuerzo <f id="1">tratar de</f>  alcanzar una mayor competitividad .</output>
+<out>Y hacer un mayor esfuerzo <f id="1">tratar de</f>  alcanzar una mayor competitividad .</out>
 <ref>Y hacer un mayor esfuerzo <f id="1">para intentar<alt>para tratar de</alt></f>  alcanzar una mayor competitividad .</ref>
 
 <inp>No permiten <f id="1">to smoke</f>  en este local .</inp>
-<out>No permiten <f id="1">fumar</f>  en este local .</output>
+<out>No permiten <f id="1">fumar</f>  en este local .</out>
 <ref>No permiten <f id="1">fumar</f>  en este local .</ref>
 
 <inp>Lo hizo <f id="1">in</f>  sólo dos horas .</inp>
-<out>Lo hizo <f id="1">adentro</f>  sólo dos horas .</output>
+<out>Lo hizo <f id="1">adentro</f>  sólo dos horas .</out>
 <ref>Lo hizo <f id="1">en<alt>dentro de</alt></f>  sólo dos horas .</ref>
 
 <inp>Treinta días después de haber sufrido un atraco , un joven reconoce a su <f id="1">presumed</f>  atracador .</inp>
-<out>Treinta días después de haber sufrido un atraco , un joven reconoce a su <f id="1">supusiste</f>  atracador .</output>
+<out>Treinta días después de haber sufrido un atraco , un joven reconoce a su <f id="1">supusiste</f>  atracador .</out>
 <ref>Treinta días después de haber sufrido un atraco , un joven reconoce a su <f id="1">presunto<alt>supuesto</alt></f>  atracador .</ref>
 
 <inp>Nunca se besan <f id="1">in public</f>  .</inp>
-<out>Nunca se besan <f id="1">públicamente</f>  .</output>
+<out>Nunca se besan <f id="1">públicamente</f>  .</out>
 <ref>Nunca se besan <f id="1">en público</f>  .</ref>
 
 <inp>La nueva carretera de circunvalación de la ciudad de Málaga <f id="1">has been completed</f>  este jueves .</inp>
-<out>La nueva carretera de circunvalación de la ciudad de Málaga <f id="1">se ha completado</f>  este jueves .</output>
+<out>La nueva carretera de circunvalación de la ciudad de Málaga <f id="1">se ha completado</f>  este jueves .</out>
 <ref>La nueva carretera de circunvalación de la ciudad de Málaga <f id="1">ha sido completada<alt>se ha completado</alt></f>  este jueves .</ref>
 
 <inp>Nunca había visto <f id="1">so many people</f>  en el hogar .</inp>
-<out>Nunca había visto <f id="1">bien hay que</f>  en el hogar .</output>
+<out>Nunca había visto <f id="1">bien hay que</f>  en el hogar .</out>
 <ref>Nunca había visto <f id="1">tanta gente<alt>tantas personas</alt></f>  en el hogar .</ref>
 
 <inp>El <f id="1">poor elephant</f>  va a morir .</inp>
-<out>El <f id="1"></f>  va a morir .</output>
+<out>El <f id="1"></f>  va a morir .</out>
 <ref>El <f id="1">pobre elefante</f>  va a morir .</ref>
 
 <inp>En primavera hay tantos <f id="1">birds</f>  en el castaño que me despiertan por la mañana .</inp>
-<out>En primavera hay tantos <f id="1">aves</f>  en el castaño que me despiertan por la mañana .</output>
+<out>En primavera hay tantos <f id="1">aves</f>  en el castaño que me despiertan por la mañana .</out>
 <ref>En primavera hay tantos <f id="1">pájaros</f>  en el castaño que me despiertan por la mañana .</ref>
 
 <inp>Tienes que tener más confianza <f id="1">in yourself</f>  .</inp>
-<out>Tienes que tener más confianza <f id="1"></f>  .</output>
+<out>Tienes que tener más confianza <f id="1"></f>  .</out>
 <ref>Tienes que tener más confianza <f id="1">en ti mismo</f>  .</ref>
 
 <inp>Activar <f id="1">the circulatory system</f>  de esta manera es necesario para la prevención de resfriados y para la salud de las arterias .</inp>
-<out>Activar <f id="1"></f>  de esta manera es necesario para la prevención de resfriados y para la salud de las arterias .</output>
+<out>Activar <f id="1"></f>  de esta manera es necesario para la prevención de resfriados y para la salud de las arterias .</out>
 <ref>Activar <f id="1">el sistema circulatorio</f>  de esta manera es necesario para la prevención de resfriados y para la salud de las arterias .</ref>
 
 <inp><f id="1">On the left</f>  se encuentra el Palacio Real .</inp>
-<out><f id="1">a la izquierda</f>  se encuentra el Palacio Real .</output>
+<out><f id="1">a la izquierda</f>  se encuentra el Palacio Real .</out>
 <ref><f id="1">A la izquierda</f>  se encuentra el Palacio Real .</ref>
 
 <inp>La policía cree que los asesinatos de las dos mujeres pueden haber sido obra de <f id="1">a serial killer</f>  , pero recalca que aún es pronto para llegar a esta conclusión .</inp>
-<out>La policía cree que los asesinatos de las dos mujeres pueden haber sido obra de <f id="1"></f>  , pero recalca que aún es pronto para llegar a esta conclusión .</output>
+<out>La policía cree que los asesinatos de las dos mujeres pueden haber sido obra de <f id="1"></f>  , pero recalca que aún es pronto para llegar a esta conclusión .</out>
 <ref>La policía cree que los asesinatos de las dos mujeres pueden haber sido obra de <f id="1">un asesino en serie</f>  , pero recalca que aún es pronto para llegar a esta conclusión .</ref>
 
 <inp>No me gusta ese <f id="1">smell</f>  de azufre .</inp>
-<out>No me gusta ese <f id="1">olor</f>  de azufre .</output>
+<out>No me gusta ese <f id="1">olor</f>  de azufre .</out>
 <ref>No me gusta ese <f id="1">olor</f>  de azufre .</ref>
 
 <inp>Se espera centralizar los paquetes disponibles <f id="1">increasing</f>  la presión a la Administración española .</inp>
-<out>Se espera centralizar los paquetes disponibles <f id="1">engrandeciendo</f>  la presión a la Administración española .</output>
+<out>Se espera centralizar los paquetes disponibles <f id="1">engrandeciendo</f>  la presión a la Administración española .</out>
 <ref>Se espera centralizar los paquetes disponibles <f id="1">aumentando</f>  la presión a la Administración española .</ref>
 
 <inp>Joaquín <f id="1">left his room</f>  y bajó al comedor .</inp>
-<out>Joaquín <f id="1"></f>  y bajó al comedor .</output>
+<out>Joaquín <f id="1"></f>  y bajó al comedor .</out>
 <ref>Joaquín <f id="1">salió de su cuarto</f>  y bajó al comedor .</ref>
 
 <inp>No me vas a convencer , es inútil que lo repitas <f id="1">again</f>  , ya te he oído bien la primera vez .</inp>
-<out>No me vas a convencer , es inútil que lo repitas <f id="1">de nuevo</f>  , ya te he oído bien la primera vez .</output>
+<out>No me vas a convencer , es inútil que lo repitas <f id="1">de nuevo</f>  , ya te he oído bien la primera vez .</out>
 <ref>No me vas a convencer , es inútil que lo repitas <f id="1">otra vez<alt>de nuevo</alt></f>  , ya te he oído bien la primera vez .</ref>
 
 <inp>El divorcio , por ejemplo , <f id="1">has made possible</f>  que el matrimonio no sea forzosamente para toda la vida .</inp>
-<out>El divorcio , por ejemplo , <f id="1">de la unión</f>  que el matrimonio no sea forzosamente para toda la vida .</output>
+<out>El divorcio , por ejemplo , <f id="1">de la unión</f>  que el matrimonio no sea forzosamente para toda la vida .</out>
 <ref>El divorcio , por ejemplo , <f id="1">ha posibilitado<alt>ha hecho posible</alt><alt>ha permitido</alt><alt>ha hecho posible</alt></f>  que el matrimonio no sea forzosamente para toda la vida .</ref>
 
 <inp>Joaquín estaba en su cuarto , <f id="1">reading</f>  un libro sobre la historia de los mundiales de fútbol .</inp>
-<out>Joaquín estaba en su cuarto , <f id="1">leyendo</f>  un libro sobre la historia de los mundiales de fútbol .</output>
+<out>Joaquín estaba en su cuarto , <f id="1">leyendo</f>  un libro sobre la historia de los mundiales de fútbol .</out>
 <ref>Joaquín estaba en su cuarto , <f id="1">leyendo</f>  un libro sobre la historia de los mundiales de fútbol .</ref>
 
 <inp><f id="1">During</f>  el desfile se pidió silencio y se apeló al respeto hacia los militares .</inp>
-<out><f id="1">durante</f>  el desfile se pidió silencio y se apeló al respeto hacia los militares .</output>
+<out><f id="1">durante</f>  el desfile se pidió silencio y se apeló al respeto hacia los militares .</out>
 <ref><f id="1">Durante</f>  el desfile se pidió silencio y se apeló al respeto hacia los militares .</ref>
 
 <inp>Ya caen hojas <f id="1">everywhere</f>  en nuestro jardín .</inp>
-<out>Ya caen hojas <f id="1">en todas partes</f>  en nuestro jardín .</output>
+<out>Ya caen hojas <f id="1">en todas partes</f>  en nuestro jardín .</out>
 <ref>Ya caen hojas <f id="1">por todas partes</f>  en nuestro jardín .</ref>
 
 <inp>Si ellos no <f id="1">receive treatment</f>  , pueden seguir transmitiendo la infección a otras personas .</inp>
-<out>Si ellos no <f id="1">tratamiento en</f>  , pueden seguir transmitiendo la infección a otras personas .</output>
+<out>Si ellos no <f id="1">tratamiento en</f>  , pueden seguir transmitiendo la infección a otras personas .</out>
 <ref>Si ellos no <f id="1">reciben tratamiento</f>  , pueden seguir transmitiendo la infección a otras personas .</ref>
 
 <inp>Esta universidad tiene sedes en Piamonte y Emilia Romana , <f id="1">both</f>  al norte del país .</inp>
-<out>Esta universidad tiene sedes en Piamonte y Emilia Romana , <f id="1">Ambos</f>  al norte del país .</output>
+<out>Esta universidad tiene sedes en Piamonte y Emilia Romana , <f id="1">Ambos</f>  al norte del país .</out>
 <ref>Esta universidad tiene sedes en Piamonte y Emilia Romana , <f id="1">ambas</f>  al norte del país .</ref>
 
 <inp>La empresa Nuevas Tecnologias y Energias Catala ( NT-K ) ha ganado el recurso interpuesto contra <f id="1">the sentence</f>  de 2010 de un tribunal municipal que dictaba que NT-K no continuara importando a España la tableta que fabricaba en China .</inp>
-<out>La empresa Nuevas Tecnologias y Energias Catala ( NT-K ) ha ganado el recurso interpuesto contra <f id="1">frase que</f>  de 2010 de un tribunal municipal que dictaba que NT-K no continuara importando a España la tableta que fabricaba en China .</output>
+<out>La empresa Nuevas Tecnologias y Energias Catala ( NT-K ) ha ganado el recurso interpuesto contra <f id="1">frase que</f>  de 2010 de un tribunal municipal que dictaba que NT-K no continuara importando a España la tableta que fabricaba en China .</out>
 <ref>La empresa Nuevas Tecnologias y Energias Catala ( NT-K ) ha ganado el recurso interpuesto contra <f id="1">la sentencia<alt>la condena</alt></f>  de 2010 de un tribunal municipal que dictaba que NT-K no continuara importando a España la tableta que fabricaba en China .</ref>
 
 <inp>La elevación de la temperatura de las aguas fue reconocida por <f id="1">fishermen</f>  peruanos .</inp>
-<out>La elevación de la temperatura de las aguas fue reconocida por <f id="1"></f>  peruanos .</output>
+<out>La elevación de la temperatura de las aguas fue reconocida por <f id="1"></f>  peruanos .</out>
 <ref>La elevación de la temperatura de las aguas fue reconocida por <f id="1">pescadores</f>  peruanos .</ref>
 
 <inp>Llueve <f id="1">less</f>  y cada vez más personas viven cerca del mar .</inp>
-<out>Llueve <f id="1">poco</f>  y cada vez más personas viven cerca del mar .</output>
+<out>Llueve <f id="1">poco</f>  y cada vez más personas viven cerca del mar .</out>
 <ref>Llueve <f id="1">menos</f>  y cada vez más personas viven cerca del mar .</ref>
 
 <inp>Los vehículos circulan con absoluta normalidad <f id="1">thanks to</f>  la red de túneles que recorre toda la ciudad .</inp>
-<out>Los vehículos circulan con absoluta normalidad <f id="1">gracias a</f>  la red de túneles que recorre toda la ciudad .</output>
+<out>Los vehículos circulan con absoluta normalidad <f id="1">gracias a</f>  la red de túneles que recorre toda la ciudad .</out>
 <ref>Los vehículos circulan con absoluta normalidad <f id="1">gracias a<alt>debido a</alt></f>  la red de túneles que recorre toda la ciudad .</ref>
 
 <inp>Este <f id="1">increase</f>  ha propiciado el saneamento financiero de las empresas .</inp>
-<out>Este <f id="1">acrecentar</f>  ha propiciado el saneamento financiero de las empresas .</output>
+<out>Este <f id="1">acrecentar</f>  ha propiciado el saneamento financiero de las empresas .</out>
 <ref>Este <f id="1">aumento<alt>incremento</alt><alt>crecimiento</alt></f>  ha propiciado el saneamento financiero de las empresas .</ref>
 
 <inp>Sí , pero <f id="1">do n't worry</f>  , es sólo un niño .</inp>
-<out>Sí , pero <f id="1">l pacto de estabilidad</f>  , es sólo un niño .</output>
+<out>Sí , pero <f id="1">l pacto de estabilidad</f>  , es sólo un niño .</out>
 <ref>Sí , pero <f id="1">no te inquietes<alt>no te preocupes</alt><alt>no se preocupe</alt><alt>no hay que preocuparse</alt><alt>no se preocupen</alt></f>  , es sólo un niño .</ref>
 
 <inp>El niño <f id="1">does as if</f>  bebiera de una taza .</inp>
-<out>El niño <f id="1"></f>  bebiera de una taza .</output>
+<out>El niño <f id="1"></f>  bebiera de una taza .</out>
 <ref>El niño <f id="1">hace como si</f>  bebiera de una taza .</ref>
 
 <inp><f id="1">It is a pity</f>  que ellos no vuelvan más pronto .</inp>
-<out><f id="1">es una pena que</f>  que ellos no vuelvan más pronto .</output>
+<out><f id="1">es una pena que</f>  que ellos no vuelvan más pronto .</out>
 <ref><f id="1">Es una lástima<alt>Es una pena</alt><alt>Es lamentable</alt></f>  que ellos no vuelvan más pronto .</ref>
 
 <inp>El dentista me sacó dos <f id="1">molars</f>  .</inp>
-<out>El dentista me sacó dos <f id="1">Molar</f>  .</output>
+<out>El dentista me sacó dos <f id="1">Molar</f>  .</out>
 <ref>El dentista me sacó dos <f id="1">muelas</f>  .</ref>
 
 <inp>Pero a la una y cuarto se abrió la puerta y <f id="1">appeared</f>  el hombre .</inp>
-<out>Pero a la una y cuarto se abrió la puerta y <f id="1">comparecí</f>  el hombre .</output>
+<out>Pero a la una y cuarto se abrió la puerta y <f id="1">comparecí</f>  el hombre .</out>
 <ref>Pero a la una y cuarto se abrió la puerta y <f id="1">apareció</f>  el hombre .</ref>
 
 <inp>Es dificil <f id="1">foresee</f>  en este momento todas las consecuencias .</inp>
-<out>Es dificil <f id="1">anticipar</f>  en este momento todas las consecuencias .</output>
+<out>Es dificil <f id="1">anticipar</f>  en este momento todas las consecuencias .</out>
 <ref>Es dificil <f id="1">prever</f>  en este momento todas las consecuencias .</ref>
 
 <inp>Ossip <f id="1">will follow you</f>  a dos metros de distancia .</inp>
-<out>Ossip <f id="1"></f>  a dos metros de distancia .</output>
+<out>Ossip <f id="1"></f>  a dos metros de distancia .</out>
 <ref>Ossip <f id="1">te seguirá</f>  a dos metros de distancia .</ref>
 
 <inp>La calle donde vivo está <f id="1">close to</f>  la oficina .</inp>
-<out>La calle donde vivo está <f id="1">a los</f>  la oficina .</output>
+<out>La calle donde vivo está <f id="1">a los</f>  la oficina .</out>
 <ref>La calle donde vivo está <f id="1">cerca de</f>  la oficina .</ref>
 
 <inp>El líder <f id="1">xenophobic</f>  Wilders propone que Holanda abandone la UE .</inp>
-<out>El líder <f id="1">xenófobo</f>  Wilders propone que Holanda abandone la UE .</output>
+<out>El líder <f id="1">xenófobo</f>  Wilders propone que Holanda abandone la UE .</out>
 <ref>El líder <f id="1">xenófobo</f>  Wilders propone que Holanda abandone la UE .</ref>
 
 <inp><f id="1">It seems that</f>  entre tú y yo nos hemos bebido las dos botellas .</inp>
-<out><f id="1">parece ser que</f>  entre tú y yo nos hemos bebido las dos botellas .</output>
+<out><f id="1">parece ser que</f>  entre tú y yo nos hemos bebido las dos botellas .</out>
 <ref><f id="1">Parece que</f>  entre tú y yo nos hemos bebido las dos botellas .</ref>
 
 <inp>No hay niño <f id="1">better</f>  que él , no llora nunca .</inp>
-<out>No hay niño <f id="1">preferible</f>  que él , no llora nunca .</output>
+<out>No hay niño <f id="1">preferible</f>  que él , no llora nunca .</out>
 <ref>No hay niño <f id="1">mejor</f>  que él , no llora nunca .</ref>
 
 <inp>El interés del menor prevalece sobre <f id="1">any other</f>  .</inp>
-<out>El interés del menor prevalece sobre <f id="1">ningún otro</f>  .</output>
+<out>El interés del menor prevalece sobre <f id="1">ningún otro</f>  .</out>
 <ref>El interés del menor prevalece sobre <f id="1">cualquier otro</f>  .</ref>
 
 <inp>Es ese momento <f id="1">happened</f>  dos cosas .</inp>
-<out>Es ese momento <f id="1">ocurriste</f>  dos cosas .</output>
+<out>Es ese momento <f id="1">ocurriste</f>  dos cosas .</out>
 <ref>Es ese momento <f id="1">sucedieron<alt>pasaron</alt></f>  dos cosas .</ref>
 
 <inp>En caso de que tuviera lugar la formación de una nueva isla , se podría convertir en una atracción <f id="1">first degree</f>  , como apuntan las expectativas .</inp>
-<out>En caso de que tuviera lugar la formación de una nueva isla , se podría convertir en una atracción <f id="1">Al principio</f>  , como apuntan las expectativas .</output>
+<out>En caso de que tuviera lugar la formación de una nueva isla , se podría convertir en una atracción <f id="1">Al principio</f>  , como apuntan las expectativas .</out>
 <ref>En caso de que tuviera lugar la formación de una nueva isla , se podría convertir en una atracción <f id="1">de primer orden<alt>de primer grado</alt><alt>de primer grado</alt></f>  , como apuntan las expectativas .</ref>
 
 <inp>Para parar este modo de grabar , <f id="1">push</f>  la tecla PARAR , o bien PAUSA .</inp>
-<out>Para parar este modo de grabar , <f id="1">empujar</f>  la tecla PARAR , o bien PAUSA .</output>
+<out>Para parar este modo de grabar , <f id="1">empujar</f>  la tecla PARAR , o bien PAUSA .</out>
 <ref>Para parar este modo de grabar , <f id="1">pulse</f>  la tecla PARAR , o bien PAUSA .</ref>
 
 <inp>Ya se lo dije <f id="1">before</f>  .</inp>
-<out>Ya se lo dije <f id="1">antes</f>  .</output>
+<out>Ya se lo dije <f id="1">antes</f>  .</out>
 <ref>Ya se lo dije <f id="1">antes</f>  .</ref>
 
 <inp>Dicen que <f id="1">the biggest danger</f>  está en los Ayuntamientos .</inp>
-<out>Dicen que <f id="1"></f>  está en los Ayuntamientos .</output>
+<out>Dicen que <f id="1"></f>  está en los Ayuntamientos .</out>
 <ref>Dicen que <f id="1">el mayor peligro<alt>el peligro más grande</alt></f>  está en los Ayuntamientos .</ref>
 
 <inp>Nuestra <f id="1">birthrate</f>  es baja y la población envejece .</inp>
-<out>Nuestra <f id="1"></f>  es baja y la población envejece .</output>
+<out>Nuestra <f id="1"></f>  es baja y la población envejece .</out>
 <ref>Nuestra <f id="1">tasa de natalidad</f>  es baja y la población envejece .</ref>
 
 <inp>¿ Cuál es el precio <f id="1">per hour</f>  ?</inp>
-<out>¿ Cuál es el precio <f id="1">de la</f>  ?</output>
+<out>¿ Cuál es el precio <f id="1">de la</f>  ?</out>
 <ref>¿ Cuál es el precio <f id="1">por hora</f>  ?</ref>
 
 <inp>El libro <f id="1">is written</f>  en el español del siglo XVI .</inp>
-<out>El libro <f id="1">que está</f>  en el español del siglo XVI .</output>
+<out>El libro <f id="1">que está</f>  en el español del siglo XVI .</out>
 <ref>El libro <f id="1">está escrito</f>  en el español del siglo XVI .</ref>
 
 <inp><f id="1">At last</f>  pude hablar con ella .</inp>
-<out><f id="1">al fin</f>  pude hablar con ella .</output>
+<out><f id="1">al fin</f>  pude hablar con ella .</out>
 <ref><f id="1">Por fin<alt>Finalmente</alt></f>  pude hablar con ella .</ref>
 
 <inp>Había tan poca que , tratara como tratara , no podía alcanzarla con su <f id="1">beak</f>  .</inp>
-<out>Había tan poca que , tratara como tratara , no podía alcanzarla con su <f id="1">pico</f>  .</output>
+<out>Había tan poca que , tratara como tratara , no podía alcanzarla con su <f id="1">pico</f>  .</out>
 <ref>Había tan poca que , tratara como tratara , no podía alcanzarla con su <f id="1">pico</f>  .</ref>
 
 <inp>La construcción de este nuevo <f id="1">railway</f>  acabará conectando el Norte de África con las grandes ciudades .</inp>
-<out>La construcción de este nuevo <f id="1">ferrocarril</f>  acabará conectando el Norte de África con las grandes ciudades .</output>
+<out>La construcción de este nuevo <f id="1">ferrocarril</f>  acabará conectando el Norte de África con las grandes ciudades .</out>
 <ref>La construcción de este nuevo <f id="1">ferrocarril<alt>ferroviario</alt></f>  acabará conectando el Norte de África con las grandes ciudades .</ref>
 
 <inp>Fuentes <f id="1">reliable</f>  afirman que fue así como sucedió .</inp>
-<out>Fuentes <f id="1">fidedigna</f>  afirman que fue así como sucedió .</output>
+<out>Fuentes <f id="1">fidedigna</f>  afirman que fue así como sucedió .</out>
 <ref>Fuentes <f id="1">fiables<alt>confiables</alt></f>  afirman que fue así como sucedió .</ref>
 
 <inp>A pesar de <f id="1">the measures</f>  , a los jóvenes les es más difícil acceder al empleo .</inp>
-<out>A pesar de <f id="1">las medidas</f>  , a los jóvenes les es más difícil acceder al empleo .</output>
+<out>A pesar de <f id="1">las medidas</f>  , a los jóvenes les es más difícil acceder al empleo .</out>
 <ref>A pesar de <f id="1">las medidas</f>  , a los jóvenes les es más difícil acceder al empleo .</ref>
 
 <inp>Mañana vamos a <f id="1">the swimming pool</f>  .</inp>
-<out>Mañana vamos a <f id="1">a de la</f>  .</output>
+<out>Mañana vamos a <f id="1">a de la</f>  .</out>
 <ref>Mañana vamos a <f id="1">la piscina</f>  .</ref>
 
 <inp>Mi sobrina y yo <f id="1">are much alike</f>  .</inp>
-<out>Mi sobrina y yo <f id="1"></f>  .</output>
+<out>Mi sobrina y yo <f id="1"></f>  .</out>
 <ref>Mi sobrina y yo <f id="1">nos parecemos mucho<alt>somos parecidos</alt></f>  .</ref>
 
 <inp>La gente quiere <f id="1">relax</f>  durante las vacaciones .</inp>
-<out>La gente quiere <f id="1">relajarse</f>  durante las vacaciones .</output>
+<out>La gente quiere <f id="1">relajarse</f>  durante las vacaciones .</out>
 <ref>La gente quiere <f id="1">descansar<alt>relajarse</alt></f>  durante las vacaciones .</ref>
 
 <inp>Un cuervo <f id="1">thirsty</f>  encontró un cántaro con algo de agua .</inp>
-<out>Un cuervo <f id="1">sediento</f>  encontró un cántaro con algo de agua .</output>
+<out>Un cuervo <f id="1">sediento</f>  encontró un cántaro con algo de agua .</out>
 <ref>Un cuervo <f id="1">sediento</f>  encontró un cántaro con algo de agua .</ref>
 
 <inp>El 12 de octubre de 1492 <f id="1">arrived</f>  Colón al continente americano .</inp>
-<out>El 12 de octubre de 1492 <f id="1">llegué</f>  Colón al continente americano .</output>
+<out>El 12 de octubre de 1492 <f id="1">llegué</f>  Colón al continente americano .</out>
 <ref>El 12 de octubre de 1492 <f id="1">llegó<alt>llega</alt></f>  Colón al continente americano .</ref>
 
 <inp>Después de un accidente se rellenan los formularios necesarios para <f id="1">the insurance companies</f>  .</inp>
-<out>Después de un accidente se rellenan los formularios necesarios para <f id="1">las compañías de</f>  .</output>
+<out>Después de un accidente se rellenan los formularios necesarios para <f id="1">las compañías de</f>  .</out>
 <ref>Después de un accidente se rellenan los formularios necesarios para <f id="1">las compañías de seguros<alt>las aseguradoras</alt><alt>las empresas de seguros</alt></f>  .</ref>
 
 <inp>Los analistas opinan que la empresa no está <f id="1">in risk of</f>  sucumbir .</inp>
-<out>Los analistas opinan que la empresa no está <f id="1">el riesgo de</f>  sucumbir .</output>
+<out>Los analistas opinan que la empresa no está <f id="1">el riesgo de</f>  sucumbir .</out>
 <ref>Los analistas opinan que la empresa no está <f id="1">en riesgo de<alt>en peligro de</alt></f>  sucumbir .</ref>
 
 <inp>Recientemente se confirmó la participación de una serie de actores en la vigésimo tercera <f id="1">film</f>  de James Bond .</inp>
-<out>Recientemente se confirmó la participación de una serie de actores en la vigésimo tercera <f id="1">film</f>  de James Bond .</output>
+<out>Recientemente se confirmó la participación de una serie de actores en la vigésimo tercera <f id="1">film</f>  de James Bond .</out>
 <ref>Recientemente se confirmó la participación de una serie de actores en la vigésimo tercera <f id="1">película</f>  de James Bond .</ref>
 
 <inp>Puedes escoger <f id="1">any</f>  libro .</inp>
-<out>Puedes escoger <f id="1">alguno</f>  libro .</output>
+<out>Puedes escoger <f id="1">alguno</f>  libro .</out>
 <ref>Puedes escoger <f id="1">cualquier</f>  libro .</ref>
 
 <inp>La señorita <f id="1">who</f>  preguntó por ti es muy guapa .</inp>
-<out>La señorita <f id="1">cuáles</f>  preguntó por ti es muy guapa .</output>
+<out>La señorita <f id="1">cuáles</f>  preguntó por ti es muy guapa .</out>
 <ref>La señorita <f id="1">que</f>  preguntó por ti es muy guapa .</ref>
 
 <inp>Yo no <f id="1">paid the bill</f>  , porque no tenía suficiente dinero .</inp>
-<out>Yo no <f id="1"></f>  , porque no tenía suficiente dinero .</output>
+<out>Yo no <f id="1"></f>  , porque no tenía suficiente dinero .</out>
 <ref>Yo no <f id="1">pagué la cuenta<alt>pagué la factura</alt></f>  , porque no tenía suficiente dinero .</ref>
 
 <inp>Querer a dos mujeres <f id="1">at the same time</f>  era comun para él .</inp>
-<out>Querer a dos mujeres <f id="1">Al mismo tiempo</f>  era comun para él .</output>
+<out>Querer a dos mujeres <f id="1">Al mismo tiempo</f>  era comun para él .</out>
 <ref>Querer a dos mujeres <f id="1">a la vez<alt>al mismo tiempo</alt></f>  era comun para él .</ref>
 
 <inp><f id="1">The domino effect</f>  sobre la economía del país sería inmediato .</inp>
-<out><f id="1"></f>  sobre la economía del país sería inmediato .</output>
+<out><f id="1"></f>  sobre la economía del país sería inmediato .</out>
 <ref><f id="1">El efecto dominó</f>  sobre la economía del país sería inmediato .</ref>
 
 <inp>Vivimos <f id="1">together</f>  desde hace uns meses .</inp>
-<out>Vivimos <f id="1">junto</f>  desde hace uns meses .</output>
+<out>Vivimos <f id="1">junto</f>  desde hace uns meses .</out>
 <ref>Vivimos <f id="1">juntos</f>  desde hace uns meses .</ref>
 
 <inp>España sería uno de <f id="1">the western countries</f>  mas perjudicados en el caso de una recesión económica mundial .</inp>
-<out>España sería uno de <f id="1"></f>  mas perjudicados en el caso de una recesión económica mundial .</output>
+<out>España sería uno de <f id="1"></f>  mas perjudicados en el caso de una recesión económica mundial .</out>
 <ref>España sería uno de <f id="1">los países occidentales</f>  mas perjudicados en el caso de una recesión económica mundial .</ref>
 
 <inp>El gobierno <f id="1">hopes that</f>  las nuevas iniciativas se aprueben lo antes posible .</inp>
-<out>El gobierno <f id="1">espera que</f>  las nuevas iniciativas se aprueben lo antes posible .</output>
+<out>El gobierno <f id="1">espera que</f>  las nuevas iniciativas se aprueben lo antes posible .</out>
 <ref>El gobierno <f id="1">espera que</f>  las nuevas iniciativas se aprueben lo antes posible .</ref>
 
 <inp>En política interior , Alemania <f id="1">turns towards</f>  el centro .</inp>
-<out>En política interior , Alemania <f id="1"></f>  el centro .</output>
+<out>En política interior , Alemania <f id="1"></f>  el centro .</out>
 <ref>En política interior , Alemania <f id="1">gira hacia</f>  el centro .</ref>
 
 <inp>Ese político es <f id="1">worse</f>  que el diablo .</inp>
-<out>Ese político es <f id="1">malo</f>  que el diablo .</output>
+<out>Ese político es <f id="1">malo</f>  que el diablo .</out>
 <ref>Ese político es <f id="1">peor</f>  que el diablo .</ref>
 
 <inp>Un día descubrí que entre mis <f id="1">ancestors</f>  había un historiador y profesor universitario .</inp>
-<out>Un día descubrí que entre mis <f id="1">antepasados</f>  había un historiador y profesor universitario .</output>
+<out>Un día descubrí que entre mis <f id="1">antepasados</f>  había un historiador y profesor universitario .</out>
 <ref>Un día descubrí que entre mis <f id="1">antepasados</f>  había un historiador y profesor universitario .</ref>
 
 <inp>Se puede llamar al Rey en cualquier momento <f id="1">in case of</f>  necesidad .</inp>
-<out>Se puede llamar al Rey en cualquier momento <f id="1">en caso de</f>  necesidad .</output>
+<out>Se puede llamar al Rey en cualquier momento <f id="1">en caso de</f>  necesidad .</out>
 <ref>Se puede llamar al Rey en cualquier momento <f id="1">en caso de</f>  necesidad .</ref>
 
 <inp>Los estudiantes exigen que el Estado les dé <f id="1">an equal salary</f>  .</inp>
-<out>Los estudiantes exigen que el Estado les dé <f id="1"></f>  .</output>
+<out>Los estudiantes exigen que el Estado les dé <f id="1"></f>  .</out>
 <ref>Los estudiantes exigen que el Estado les dé <f id="1">un sueldo igual<alt>un salario igual</alt><alt>igualdad de salario</alt><alt>igual remuneración</alt></f>  .</ref>
 
 <inp>En <f id="1">the kitchen</f>  hay comida .</inp>
-<out>En <f id="1">la cocina,</f>  hay comida .</output>
+<out>En <f id="1">la cocina,</f>  hay comida .</out>
 <ref>En <f id="1">la cocina</f>  hay comida .</ref>
 
 <inp>Es posible que la lotería <f id="1">turns me into</f>  el hombre más rico del mundo .</inp>
-<out>Es posible que la lotería <f id="1"></f>  el hombre más rico del mundo .</output>
+<out>Es posible que la lotería <f id="1"></f>  el hombre más rico del mundo .</out>
 <ref>Es posible que la lotería <f id="1">me convierta en</f>  el hombre más rico del mundo .</ref>
 
 <inp>Los huelguistas <f id="1">oppose</f>  la privatización de AENA .</inp>
-<out>Los huelguistas <f id="1">contraponer</f>  la privatización de AENA .</output>
+<out>Los huelguistas <f id="1">contraponer</f>  la privatización de AENA .</out>
 <ref>Los huelguistas <f id="1">se oponen a</f>  la privatización de AENA .</ref>
 
 <inp>Yo estaba bastante <f id="1">drunk</f>  y vos apareciste en la esquina y nos quedamos mirándonos como idiotas .</inp>
-<out>Yo estaba bastante <f id="1">bebido</f>  y vos apareciste en la esquina y nos quedamos mirándonos como idiotas .</output>
+<out>Yo estaba bastante <f id="1">bebido</f>  y vos apareciste en la esquina y nos quedamos mirándonos como idiotas .</out>
 <ref>Yo estaba bastante <f id="1">borracho<alt>borracha</alt><alt>bebido</alt></f>  y vos apareciste en la esquina y nos quedamos mirándonos como idiotas .</ref>
 
 <inp><f id="1">Do n't put</f>  los codos en la mesa .</inp>
-<out><f id="1"></f>  los codos en la mesa .</output>
+<out><f id="1"></f>  los codos en la mesa .</out>
 <ref><f id="1">No pongas</f>  los codos en la mesa .</ref>
 
 <inp>Aunque volcanes e <f id="1">fires</f>  también contaminen , el fenómeno de la lluvia ácida surge con la revolución industrial .</inp>
-<out>Aunque volcanes e <f id="1">despide</f>  también contaminen , el fenómeno de la lluvia ácida surge con la revolución industrial .</output>
+<out>Aunque volcanes e <f id="1">despide</f>  también contaminen , el fenómeno de la lluvia ácida surge con la revolución industrial .</out>
 <ref>Aunque volcanes e <f id="1">incendios</f>  también contaminen , el fenómeno de la lluvia ácida surge con la revolución industrial .</ref>
 
 <inp>Los niños tienes pocas ocasiones para jugar <f id="1">freely</f>  .</inp>
-<out>Los niños tienes pocas ocasiones para jugar <f id="1">libremente</f>  .</output>
+<out>Los niños tienes pocas ocasiones para jugar <f id="1">libremente</f>  .</out>
 <ref>Los niños tienes pocas ocasiones para jugar <f id="1">libremente</f>  .</ref>
 
 <inp>No todo ha sido <f id="1">a breeze</f>  para el nuevo ariete del Barça .</inp>
-<out>No todo ha sido <f id="1">para realizar</f>  para el nuevo ariete del Barça .</output>
+<out>No todo ha sido <f id="1">para realizar</f>  para el nuevo ariete del Barça .</out>
 <ref>No todo ha sido <f id="1">de color de rosa<alt>de color rosado</alt><alt>pan comido</alt></f>  para el nuevo ariete del Barça .</ref>
 
 <inp>El movimiento tiene que aclarar que <f id="1">the ceasefire</f>  no es temporal .</inp>
-<out>El movimiento tiene que aclarar que <f id="1">alto el</f>  no es temporal .</output>
+<out>El movimiento tiene que aclarar que <f id="1">alto el</f>  no es temporal .</out>
 <ref>El movimiento tiene que aclarar que <f id="1">el alto del fuego</f>  no es temporal .</ref>
 
 <inp>También quiero <f id="1">thank</f>  a mi hermana Ximena y mi hermanito Fernando por ser tan buenos conmigo y por hacerme regalitos tan bonitos .</inp>
-<out>También quiero <f id="1">agradecer</f>  a mi hermana Ximena y mi hermanito Fernando por ser tan buenos conmigo y por hacerme regalitos tan bonitos .</output>
+<out>También quiero <f id="1">agradecer</f>  a mi hermana Ximena y mi hermanito Fernando por ser tan buenos conmigo y por hacerme regalitos tan bonitos .</out>
 <ref>También quiero <f id="1">agradecer<alt>dar las gracias</alt></f>  a mi hermana Ximena y mi hermanito Fernando por ser tan buenos conmigo y por hacerme regalitos tan bonitos .</ref>
 
 <inp>Cada día mi abuelo viene <f id="1">on foot</f>  .</inp>
-<out>Cada día mi abuelo viene <f id="1">a pie</f>  .</output>
+<out>Cada día mi abuelo viene <f id="1">a pie</f>  .</out>
 <ref>Cada día mi abuelo viene <f id="1">a pie</f>  .</ref>
 
 <inp>La gente <f id="1">in general</f>  espera que el PSOE vencerá .</inp>
-<out>La gente <f id="1">en general</f>  espera que el PSOE vencerá .</output>
+<out>La gente <f id="1">en general</f>  espera que el PSOE vencerá .</out>
 <ref>La gente <f id="1">en general</f>  espera que el PSOE vencerá .</ref>
 
 <inp>Los opositores <f id="1">dismissed</f>  el asunto .</inp>
-<out>Los opositores <f id="1">descartado</f>  el asunto .</output>
+<out>Los opositores <f id="1">descartado</f>  el asunto .</out>
 <ref>Los opositores <f id="1">despacharon<alt>rechazaron</alt><alt>despidieron</alt></f>  el asunto .</ref>
 
 <inp>Se van a crear <f id="1">more than</f>  cuarenta nuevos titulos universitarios .</inp>
-<out>Se van a crear <f id="1">más de</f>  cuarenta nuevos titulos universitarios .</output>
+<out>Se van a crear <f id="1">más de</f>  cuarenta nuevos titulos universitarios .</out>
 <ref>Se van a crear <f id="1">más de</f>  cuarenta nuevos titulos universitarios .</ref>
 
 <inp>Su medio siglo de trayectoria fue un experimento continuo donde primó <f id="1">the search for</f>  métodos de expresión .</inp>
-<out>Su medio siglo de trayectoria fue un experimento continuo donde primó <f id="1">la búsqueda de</f>  métodos de expresión .</output>
+<out>Su medio siglo de trayectoria fue un experimento continuo donde primó <f id="1">la búsqueda de</f>  métodos de expresión .</out>
 <ref>Su medio siglo de trayectoria fue un experimento continuo donde primó <f id="1">la búsqueda de</f>  métodos de expresión .</ref>
 
 <inp>Los emigrantes españoles <f id="1">demand</f>  una enseñanza adecuada .</inp>
-<out>Los emigrantes españoles <f id="1">reclamar</f>  una enseñanza adecuada .</output>
+<out>Los emigrantes españoles <f id="1">reclamar</f>  una enseñanza adecuada .</out>
 <ref>Los emigrantes españoles <f id="1">exigen<alt>piden</alt></f>  una enseñanza adecuada .</ref>
 
 <inp>Mi <f id="1">eldest son</f>  va a casarse dentro de poco .</inp>
-<out>Mi <f id="1">hijo mayor</f>  va a casarse dentro de poco .</output>
+<out>Mi <f id="1">hijo mayor</f>  va a casarse dentro de poco .</out>
 <ref>Mi <f id="1">hijo mayor</f>  va a casarse dentro de poco .</ref>
 
 <inp>General Motors reduce <f id="1">its losses</f>  en Europa .</inp>
-<out>General Motors reduce <f id="1"></f>  en Europa .</output>
+<out>General Motors reduce <f id="1"></f>  en Europa .</out>
 <ref>General Motors reduce <f id="1">sus pérdidas</f>  en Europa .</ref>
 
 <inp>El Turismo Rural se presenta hoy como un <f id="1">successful</f>  negocio para el empresario rural .</inp>
-<out>El Turismo Rural se presenta hoy como un <f id="1">éxito</f>  negocio para el empresario rural .</output>
+<out>El Turismo Rural se presenta hoy como un <f id="1">éxito</f>  negocio para el empresario rural .</out>
 <ref>El Turismo Rural se presenta hoy como un <f id="1">exitoso</f>  negocio para el empresario rural .</ref>
 
 <inp>La lista ha sido recopilada a partir del volumen de ventas y <f id="1">profits</f>  de las empresas .</inp>
-<out>La lista ha sido recopilada a partir del volumen de ventas y <f id="1">se aprovecha</f>  de las empresas .</output>
+<out>La lista ha sido recopilada a partir del volumen de ventas y <f id="1">se aprovecha</f>  de las empresas .</out>
 <ref>La lista ha sido recopilada a partir del volumen de ventas y <f id="1">beneficios</f>  de las empresas .</ref>
 
 <inp>El político lidera <f id="1">the polls</f>  para las elecciones nacionales de 2017 .</inp>
-<out>El político lidera <f id="1">a las</f>  para las elecciones nacionales de 2017 .</output>
+<out>El político lidera <f id="1">a las</f>  para las elecciones nacionales de 2017 .</out>
 <ref>El político lidera <f id="1">los sondeos</f>  para las elecciones nacionales de 2017 .</ref>
 
 <inp><f id="1">It is about</f>  un juego muy sencillo pero muy divertido .</inp>
-<out><f id="1">se trata de</f>  un juego muy sencillo pero muy divertido .</output>
+<out><f id="1">se trata de</f>  un juego muy sencillo pero muy divertido .</out>
 <ref><f id="1">Se trata de</f>  un juego muy sencillo pero muy divertido .</ref>
 
 <inp>Esta medida seguirá <f id="1">in force</f>  durante el verano .</inp>
-<out>Esta medida seguirá <f id="1">en vigor</f>  durante el verano .</output>
+<out>Esta medida seguirá <f id="1">en vigor</f>  durante el verano .</out>
 <ref>Esta medida seguirá <f id="1">en vigor<alt>vigente</alt><alt>teniendo validez</alt></f>  durante el verano .</ref>
 
 <inp>El futuro presidente del Gobierno será <f id="1">most likely</f>  el líder del PP , Mariano Rajoy .</inp>
-<out>El futuro presidente del Gobierno será <f id="1">muy probablemente</f>  el líder del PP , Mariano Rajoy .</output>
+<out>El futuro presidente del Gobierno será <f id="1">muy probablemente</f>  el líder del PP , Mariano Rajoy .</out>
 <ref>El futuro presidente del Gobierno será <f id="1">muy posiblemente<alt>más probablemente</alt><alt>muy probablemente</alt><alt>lo más probable</alt></f>  el líder del PP , Mariano Rajoy .</ref>
 
 <inp><f id="1">The conflict of interest</f>  sobre las aguas siempre va a existir .</inp>
-<out><f id="1">idente</f>  sobre las aguas siempre va a existir .</output>
+<out><f id="1">idente</f>  sobre las aguas siempre va a existir .</out>
 <ref><f id="1">El conflicto de intereses<alt>El conflicto de interés</alt></f>  sobre las aguas siempre va a existir .</ref>
 
 <inp>Admitió que su amigo <f id="1">was to blame for the</f>  atentado .</inp>
-<out>Admitió que su amigo <f id="1"></f>  atentado .</output>
+<out>Admitió que su amigo <f id="1"></f>  atentado .</out>
 <ref>Admitió que su amigo <f id="1">tenía la culpa del<alt>fue el culpable del</alt></f>  atentado .</ref>
 
 <inp>Entonces , <f id="1">the work</f>  del pintor fue abandonada en casa de Goya por los seguidores de Napoleón .</inp>
-<out>Entonces , <f id="1">el trabajo</f>  del pintor fue abandonada en casa de Goya por los seguidores de Napoleón .</output>
+<out>Entonces , <f id="1">el trabajo</f>  del pintor fue abandonada en casa de Goya por los seguidores de Napoleón .</out>
 <ref>Entonces , <f id="1">la obra</f>  del pintor fue abandonada en casa de Goya por los seguidores de Napoleón .</ref>
 
 <inp>Todo indica que <f id="1">the worst</f>  que puede llegar a ocurrir es que las economías crezcan por debajo de lo previsto .</inp>
-<out>Todo indica que <f id="1">peor de</f>  que puede llegar a ocurrir es que las economías crezcan por debajo de lo previsto .</output>
+<out>Todo indica que <f id="1">peor de</f>  que puede llegar a ocurrir es que las economías crezcan por debajo de lo previsto .</out>
 <ref>Todo indica que <f id="1">lo más grave<alt>lo peor</alt></f>  que puede llegar a ocurrir es que las economías crezcan por debajo de lo previsto .</ref>
 
 <inp>Eso <f id="1">explains why</f>  no me hayan contestado .</inp>
-<out>Eso <f id="1">explica por</f>  no me hayan contestado .</output>
+<out>Eso <f id="1">explica por</f>  no me hayan contestado .</out>
 <ref>Eso <f id="1">explica que<alt>explica porque</alt></f>  no me hayan contestado .</ref>
 
 <inp>Ayer informaron en la radio de que no haría <f id="1">good weather</f>  este fin de semana .</inp>
-<out>Ayer informaron en la radio de que no haría <f id="1">llegada del</f>  este fin de semana .</output>
+<out>Ayer informaron en la radio de que no haría <f id="1">llegada del</f>  este fin de semana .</out>
 <ref>Ayer informaron en la radio de que no haría <f id="1">buen tiempo</f>  este fin de semana .</ref>
 
 <inp>Los madrileños , <f id="1">instead of</f>  comerse el regalo , lo enterraron .</inp>
-<out>Los madrileños , <f id="1">en vez de</f>  comerse el regalo , lo enterraron .</output>
+<out>Los madrileños , <f id="1">en vez de</f>  comerse el regalo , lo enterraron .</out>
 <ref>Los madrileños , <f id="1">en vez de<alt>en lugar de</alt></f>  comerse el regalo , lo enterraron .</ref>
 
 <inp>Donde hay un drogadicto hay detŕas un problema con <f id="1">his parents</f>  .</inp>
-<out>Donde hay un drogadicto hay detŕas un problema con <f id="1">a sus</f>  .</output>
+<out>Donde hay un drogadicto hay detŕas un problema con <f id="1">a sus</f>  .</out>
 <ref>Donde hay un drogadicto hay detŕas un problema con <f id="1">sus padres</f>  .</ref>
 
 <inp>Creo que el machismo ya no está bien visto , y es <f id="1">substituted by</f>  otro tipo de comportamiento .</inp>
-<out>Creo que el machismo ya no está bien visto , y es <f id="1">de una</f>  otro tipo de comportamiento .</output>
+<out>Creo que el machismo ya no está bien visto , y es <f id="1">de una</f>  otro tipo de comportamiento .</out>
 <ref>Creo que el machismo ya no está bien visto , y es <f id="1">sustituido por</f>  otro tipo de comportamiento .</ref>
 
 <inp>Unos 200 indignados han decidido <f id="1">to spend the night</f>  frente al congreso .</inp>
-<out>Unos 200 indignados han decidido <f id="1"></f>  frente al congreso .</output>
+<out>Unos 200 indignados han decidido <f id="1"></f>  frente al congreso .</out>
 <ref>Unos 200 indignados han decidido <f id="1">pasar la noche<alt>pernoctar</alt></f>  frente al congreso .</ref>
 
 <inp>Si lleva una moto , es obligatoria <f id="1">the use of a helmet</f>  .</inp>
-<out>Si lleva una moto , es obligatoria <f id="1"></f>  .</output>
+<out>Si lleva una moto , es obligatoria <f id="1"></f>  .</out>
 <ref>Si lleva una moto , es obligatoria <f id="1">la utilización del casco<alt>el uso del casco</alt></f>  .</ref>
 
 <inp><f id="1">As was expected</f>  , el coletazo del escándalo también llegó a Cuba .</inp>
-<out><f id="1"></f>  , el coletazo del escándalo también llegó a Cuba .</output>
+<out><f id="1"></f>  , el coletazo del escándalo también llegó a Cuba .</out>
 <ref><f id="1">Como era de esperar<alt>Como esperado</alt><alt>Como se esperaba</alt></f>  , el coletazo del escándalo también llegó a Cuba .</ref>
 
 <inp>El 12 de octubre o día de la hispanidad , es <f id="1">a holiday</f>  en todo el mundo hispánico .</inp>
-<out>El 12 de octubre o día de la hispanidad , es <f id="1">unas vacaciones</f>  en todo el mundo hispánico .</output>
+<out>El 12 de octubre o día de la hispanidad , es <f id="1">unas vacaciones</f>  en todo el mundo hispánico .</out>
 <ref>El 12 de octubre o día de la hispanidad , es <f id="1">un día festivo<alt>un día de fiesta</alt></f>  en todo el mundo hispánico .</ref>
 
 <inp>Los nuevos programas han sido presentados por <f id="1">the political parties</f>  de nuestro país .</inp>
-<out>Los nuevos programas han sido presentados por <f id="1">los partidos políticos</f>  de nuestro país .</output>
+<out>Los nuevos programas han sido presentados por <f id="1">los partidos políticos</f>  de nuestro país .</out>
 <ref>Los nuevos programas han sido presentados por <f id="1">los partidos políticos</f>  de nuestro país .</ref>
 
 <inp>No sólo ha subido su <f id="1">debt</f>  , sino que también ha bajado el valor de su casa .</inp>
-<out>No sólo ha subido su <f id="1">deuda</f>  , sino que también ha bajado el valor de su casa .</output>
+<out>No sólo ha subido su <f id="1">deuda</f>  , sino que también ha bajado el valor de su casa .</out>
 <ref>No sólo ha subido su <f id="1">deuda</f>  , sino que también ha bajado el valor de su casa .</ref>
 
 <inp>Planteaste el debate y ya no quieres <f id="1">shut up</f>  .</inp>
-<out>Planteaste el debate y ya no quieres <f id="1">a la</f>  .</output>
+<out>Planteaste el debate y ya no quieres <f id="1">a la</f>  .</out>
 <ref>Planteaste el debate y ya no quieres <f id="1">callar</f>  .</ref>
 
 <inp>The <f id="1">watch</f>  que acabo de comprar es para mi sobrina .</inp>
-<out>The <f id="1">vigilar</f>  que acabo de comprar es para mi sobrina .</output>
+<out>The <f id="1">vigilar</f>  que acabo de comprar es para mi sobrina .</out>
 <ref>El <f id="1">reloj</f>  que acabo de comprar es para mi sobrina .</ref>
 
 <inp>Ese melocotón <f id="1">tastes good</f>  .</inp>
-<out>Ese melocotón <f id="1"></f>  .</output>
+<out>Ese melocotón <f id="1"></f>  .</out>
 <ref>Ese melocotón <f id="1">sabe muy bien<alt>sabe bien</alt></f>  .</ref>
 
 <inp>La empresa ya fue <f id="1">owner</f>  de Endemol y de otras empresas de comunicaciones , pero se acabaron vendiendo .</inp>
-<out>La empresa ya fue <f id="1">propietario</f>  de Endemol y de otras empresas de comunicaciones , pero se acabaron vendiendo .</output>
+<out>La empresa ya fue <f id="1">propietario</f>  de Endemol y de otras empresas de comunicaciones , pero se acabaron vendiendo .</out>
 <ref>La empresa ya fue <f id="1">propietaria</f>  de Endemol y de otras empresas de comunicaciones , pero se acabaron vendiendo .</ref>
 
 <inp>Le <f id="1">appreciate</f>  mucho por su valor y su paciencia .</inp>
-<out>Le <f id="1">valorar</f>  mucho por su valor y su paciencia .</output>
+<out>Le <f id="1">valorar</f>  mucho por su valor y su paciencia .</out>
 <ref>Le <f id="1">aprecio</f>  mucho por su valor y su paciencia .</ref>
 
 <inp>En nuestra biblioteca el silencio <f id="1">shines</f>  por su ausencia .</inp>
-<out>En nuestra biblioteca el silencio <f id="1">relumbra</f>  por su ausencia .</output>
+<out>En nuestra biblioteca el silencio <f id="1">relumbra</f>  por su ausencia .</out>
 <ref>En nuestra biblioteca el silencio <f id="1">brilla</f>  por su ausencia .</ref>
 
 <inp>La pelota sólo puede botar una vez <f id="1">on the floor</f>  .</inp>
-<out>La pelota sólo puede botar una vez <f id="1">hora de que</f>  .</output>
+<out>La pelota sólo puede botar una vez <f id="1">hora de que</f>  .</out>
 <ref>La pelota sólo puede botar una vez <f id="1">en el suelo</f>  .</ref>
 
 <inp>No todas las lluvias benefician y algunas <f id="1">contaminate</f>  el ambiente .</inp>
-<out>No todas las lluvias benefician y algunas <f id="1">contaminar</f>  el ambiente .</output>
+<out>No todas las lluvias benefician y algunas <f id="1">contaminar</f>  el ambiente .</out>
 <ref>No todas las lluvias benefician y algunas <f id="1">contaminan</f>  el ambiente .</ref>
 
 <inp>El actor ha tenido <f id="1">bad luck</f>  .</inp>
-<out>El actor ha tenido <f id="1">mala suerte</f>  .</output>
+<out>El actor ha tenido <f id="1">mala suerte</f>  .</out>
 <ref>El actor ha tenido <f id="1">mala suerte</f>  .</ref>
 
 <inp>El edificio de las placas de titanio onduladas de Frank Gehry <f id="1">acquired</f>  el estatus de icono al poco de su inauguración .</inp>
-<out>El edificio de las placas de titanio onduladas de Frank Gehry <f id="1">adquiridos</f>  el estatus de icono al poco de su inauguración .</output>
+<out>El edificio de las placas de titanio onduladas de Frank Gehry <f id="1">adquiridos</f>  el estatus de icono al poco de su inauguración .</out>
 <ref>El edificio de las placas de titanio onduladas de Frank Gehry <f id="1">adquirió</f>  el estatus de icono al poco de su inauguración .</ref>
 
 <inp>Jesús Guerra acabó siendo condenado a pagar <f id="1">a fine</f>  de 3587 euros .</inp>
-<out>Jesús Guerra acabó siendo condenado a pagar <f id="1">un buen</f>  de 3587 euros .</output>
+<out>Jesús Guerra acabó siendo condenado a pagar <f id="1">un buen</f>  de 3587 euros .</out>
 <ref>Jesús Guerra acabó siendo condenado a pagar <f id="1">una multa</f>  de 3587 euros .</ref>
 
 <inp>La primera empresa en la lista es Santander , <f id="1">followed by</f>  Telefónica , Repsol y BBVA .</inp>
-<out>La primera empresa en la lista es Santander , <f id="1">de medidas</f>  Telefónica , Repsol y BBVA .</output>
+<out>La primera empresa en la lista es Santander , <f id="1">de medidas</f>  Telefónica , Repsol y BBVA .</out>
 <ref>La primera empresa en la lista es Santander , <f id="1">seguida de<alt>seguida por</alt></f>  Telefónica , Repsol y BBVA .</ref>
 
 <inp>Hace poco fui <f id="1">witness</f>  de un asalto al Banco de Bilbao en la calle de Medinaceli .</inp>
-<out>Hace poco fui <f id="1">presenciar</f>  de un asalto al Banco de Bilbao en la calle de Medinaceli .</output>
+<out>Hace poco fui <f id="1">presenciar</f>  de un asalto al Banco de Bilbao en la calle de Medinaceli .</out>
 <ref>Hace poco fui <f id="1">testigo</f>  de un asalto al Banco de Bilbao en la calle de Medinaceli .</ref>
 
 <inp>Me han <f id="1">chosen</f>  para interpretar a ese personaje , pero no puedo dar muchos detalles .</inp>
-<out>Me han <f id="1">escogido</f>  para interpretar a ese personaje , pero no puedo dar muchos detalles .</output>
+<out>Me han <f id="1">escogido</f>  para interpretar a ese personaje , pero no puedo dar muchos detalles .</out>
 <ref>Me han <f id="1">elegido<alt>seleccionado</alt></f>  para interpretar a ese personaje , pero no puedo dar muchos detalles .</ref>
 
 <inp>Me temo que tendré que <f id="1">keep living</f>  en casa de mis padres hasta los cuarenta .</inp>
-<out>Me temo que tendré que <f id="1"></f>  en casa de mis padres hasta los cuarenta .</output>
+<out>Me temo que tendré que <f id="1"></f>  en casa de mis padres hasta los cuarenta .</out>
 <ref>Me temo que tendré que <f id="1">seguir viviendo</f>  en casa de mis padres hasta los cuarenta .</ref>
 
 <inp>Los niños empeizan a usar <f id="1">symbols</f>  desde el segundo año de vida .</inp>
-<out>Los niños empeizan a usar <f id="1">símbolo</f>  desde el segundo año de vida .</output>
+<out>Los niños empeizan a usar <f id="1">símbolo</f>  desde el segundo año de vida .</out>
 <ref>Los niños empeizan a usar <f id="1">símbolos</f>  desde el segundo año de vida .</ref>
 
 <inp>Después de tantos años , <f id="1">still</f>  me da vergüenza recordarlo .</inp>
-<out>Después de tantos años , <f id="1">tranquila</f>  me da vergüenza recordarlo .</output>
+<out>Después de tantos años , <f id="1">tranquila</f>  me da vergüenza recordarlo .</out>
 <ref>Después de tantos años , <f id="1">todavía<alt>aún</alt></f>  me da vergüenza recordarlo .</ref>
 
 <inp>El número de españoles que acude a las plazas para presenciar la labor de los matadores , <f id="1">continues to diminish</f>  .</inp>
-<out>El número de españoles que acude a las plazas para presenciar la labor de los matadores , <f id="1"></f>  .</output>
+<out>El número de españoles que acude a las plazas para presenciar la labor de los matadores , <f id="1"></f>  .</out>
 <ref>El número de españoles que acude a las plazas para presenciar la labor de los matadores , <f id="1">continúa disminuyendo<alt>sigue disminuyendo</alt><alt>sigue reduciéndose</alt></f>  .</ref>
 
 <inp>No creo que las necesidades afectivas de las personas estén necesariamente <f id="1">linked</f>  al matrimonio .</inp>
-<out>No creo que las necesidades afectivas de las personas estén necesariamente <f id="1">ligó</f>  al matrimonio .</output>
+<out>No creo que las necesidades afectivas de las personas estén necesariamente <f id="1">ligó</f>  al matrimonio .</out>
 <ref>No creo que las necesidades afectivas de las personas estén necesariamente <f id="1">ligadas</f>  al matrimonio .</ref>
 
 <inp>El 14 de Julio de 1789 la Bastilla fue asaltada <f id="1">by the population of</f>  París .</inp>
-<out>El 14 de Julio de 1789 la Bastilla fue asaltada <f id="1">la población de l</f>  París .</output>
+<out>El 14 de Julio de 1789 la Bastilla fue asaltada <f id="1">la población de l</f>  París .</out>
 <ref>El 14 de Julio de 1789 la Bastilla fue asaltada <f id="1">por la población de<alt>por parte de la población de</alt></f>  París .</ref>
 
 <inp>La policía seguirá vigilando y multando <f id="1">to ensure</f>  que el tráfico fluya con seguridad .</inp>
-<out>La policía seguirá vigilando y multando <f id="1">asegurar</f>  que el tráfico fluya con seguridad .</output>
+<out>La policía seguirá vigilando y multando <f id="1">asegurar</f>  que el tráfico fluya con seguridad .</out>
 <ref>La policía seguirá vigilando y multando <f id="1">para conseguir<alt>para asegurar</alt><alt>para garantizar</alt></f>  que el tráfico fluya con seguridad .</ref>
 
 <inp>La Televisión Española inaugura mañana una iniciativa con los ojos puestos en la competencia con las <f id="1">channels</f>  privadas .</inp>
-<out>La Televisión Española inaugura mañana una iniciativa con los ojos puestos en la competencia con las <f id="1">encamina</f>  privadas .</output>
+<out>La Televisión Española inaugura mañana una iniciativa con los ojos puestos en la competencia con las <f id="1">encamina</f>  privadas .</out>
 <ref>La Televisión Española inaugura mañana una iniciativa con los ojos puestos en la competencia con las <f id="1">cadenas</f>  privadas .</ref>
 
 <inp>El lugar <f id="1">chosen</f>  como basurero atómico se encuentra a 480 kilómetros de Finisterre , en Galicia .</inp>
-<out>El lugar <f id="1">escogida</f>  como basurero atómico se encuentra a 480 kilómetros de Finisterre , en Galicia .</output>
+<out>El lugar <f id="1">escogida</f>  como basurero atómico se encuentra a 480 kilómetros de Finisterre , en Galicia .</out>
 <ref>El lugar <f id="1">escogido<alt>elegido</alt></f>  como basurero atómico se encuentra a 480 kilómetros de Finisterre , en Galicia .</ref>
 
 <inp>El periódico 20 Minutos quería un tipo de debate en <f id="1">social networks</f>  .</inp>
-<out>El periódico 20 Minutos quería un tipo de debate en <f id="1">redes sociales</f>  .</output>
+<out>El periódico 20 Minutos quería un tipo de debate en <f id="1">redes sociales</f>  .</out>
 <ref>El periódico 20 Minutos quería un tipo de debate en <f id="1">las redes sociales</f>  .</ref>
 
 <inp>Allan Thornton <f id="1">belongs to</f>  un grupo llamado Greenpeace .</inp>
-<out>Allan Thornton <f id="1">pertenece a</f>  un grupo llamado Greenpeace .</output>
+<out>Allan Thornton <f id="1">pertenece a</f>  un grupo llamado Greenpeace .</out>
 <ref>Allan Thornton <f id="1">pertenece a</f>  un grupo llamado Greenpeace .</ref>
 
 <inp><f id="1">Do</f>  exactamente lo que diga tu médico .</inp>
-<out><f id="1">hacer</f>  exactamente lo que diga tu médico .</output>
+<out><f id="1">hacer</f>  exactamente lo que diga tu médico .</out>
 <ref><f id="1">Haz</f>  exactamente lo que diga tu médico .</ref>
 
 <inp>Es necesario que fumas <f id="1">less</f>  .</inp>
-<out>Es necesario que fumas <f id="1">poco</f>  .</output>
+<out>Es necesario que fumas <f id="1">poco</f>  .</out>
 <ref>Es necesario que fumas <f id="1">menos</f>  .</ref>
 
 <inp><f id="1">Moreover</f>  muchas familias no disponen de dinero .</inp>
-<out><f id="1">Además</f>  muchas familias no disponen de dinero .</output>
+<out><f id="1">Además</f>  muchas familias no disponen de dinero .</out>
 <ref><f id="1">Además</f>  muchas familias no disponen de dinero .</ref>
 
 <inp>Alguien <f id="1">knocked on</f>  la puerta del bar , y todos cesaron de discutir .</inp>
-<out>Alguien <f id="1"></f>  la puerta del bar , y todos cesaron de discutir .</output>
+<out>Alguien <f id="1"></f>  la puerta del bar , y todos cesaron de discutir .</out>
 <ref>Alguien <f id="1">golpeó<alt>tocó a</alt><alt>llamó a</alt></f>  la puerta del bar , y todos cesaron de discutir .</ref>
 
 <inp>Al cabo de los siglos , <f id="1">the surname</f>  Vargas resultaría uno de los más multiplicados .</inp>
-<out>Al cabo de los siglos , <f id="1">el nombre</f>  Vargas resultaría uno de los más multiplicados .</output>
+<out>Al cabo de los siglos , <f id="1">el nombre</f>  Vargas resultaría uno de los más multiplicados .</out>
 <ref>Al cabo de los siglos , <f id="1">el apellido</f>  Vargas resultaría uno de los más multiplicados .</ref>
 
 <inp>En la isla de El Hierro del archipiélago canario la creciente actividad sísmica indica que un volcán subacuático puede entrar en erupción <f id="1">at any time</f>  .</inp>
-<out>En la isla de El Hierro del archipiélago canario la creciente actividad sísmica indica que un volcán subacuático puede entrar en erupción <f id="1">cuenta en cualquier</f>  .</output>
+<out>En la isla de El Hierro del archipiélago canario la creciente actividad sísmica indica que un volcán subacuático puede entrar en erupción <f id="1">cuenta en cualquier</f>  .</out>
 <ref>En la isla de El Hierro del archipiélago canario la creciente actividad sísmica indica que un volcán subacuático puede entrar en erupción <f id="1">en cualquier momento<alt>en todo momento</alt><alt>a cualquier hora</alt></f>  .</ref>
 
 <inp>Desde el punto de vista pedagógico se convierte en un sitio para la socialización , que además impulsa <f id="1">the development</f>  de competencias académicas en el niño y el jovén .</inp>
-<out>Desde el punto de vista pedagógico se convierte en un sitio para la socialización , que además impulsa <f id="1">el desarrollo</f>  de competencias académicas en el niño y el jovén .</output>
+<out>Desde el punto de vista pedagógico se convierte en un sitio para la socialización , que además impulsa <f id="1">el desarrollo</f>  de competencias académicas en el niño y el jovén .</out>
 <ref>Desde el punto de vista pedagógico se convierte en un sitio para la socialización , que además impulsa <f id="1">el desarrollo</f>  de competencias académicas en el niño y el jovén .</ref>
 
 <inp>Gobernará la nación <f id="1">from the beginning of</f>  2012 .</inp>
-<out>Gobernará la nación <f id="1">desde el comienzo del</f>  2012 .</output>
+<out>Gobernará la nación <f id="1">desde el comienzo del</f>  2012 .</out>
 <ref>Gobernará la nación <f id="1">a partir de principios de<alt>desde el principio de</alt></f>  2012 .</ref>
 
 <inp>Una siesta de 26 minutos consigue que nos sintamos <f id="1">less tired</f>  y que podamos funcionar mejor .</inp>
-<out>Una siesta de 26 minutos consigue que nos sintamos <f id="1"></f>  y que podamos funcionar mejor .</output>
+<out>Una siesta de 26 minutos consigue que nos sintamos <f id="1"></f>  y que podamos funcionar mejor .</out>
 <ref>Una siesta de 26 minutos consigue que nos sintamos <f id="1">menos cansados</f>  y que podamos funcionar mejor .</ref>
 
 <inp>El fenómeno se inicia <f id="1">close to</f>  Australia e Indonesia .</inp>
-<out>El fenómeno se inicia <f id="1">a los</f>  Australia e Indonesia .</output>
+<out>El fenómeno se inicia <f id="1">a los</f>  Australia e Indonesia .</out>
 <ref>El fenómeno se inicia <f id="1">cerca de</f>  Australia e Indonesia .</ref>
 
 <inp>Voy <f id="1">to the pharmacy</f>  por aspirinas .</inp>
-<out>Voy <f id="1"></f>  por aspirinas .</output>
+<out>Voy <f id="1"></f>  por aspirinas .</out>
 <ref>Voy <f id="1">a la farmacia</f>  por aspirinas .</ref>
 
 <inp>Lo ideal sería poder <f id="1">swop</f>  las compras por productos españoles .</inp>
-<out>Lo ideal sería poder <f id="1"></f>  las compras por productos españoles .</output>
+<out>Lo ideal sería poder <f id="1"></f>  las compras por productos españoles .</out>
 <ref>Lo ideal sería poder <f id="1">canjear<alt>cambiar</alt><alt>intercambiar</alt></f>  las compras por productos españoles .</ref>
 
 <inp>Este negro panorama económico para España <f id="1">hardly</f>  tiene visos de realidad .</inp>
-<out>Este negro panorama económico para España <f id="1">duro</f>  tiene visos de realidad .</output>
+<out>Este negro panorama económico para España <f id="1">duro</f>  tiene visos de realidad .</out>
 <ref>Este negro panorama económico para España <f id="1">apenas<alt>casi no</alt></f>  tiene visos de realidad .</ref>
 
 <inp>Te mandaré <f id="1">another ten</f>  copias .</inp>
-<out>Te mandaré <f id="1">otros diez</f>  copias .</output>
+<out>Te mandaré <f id="1">otros diez</f>  copias .</out>
 <ref>Te mandaré <f id="1">otras diez</f>  copias .</ref>
 
 <inp>Mi papá siempre <f id="1">sets the table</f>  , mientras mi mamá prepara la comida .</inp>
-<out>Mi papá siempre <f id="1"></f>  , mientras mi mamá prepara la comida .</output>
+<out>Mi papá siempre <f id="1"></f>  , mientras mi mamá prepara la comida .</out>
 <ref>Mi papá siempre <f id="1">pone la mesa</f>  , mientras mi mamá prepara la comida .</ref>
 
 <inp>Hay que mantener <f id="1">at all times</f>  la velocidad adecuada a las condiciones de la vía .</inp>
-<out>Hay que mantener <f id="1">en todo momento</f>  la velocidad adecuada a las condiciones de la vía .</output>
+<out>Hay que mantener <f id="1">en todo momento</f>  la velocidad adecuada a las condiciones de la vía .</out>
 <ref>Hay que mantener <f id="1">en cada momento<alt>siempre</alt><alt>en todo momento</alt></f>  la velocidad adecuada a las condiciones de la vía .</ref>
 
 <inp><f id="1">Daily life</f>  ya no está llena de grandes gestas .</inp>
-<out><f id="1">vida cotidiana</f>  ya no está llena de grandes gestas .</output>
+<out><f id="1">vida cotidiana</f>  ya no está llena de grandes gestas .</out>
 <ref><f id="1">La vida cotidiana<alt>La vida diaria</alt></f>  ya no está llena de grandes gestas .</ref>
 
 <inp>Los libros de cocina se venden bien , <f id="1">according to</f>  un estudio de una conocida editorial .</inp>
-<out>Los libros de cocina se venden bien , <f id="1">Según</f>  un estudio de una conocida editorial .</output>
+<out>Los libros de cocina se venden bien , <f id="1">Según</f>  un estudio de una conocida editorial .</out>
 <ref>Los libros de cocina se venden bien , <f id="1">según</f>  un estudio de una conocida editorial .</ref>
 
 <inp>Mis vecinos <f id="1">are on holidays</f>  en España .</inp>
-<out>Mis vecinos <f id="1"></f>  en España .</output>
+<out>Mis vecinos <f id="1"></f>  en España .</out>
 <ref>Mis vecinos <f id="1">están de vacaciones</f>  en España .</ref>
 
 <inp>Hoy han vuelto a participar <f id="1">thousands of people</f>  en los encierros de Pamplona .</inp>
-<out>Hoy han vuelto a participar <f id="1">miles de personas</f>  en los encierros de Pamplona .</output>
+<out>Hoy han vuelto a participar <f id="1">miles de personas</f>  en los encierros de Pamplona .</out>
 <ref>Hoy han vuelto a participar <f id="1">miles de personas</f>  en los encierros de Pamplona .</ref>
 
 <inp>A esa mujer la admiran <f id="1">even</f>  sus enemigos .</inp>
-<out>A esa mujer la admiran <f id="1">incluso</f>  sus enemigos .</output>
+<out>A esa mujer la admiran <f id="1">incluso</f>  sus enemigos .</out>
 <ref>A esa mujer la admiran <f id="1">hasta<alt>incluso</alt></f>  sus enemigos .</ref>
 
 <inp>No te oigo <f id="1">well</f>  .</inp>
-<out>No te oigo <f id="1">Pues</f>  .</output>
+<out>No te oigo <f id="1">Pues</f>  .</out>
 <ref>No te oigo <f id="1">bien</f>  .</ref>
 
 <inp>España fue advertida el viernes <f id="1">by</f>  la agencia de crédito Moody s.</inp>
-<out>España fue advertida el viernes <f id="1">A fuerza de</f>  la agencia de crédito Moody s.</output>
+<out>España fue advertida el viernes <f id="1">A fuerza de</f>  la agencia de crédito Moody s.</out>
 <ref>España fue advertida el viernes <f id="1">por</f>  la agencia de crédito Moody s.</ref>
 
 <inp>Es mejor que <f id="1">bring it</f>  a la policía , ellos te dirán qué tienes que hacer .</inp>
-<out>Es mejor que <f id="1">un nuevo</f>  a la policía , ellos te dirán qué tienes que hacer .</output>
+<out>Es mejor que <f id="1">un nuevo</f>  a la policía , ellos te dirán qué tienes que hacer .</out>
 <ref>Es mejor que <f id="1">la lleves<alt>lo lleves</alt></f>  a la policía , ellos te dirán qué tienes que hacer .</ref>
 
 <inp>El éxito muchas veces no se <f id="1">achieve</f>  porque no se tiene una formación adecuada .</inp>
-<out>El éxito muchas veces no se <f id="1">conseguir</f>  porque no se tiene una formación adecuada .</output>
+<out>El éxito muchas veces no se <f id="1">conseguir</f>  porque no se tiene una formación adecuada .</out>
 <ref>El éxito muchas veces no se <f id="1">alcanza<alt>logra</alt></f>  porque no se tiene una formación adecuada .</ref>
 
 <inp>Lo que sí se conoce es que Mariano Rajoy como <f id="1">opposition leader</f>  y líder del PP gana 30000 euros más que el Presidente del Gobierno .</inp>
-<out>Lo que sí se conoce es que Mariano Rajoy como <f id="1">de la</f>  y líder del PP gana 30000 euros más que el Presidente del Gobierno .</output>
+<out>Lo que sí se conoce es que Mariano Rajoy como <f id="1">de la</f>  y líder del PP gana 30000 euros más que el Presidente del Gobierno .</out>
 <ref>Lo que sí se conoce es que Mariano Rajoy como <f id="1">líder de la oposición<alt>líder opositor</alt></f>  y líder del PP gana 30000 euros más que el Presidente del Gobierno .</ref>
 
 <inp>Dicen que soy descendiente de uno de <f id="1">the</f>  protagonistas .</inp>
-<out>Dicen que soy descendiente de uno de <f id="1">el final el</f>  protagonistas .</output>
+<out>Dicen que soy descendiente de uno de <f id="1">el final el</f>  protagonistas .</out>
 <ref>Dicen que soy descendiente de uno de <f id="1">los</f>  protagonistas .</ref>
 
 <inp>La guerra <f id="1">lasted</f>  cien años .</inp>
-<out>La guerra <f id="1">aguanté</f>  cien años .</output>
+<out>La guerra <f id="1">aguanté</f>  cien años .</out>
 <ref>La guerra <f id="1">duró<alt>ha durado</alt></f>  cien años .</ref>
 
 <inp>La lluvia ácida <f id="1">affects</f>  los suelos , bosques y lagos .</inp>
-<out>La lluvia ácida <f id="1">conmueve</f>  los suelos , bosques y lagos .</output>
+<out>La lluvia ácida <f id="1">conmueve</f>  los suelos , bosques y lagos .</out>
 <ref>La lluvia ácida <f id="1">afecta a</f>  los suelos , bosques y lagos .</ref>
 
 <inp>Los tranvias arrollan a <f id="1">pedestrians</f>  que osen interceptar su camino .</inp>
-<out>Los tranvias arrollan a <f id="1">peatón</f>  que osen interceptar su camino .</output>
+<out>Los tranvias arrollan a <f id="1">peatón</f>  que osen interceptar su camino .</out>
 <ref>Los tranvias arrollan a <f id="1">peatones</f>  que osen interceptar su camino .</ref>
 
 <inp>Pero <f id="1">one thing is clear</f>  , que se puede dejar de ser un heroinómano .</inp>
-<out>Pero <f id="1">o que está claro</f>  , que se puede dejar de ser un heroinómano .</output>
+<out>Pero <f id="1">o que está claro</f>  , que se puede dejar de ser un heroinómano .</out>
 <ref>Pero <f id="1">una cosa es clara</f>  , que se puede dejar de ser un heroinómano .</ref>
 
 <inp>No te prometo <f id="1">anything</f>  .</inp>
-<out>No te prometo <f id="1">cualquier cosa</f>  .</output>
+<out>No te prometo <f id="1">cualquier cosa</f>  .</out>
 <ref>No te prometo <f id="1">nada</f>  .</ref>
 
 <inp>Espero que los frenos del coche <f id="1">work</f>  bien .</inp>
-<out>Espero que los frenos del coche <f id="1">explotar</f>  bien .</output>
+<out>Espero que los frenos del coche <f id="1">explotar</f>  bien .</out>
 <ref>Espero que los frenos del coche <f id="1">funcionen</f>  bien .</ref>
 
 <inp>Es <f id="1">a hypothesis</f>  que todavía está por comprobar .</inp>
-<out>Es <f id="1">de la</f>  que todavía está por comprobar .</output>
+<out>Es <f id="1">de la</f>  que todavía está por comprobar .</out>
 <ref>Es <f id="1">una hipotésis</f>  que todavía está por comprobar .</ref>
 
 <inp>¿ Qué haces en tu <f id="1">spare time</f>  ?</inp>
-<out>¿ Qué haces en tu <f id="1">tiempo libre</f>  ?</output>
+<out>¿ Qué haces en tu <f id="1">tiempo libre</f>  ?</out>
 <ref>¿ Qué haces en tu <f id="1">tiempo libre</f>  ?</ref>
 
 <inp>A las autoridades les resulta difícil <f id="1">to do something</f>  al respecto porque no es realista tener un agente en cada balcón .</inp>
-<out>A las autoridades les resulta difícil <f id="1">algo al respecto.</f>  al respecto porque no es realista tener un agente en cada balcón .</output>
+<out>A las autoridades les resulta difícil <f id="1">algo al respecto.</f>  al respecto porque no es realista tener un agente en cada balcón .</out>
 <ref>A las autoridades les resulta difícil <f id="1">hacer algo</f>  al respecto porque no es realista tener un agente en cada balcón .</ref>
 
 <inp>Es aquí donde se logra más del 45 % de <f id="1">the sales</f>  .</inp>
-<out>Es aquí donde se logra más del 45 % de <f id="1">de venta</f>  .</output>
+<out>Es aquí donde se logra más del 45 % de <f id="1">de venta</f>  .</out>
 <ref>Es aquí donde se logra más del 45 % de <f id="1">las ventas</f>  .</ref>
 
 <inp>Frente a esta situación , es necesario realizar <f id="1">a great effort</f>  para crear nuevos empleos .</inp>
-<out>Frente a esta situación , es necesario realizar <f id="1">un gran esfuerzo</f>  para crear nuevos empleos .</output>
+<out>Frente a esta situación , es necesario realizar <f id="1">un gran esfuerzo</f>  para crear nuevos empleos .</out>
 <ref>Frente a esta situación , es necesario realizar <f id="1">un gran esfuerzo<alt>un esfuerzo muy grande</alt><alt>un esfuerzo formidable</alt></f>  para crear nuevos empleos .</ref>
 
 <inp>Mañana estos cuadros serán vendidos públicamente <f id="1">by</f>  el museo .</inp>
-<out>Mañana estos cuadros serán vendidos públicamente <f id="1">A fuerza de</f>  el museo .</output>
+<out>Mañana estos cuadros serán vendidos públicamente <f id="1">A fuerza de</f>  el museo .</out>
 <ref>Mañana estos cuadros serán vendidos públicamente <f id="1">por</f>  el museo .</ref>
 
 <inp>Es así como la oferta de Turismo Rural manifiesta , <f id="1">both</f>  en Argentina como en Europa y América , una constante tasa de crecimiento .</inp>
-<out>Es así como la oferta de Turismo Rural manifiesta , <f id="1">Ambos</f>  en Argentina como en Europa y América , una constante tasa de crecimiento .</output>
+<out>Es así como la oferta de Turismo Rural manifiesta , <f id="1">Ambos</f>  en Argentina como en Europa y América , una constante tasa de crecimiento .</out>
 <ref>Es así como la oferta de Turismo Rural manifiesta , <f id="1">tanto</f>  en Argentina como en Europa y América , una constante tasa de crecimiento .</ref>
 
 <inp>Te recomiendo <f id="1">that you go</f>  a la policía .</inp>
-<out>Te recomiendo <f id="1">a la gente</f>  a la policía .</output>
+<out>Te recomiendo <f id="1">a la gente</f>  a la policía .</out>
 <ref>Te recomiendo <f id="1">que vayas<alt>que vaya usted</alt></f>  a la policía .</ref>
 
 <inp>Nuestros tíos <f id="1">are very conservative</f>  .</inp>
-<out>Nuestros tíos <f id="1"></f>  .</output>
+<out>Nuestros tíos <f id="1"></f>  .</out>
 <ref>Nuestros tíos <f id="1">son muy conservadores</f>  .</ref>
 
 <inp><f id="1">I like</f>  los libros que te hacen ver la realidad desde otro punto de vista .</inp>
-<out><f id="1">quiero</f>  los libros que te hacen ver la realidad desde otro punto de vista .</output>
+<out><f id="1">quiero</f>  los libros que te hacen ver la realidad desde otro punto de vista .</out>
 <ref><f id="1">Me gustan<alt>Me encantan</alt></f>  los libros que te hacen ver la realidad desde otro punto de vista .</ref>
 
 <inp>¡ Eso <f id="1">makes no sense</f>  , es un pensamiento sin profundidad y hueco !</inp>
-<out>¡ Eso <f id="1">no tiene sentido</f>  , es un pensamiento sin profundidad y hueco !</output>
+<out>¡ Eso <f id="1">no tiene sentido</f>  , es un pensamiento sin profundidad y hueco !</out>
 <ref>¡ Eso <f id="1">no tiene sentido<alt>no tiene ningún sentido</alt></f>  , es un pensamiento sin profundidad y hueco !</ref>
 
 <inp>Mauricio teme que <f id="1">hurt him</f>  los otros futbolistas .</inp>
-<out>Mauricio teme que <f id="1"></f>  los otros futbolistas .</output>
+<out>Mauricio teme que <f id="1"></f>  los otros futbolistas .</out>
 <ref>Mauricio teme que <f id="1">le hieran<alt>lo lastimen</alt></f>  los otros futbolistas .</ref>
 
 <inp>Estos dos mundos <f id="1">begin to</f>  acercarse .</inp>
-<out>Estos dos mundos <f id="1">es a</f>  acercarse .</output>
+<out>Estos dos mundos <f id="1">es a</f>  acercarse .</out>
 <ref>Estos dos mundos <f id="1">empiezan a<alt>inician a</alt><alt>comienzan a</alt></f>  acercarse .</ref>
 
 <inp>Tiene <f id="1">such a</f>  nivel artístico que mereceria estar expuesto en un museo .</inp>
-<out>Tiene <f id="1">sería apropiado</f>  nivel artístico que mereceria estar expuesto en un museo .</output>
+<out>Tiene <f id="1">sería apropiado</f>  nivel artístico que mereceria estar expuesto en un museo .</out>
 <ref>Tiene <f id="1">tal</f>  nivel artístico que mereceria estar expuesto en un museo .</ref>
 
 <inp>El <f id="1">army</f>  me hizo un flaco servicio confiándome este trabajo</inp>
-<out>El <f id="1">ejército</f>  me hizo un flaco servicio confiándome este trabajo</output>
+<out>El <f id="1">ejército</f>  me hizo un flaco servicio confiándome este trabajo</out>
 <ref>El <f id="1">ejército</f>  me hizo un flaco servicio confiándome este trabajo</ref>
 
 <inp><f id="1">In any case</f>  , son los niños los más afectados .</inp>
-<out><f id="1">De cualquier modo</f>  , son los niños los más afectados .</output>
+<out><f id="1">De cualquier modo</f>  , son los niños los más afectados .</out>
 <ref><f id="1">En cualquier caso<alt>De todos modos</alt><alt>De todas formas</alt><alt>De cualquier modo</alt></f>  , son los niños los más afectados .</ref>
 
 <inp>El ejecutivo <f id="1">hopes to</f>  generar 2500 millones de euros gracias a la reforma del impuesto de sociedades</inp>
-<out>El ejecutivo <f id="1">la comisión</f>  generar 2500 millones de euros gracias a la reforma del impuesto de sociedades</output>
+<out>El ejecutivo <f id="1">la comisión</f>  generar 2500 millones de euros gracias a la reforma del impuesto de sociedades</out>
 <ref>El ejecutivo <f id="1">espera</f>  generar 2500 millones de euros gracias a la reforma del impuesto de sociedades</ref>
 
 <inp><f id="1">Until now</f>  los aprendices de cocinero con ambiciones académicas sólo podían dirigirse a la universidad de ciencias de la gastronomía de Italia .</inp>
-<out><f id="1">Hasta el momento</f>  los aprendices de cocinero con ambiciones académicas sólo podían dirigirse a la universidad de ciencias de la gastronomía de Italia .</output>
+<out><f id="1">Hasta el momento</f>  los aprendices de cocinero con ambiciones académicas sólo podían dirigirse a la universidad de ciencias de la gastronomía de Italia .</out>
 <ref><f id="1">Hasta ahora</f>  los aprendices de cocinero con ambiciones académicas sólo podían dirigirse a la universidad de ciencias de la gastronomía de Italia .</ref>
 
 <inp><f id="1">Every</f>  año hay que volver a lamentar la muerte de turistas .</inp>
-<out><f id="1">Cada día se publica una nueva encuesta y cada</f>  año hay que volver a lamentar la muerte de turistas .</output>
+<out><f id="1">Cada día se publica una nueva encuesta y cada</f>  año hay que volver a lamentar la muerte de turistas .</out>
 <ref><f id="1">Cada</f>  año hay que volver a lamentar la muerte de turistas .</ref>
 
 <inp>Les interesa saber <f id="1">how much</f>  van a tener que pagar por el piso .</inp>
-<out>Les interesa saber <f id="1">cuánto</f>  van a tener que pagar por el piso .</output>
+<out>Les interesa saber <f id="1">cuánto</f>  van a tener que pagar por el piso .</out>
 <ref>Les interesa saber <f id="1">cuánto</f>  van a tener que pagar por el piso .</ref>
 
 <inp>Es <f id="1">certain that</f>  hay problemas individuales también .</inp>
-<out>Es <f id="1">de que</f>  hay problemas individuales también .</output>
+<out>Es <f id="1">de que</f>  hay problemas individuales también .</out>
 <ref>Es <f id="1">cierto que<alt>seguro que</alt><alt>verdad que</alt></f>  hay problemas individuales también .</ref>
 
 <inp>Desde siempre los pastores pueden <f id="1">make use of</f>  cerca de 125.000 kilómetros de caminos en el interior de España .</inp>
-<out>Desde siempre los pastores pueden <f id="1">hacer uso de</f>  cerca de 125.000 kilómetros de caminos en el interior de España .</output>
+<out>Desde siempre los pastores pueden <f id="1">hacer uso de</f>  cerca de 125.000 kilómetros de caminos en el interior de España .</out>
 <ref>Desde siempre los pastores pueden <f id="1">hacer uso de<alt>utilizar</alt></f>  cerca de 125.000 kilómetros de caminos en el interior de España .</ref>
 
 <inp>Los bancos han vuelto loco a todo el mundo con atractivas promesas sobre <f id="1">the advantages</f>  de una casa en propiedad .</inp>
-<out>Los bancos han vuelto loco a todo el mundo con atractivas promesas sobre <f id="1">las ventajas</f>  de una casa en propiedad .</output>
+<out>Los bancos han vuelto loco a todo el mundo con atractivas promesas sobre <f id="1">las ventajas</f>  de una casa en propiedad .</out>
 <ref>Los bancos han vuelto loco a todo el mundo con atractivas promesas sobre <f id="1">las ventajas<alt>los beneficios</alt></f>  de una casa en propiedad .</ref>
 
 <inp>No estoy seguro de <f id="1">whether</f>  es cierto lo que dices .</inp>
-<out>No estoy seguro de <f id="1">sí mismas si</f>  es cierto lo que dices .</output>
+<out>No estoy seguro de <f id="1">sí mismas si</f>  es cierto lo que dices .</out>
 <ref>No estoy seguro de <f id="1">si</f>  es cierto lo que dices .</ref>
 
 <inp>Es <f id="1">surprising</f>  que la agencia no espere unos días a ver la solución que sus líderes pueden darle a la crisis .</inp>
-<out>Es <f id="1">asombroso</f>  que la agencia no espere unos días a ver la solución que sus líderes pueden darle a la crisis .</output>
+<out>Es <f id="1">asombroso</f>  que la agencia no espere unos días a ver la solución que sus líderes pueden darle a la crisis .</out>
 <ref>Es <f id="1">sorprendente</f>  que la agencia no espere unos días a ver la solución que sus líderes pueden darle a la crisis .</ref>
 
 <inp>El maestro no quiso <f id="1">reveal</f>  nada sobre este simbolismo .</inp>
-<out>El maestro no quiso <f id="1">revelarse</f>  nada sobre este simbolismo .</output>
+<out>El maestro no quiso <f id="1">revelarse</f>  nada sobre este simbolismo .</out>
 <ref>El maestro no quiso <f id="1">desvelar<alt>revelar</alt></f>  nada sobre este simbolismo .</ref>
 
 <inp>Casi siempre ha habido <f id="1">threats</f>  , protestas y cinismos políticos o sociales .</inp>
-<out>Casi siempre ha habido <f id="1">amenazas</f>  , protestas y cinismos políticos o sociales .</output>
+<out>Casi siempre ha habido <f id="1">amenazas</f>  , protestas y cinismos políticos o sociales .</out>
 <ref>Casi siempre ha habido <f id="1">amenazas</f>  , protestas y cinismos políticos o sociales .</ref>
 
 <inp>Surge también con el empleo de <f id="1">fossil fuels</f>  .</inp>
-<out>Surge también con el empleo de <f id="1">combustibles fósiles</f>  .</output>
+<out>Surge también con el empleo de <f id="1">combustibles fósiles</f>  .</out>
 <ref>Surge también con el empleo de <f id="1">combustibles fósiles</f>  .</ref>
 
 <inp>No sé <f id="1">what to do</f>  con este problema .</inp>
-<out>No sé <f id="1">qué hacer con</f>  con este problema .</output>
+<out>No sé <f id="1">qué hacer con</f>  con este problema .</out>
 <ref>No sé <f id="1">qué hacer</f>  con este problema .</ref>
 
 <inp>Hoy el hombre quiere <f id="1">hide</f>  sus actitudes machistas .</inp>
-<out>Hoy el hombre quiere <f id="1">piel</f>  sus actitudes machistas .</output>
+<out>Hoy el hombre quiere <f id="1">piel</f>  sus actitudes machistas .</out>
 <ref>Hoy el hombre quiere <f id="1">esconder<alt>esconderse</alt></f>  sus actitudes machistas .</ref>
 
 <inp>En el mismo documento aparece publicado que Zapatero <f id="1">ca n't speak</f>  inglés .</inp>
-<out>En el mismo documento aparece publicado que Zapatero <f id="1"></f>  inglés .</output>
+<out>En el mismo documento aparece publicado que Zapatero <f id="1"></f>  inglés .</out>
 <ref>En el mismo documento aparece publicado que Zapatero <f id="1">no sabe hablar<alt>no habla</alt><alt>no puede hablar</alt></f>  inglés .</ref>
 
 <inp><f id="1">At the party</f>  todos bailamos mucho .</inp>
-<out><f id="1"></f>  todos bailamos mucho .</output>
+<out><f id="1"></f>  todos bailamos mucho .</out>
 <ref><f id="1">En la fiesta</f>  todos bailamos mucho .</ref>
 
 <inp>Por ejemplo , <f id="1">tenderness</f>  tiene hoy un irresistible attractivo para el hombre .</inp>
-<out>Por ejemplo , <f id="1">concurso</f>  tiene hoy un irresistible attractivo para el hombre .</output>
+<out>Por ejemplo , <f id="1">concurso</f>  tiene hoy un irresistible attractivo para el hombre .</out>
 <ref>Por ejemplo , <f id="1">la ternura</f>  tiene hoy un irresistible attractivo para el hombre .</ref>
 
 <inp>La semana pasada perdió la vida un joven británico de 24 años <f id="1">after</f>  una caída del balcón de la habitación de su hotel .</inp>
-<out>La semana pasada perdió la vida un joven británico de 24 años <f id="1">tras</f>  una caída del balcón de la habitación de su hotel .</output>
+<out>La semana pasada perdió la vida un joven británico de 24 años <f id="1">tras</f>  una caída del balcón de la habitación de su hotel .</out>
 <ref>La semana pasada perdió la vida un joven británico de 24 años <f id="1">tras<alt>después</alt></f>  una caída del balcón de la habitación de su hotel .</ref>
 
 <inp>De los drogadictos que deciden <f id="1">quit</f>  de la droga son pocos que logran superar el síndrome de adición .</inp>
-<out>De los drogadictos que deciden <f id="1">salir</f>  de la droga son pocos que logran superar el síndrome de adición .</output>
+<out>De los drogadictos que deciden <f id="1">salir</f>  de la droga son pocos que logran superar el síndrome de adición .</out>
 <ref>De los drogadictos que deciden <f id="1">salir<alt>quitar</alt><alt>retirarse</alt></f>  de la droga son pocos que logran superar el síndrome de adición .</ref>
 
 <inp>Queremos <f id="1">greater participation of</f>  las mujeres en la vida política .</inp>
-<out>Queremos <f id="1">mayor participación de</f>  las mujeres en la vida política .</output>
+<out>Queremos <f id="1">mayor participación de</f>  las mujeres en la vida política .</out>
 <ref>Queremos <f id="1">mayor participación de</f>  las mujeres en la vida política .</ref>
 
 <inp><f id="1">Family reunion</f>  es uno de los objeticos principales de la nueva política .</inp>
-<out><f id="1"></f>  es uno de los objeticos principales de la nueva política .</output>
+<out><f id="1"></f>  es uno de los objeticos principales de la nueva política .</out>
 <ref><f id="1">La reunión familiar</f>  es uno de los objeticos principales de la nueva política .</ref>
 
 <inp>Si la vida fuera <f id="1">as easy as</f>  una telenovela , entonces las soluciones caerían del cielo .</inp>
-<out>Si la vida fuera <f id="1">tan fácil como</f>  una telenovela , entonces las soluciones caerían del cielo .</output>
+<out>Si la vida fuera <f id="1">tan fácil como</f>  una telenovela , entonces las soluciones caerían del cielo .</out>
 <ref>Si la vida fuera <f id="1">tan fácil como</f>  una telenovela , entonces las soluciones caerían del cielo .</ref>
 
 <inp>Luego cogió <f id="1">a knife</f>  y partió la torta .</inp>
-<out>Luego cogió <f id="1">de un</f>  y partió la torta .</output>
+<out>Luego cogió <f id="1">de un</f>  y partió la torta .</out>
 <ref>Luego cogió <f id="1">un cuchillo</f>  y partió la torta .</ref>
 
 <inp>Como resultado de esta caída se registran menos <f id="1">births</f>  , como revela un estudio del INE .</inp>
-<out>Como resultado de esta caída se registran menos <f id="1">alumbramiento</f>  , como revela un estudio del INE .</output>
+<out>Como resultado de esta caída se registran menos <f id="1">alumbramiento</f>  , como revela un estudio del INE .</out>
 <ref>Como resultado de esta caída se registran menos <f id="1">nacimientos</f>  , como revela un estudio del INE .</ref>
 
 <inp>El tráfico en el centro de Madrid <f id="1">has worsened</f>  a pesar del aumento de multas .</inp>
-<out>El tráfico en el centro de Madrid <f id="1">ha recrudecido</f>  a pesar del aumento de multas .</output>
+<out>El tráfico en el centro de Madrid <f id="1">ha recrudecido</f>  a pesar del aumento de multas .</out>
 <ref>El tráfico en el centro de Madrid <f id="1">ha empeorado<alt>ha agravado</alt></f>  a pesar del aumento de multas .</ref>
 
 <inp>Fue el día <f id="1">in which</f>  estallaba la guerra .</inp>
-<out>Fue el día <f id="1">la que</f>  estallaba la guerra .</output>
+<out>Fue el día <f id="1">la que</f>  estallaba la guerra .</out>
 <ref>Fue el día <f id="1">en que<alt>en el que</alt></f>  estallaba la guerra .</ref>
 
 <inp>Estoy de acuerdo <f id="1">with the latter</f>  .</inp>
-<out>Estoy de acuerdo <f id="1">de acuerdo con</f>  .</output>
+<out>Estoy de acuerdo <f id="1">de acuerdo con</f>  .</out>
 <ref>Estoy de acuerdo <f id="1">con esto último<alt>con el último</alt><alt>con la última</alt></f>  .</ref>
 
 <inp><f id="1">Despite everything</f>  sigue gustándome .</inp>
-<out><f id="1">pese a</f>  sigue gustándome .</output>
+<out><f id="1">pese a</f>  sigue gustándome .</out>
 <ref><f id="1">A pesar de todo</f>  sigue gustándome .</ref>
 
 <inp>Generalmente requiere la participación de dos <f id="1">players</f>  o equipos que a su vez golpean por turnos una pelota contra un muro .</inp>
-<out>Generalmente requiere la participación de dos <f id="1">jugadores</f>  o equipos que a su vez golpean por turnos una pelota contra un muro .</output>
+<out>Generalmente requiere la participación de dos <f id="1">jugadores</f>  o equipos que a su vez golpean por turnos una pelota contra un muro .</out>
 <ref>Generalmente requiere la participación de dos <f id="1">jugadores</f>  o equipos que a su vez golpean por turnos una pelota contra un muro .</ref>
 
 <inp>Las palabras de Gloria resonaban <f id="1">in his mind</f>  .</inp>
-<out>Las palabras de Gloria resonaban <f id="1">en su i</f>  .</output>
+<out>Las palabras de Gloria resonaban <f id="1">en su i</f>  .</out>
 <ref>Las palabras de Gloria resonaban <f id="1">en su mente</f>  .</ref>
 
 <inp>Goya <f id="1">kept</f>  el cuadro escondido por diez años .</inp>
-<out>Goya <f id="1">custodió</f>  el cuadro escondido por diez años .</output>
+<out>Goya <f id="1">custodió</f>  el cuadro escondido por diez años .</out>
 <ref>Goya <f id="1">mantuvo</f>  el cuadro escondido por diez años .</ref>
 
 <inp>Después , dejándome guiar por mi <f id="1">sense of direction</f>  , comencé a alejarme de la zona turística donde estaban enclavados los hoteles .</inp>
-<out>Después , dejándome guiar por mi <f id="1">de la dirección</f>  , comencé a alejarme de la zona turística donde estaban enclavados los hoteles .</output>
+<out>Después , dejándome guiar por mi <f id="1">de la dirección</f>  , comencé a alejarme de la zona turística donde estaban enclavados los hoteles .</out>
 <ref>Después , dejándome guiar por mi <f id="1">sentido de la orientación</f>  , comencé a alejarme de la zona turística donde estaban enclavados los hoteles .</ref>
 
 <inp>He tomado <f id="1">all kinds of</f>  drogas .</inp>
-<out>He tomado <f id="1">todo tipo de</f>  drogas .</output>
+<out>He tomado <f id="1">todo tipo de</f>  drogas .</out>
 <ref>He tomado <f id="1">todo tipo de<alt>toda clase de</alt></f>  drogas .</ref>
 
 <inp>Suponen que el precio de la gasolina <f id="1">will increase</f>  otra vez .</inp>
-<out>Suponen que el precio de la gasolina <f id="1">alargarás</f>  otra vez .</output>
+<out>Suponen que el precio de la gasolina <f id="1">alargarás</f>  otra vez .</out>
 <ref>Suponen que el precio de la gasolina <f id="1">va a subir<alt>subirá</alt><alt>aumentará</alt><alt>se incrementará</alt></f>  otra vez .</ref>
 
 <inp>Sigo haciendo <f id="1">the same</f>  , pero ahora me pagan por ello .</inp>
-<out>Sigo haciendo <f id="1">igual</f>  , pero ahora me pagan por ello .</output>
+<out>Sigo haciendo <f id="1">igual</f>  , pero ahora me pagan por ello .</out>
 <ref>Sigo haciendo <f id="1">lo mismo</f>  , pero ahora me pagan por ello .</ref>
 
 <inp>La casa de Avila , <f id="1">which</f>  compraron hace menos de un año , la han vendido .</inp>
-<out>La casa de Avila , <f id="1">cuales</f>  compraron hace menos de un año , la han vendido .</output>
+<out>La casa de Avila , <f id="1">cuales</f>  compraron hace menos de un año , la han vendido .</out>
 <ref>La casa de Avila , <f id="1">que</f>  compraron hace menos de un año , la han vendido .</ref>
 
 <inp>Mis abuelos siempre <f id="1">prayed</f>  antes de comer .</inp>
-<out>Mis abuelos siempre <f id="1">oraste</f>  antes de comer .</output>
+<out>Mis abuelos siempre <f id="1">oraste</f>  antes de comer .</out>
 <ref>Mis abuelos siempre <f id="1">rezaban</f>  antes de comer .</ref>
 
 <inp>Una excepción fue <f id="1">the case against</f>  Jesús Guerra .</inp>
-<out>Una excepción fue <f id="1">a alguien que</f>  Jesús Guerra .</output>
+<out>Una excepción fue <f id="1">a alguien que</f>  Jesús Guerra .</out>
 <ref>Una excepción fue <f id="1">el caso contra<alt>el proceso contra</alt></f>  Jesús Guerra .</ref>
 
 <inp>La medida es el resultado de <f id="1">a truce</f>  anunciada meses antes por la banda terrorista .</inp>
-<out>La medida es el resultado de <f id="1">una tregua</f>  anunciada meses antes por la banda terrorista .</output>
+<out>La medida es el resultado de <f id="1">una tregua</f>  anunciada meses antes por la banda terrorista .</out>
 <ref>La medida es el resultado de <f id="1">una tregua</f>  anunciada meses antes por la banda terrorista .</ref>
 
 <inp>Vinieron muchos compañeros <f id="1">of mine</f>  .</inp>
-<out>Vinieron muchos compañeros <f id="1">unos colegas</f>  .</output>
+<out>Vinieron muchos compañeros <f id="1">unos colegas</f>  .</out>
 <ref>Vinieron muchos compañeros <f id="1">míos</f>  .</ref>
 
 <inp>Con este juego creció <f id="1">the team</f>  de Pep Guardiola hasta convertirse en el mejor del mundo</inp>
-<out>Con este juego creció <f id="1">el equipo</f>  de Pep Guardiola hasta convertirse en el mejor del mundo</output>
+<out>Con este juego creció <f id="1">el equipo</f>  de Pep Guardiola hasta convertirse en el mejor del mundo</out>
 <ref>Con este juego creció <f id="1">el equipo</f>  de Pep Guardiola hasta convertirse en el mejor del mundo</ref>
 
 <inp>El Consejo de Ministros examinó ayer el plan de acción para <f id="1">equal opportunities</f>  de la mujer .</inp>
-<out>El Consejo de Ministros examinó ayer el plan de acción para <f id="1">igualdad de</f>  de la mujer .</output>
+<out>El Consejo de Ministros examinó ayer el plan de acción para <f id="1">igualdad de</f>  de la mujer .</out>
 <ref>El Consejo de Ministros examinó ayer el plan de acción para <f id="1">la igualdad de oportunidades</f>  de la mujer .</ref>
 
 <inp>Hay wifi en los trenes de larga y media distancia , <f id="1">as well as</f>  en los trenes de cercanías .</inp>
-<out>Hay wifi en los trenes de larga y media distancia , <f id="1">así como</f>  en los trenes de cercanías .</output>
+<out>Hay wifi en los trenes de larga y media distancia , <f id="1">así como</f>  en los trenes de cercanías .</out>
 <ref>Hay wifi en los trenes de larga y media distancia , <f id="1">así como</f>  en los trenes de cercanías .</ref>
 
 <inp>Las <f id="1">expectations</f>  de los que están en favor muestra de un optimismo exagerado .</inp>
-<out>Las <f id="1">suponer</f>  de los que están en favor muestra de un optimismo exagerado .</output>
+<out>Las <f id="1">suponer</f>  de los que están en favor muestra de un optimismo exagerado .</out>
 <ref>Las <f id="1">expectativas</f>  de los que están en favor muestra de un optimismo exagerado .</ref>
 
 <inp>No podemos <f id="1">miss the opportunity</f>  histórica de conseguir una solución democrática .</inp>
-<out>No podemos <f id="1">la oportunidad de</f>  histórica de conseguir una solución democrática .</output>
+<out>No podemos <f id="1">la oportunidad de</f>  histórica de conseguir una solución democrática .</out>
 <ref>No podemos <f id="1">dejar escapar la oportunidad<alt>perder la oportunidad</alt><alt>pasar por alto la oportunidad</alt></f>  histórica de conseguir una solución democrática .</ref>
 
 <inp>Con esta adquisición Telefónica espera <f id="1">to attain</f>  un mínimo de 2.700 millones de euros en efectos de sinergia .</inp>
-<out>Con esta adquisición Telefónica espera <f id="1">alcanzar</f>  un mínimo de 2.700 millones de euros en efectos de sinergia .</output>
+<out>Con esta adquisición Telefónica espera <f id="1">alcanzar</f>  un mínimo de 2.700 millones de euros en efectos de sinergia .</out>
 <ref>Con esta adquisición Telefónica espera <f id="1">conseguir<alt>alcanzar</alt><alt>lograr</alt></f>  un mínimo de 2.700 millones de euros en efectos de sinergia .</ref>
 
 <inp>Es <f id="1">to prevent</f>  que la plaza vuelva a ser ocupada por los indignados del movimiento 15 - M .</inp>
-<out>Es <f id="1">evitar</f>  que la plaza vuelva a ser ocupada por los indignados del movimiento 15 - M .</output>
+<out>Es <f id="1">evitar</f>  que la plaza vuelva a ser ocupada por los indignados del movimiento 15 - M .</out>
 <ref>Es <f id="1">para evitar<alt>para impedir</alt><alt>para prevenir</alt></f>  que la plaza vuelva a ser ocupada por los indignados del movimiento 15 - M .</ref>
 
 <inp>¿ Cómo es que todos tus hermanos tienen <f id="1">black hair</f>  y tú no ?</inp>
-<out>¿ Cómo es que todos tus hermanos tienen <f id="1"></f>  y tú no ?</output>
+<out>¿ Cómo es que todos tus hermanos tienen <f id="1"></f>  y tú no ?</out>
 <ref>¿ Cómo es que todos tus hermanos tienen <f id="1">el pelo negro<alt>el cabello negro</alt></f>  y tú no ?</ref>
 
 <inp>El los exámenes Maribel siempre <f id="1">becomes</f>  muy nerviosa .</inp>
-<out>El los exámenes Maribel siempre <f id="1">deviene</f>  muy nerviosa .</output>
+<out>El los exámenes Maribel siempre <f id="1">deviene</f>  muy nerviosa .</out>
 <ref>El los exámenes Maribel siempre <f id="1">se pone<alt>se vuelve</alt></f>  muy nerviosa .</ref>
 
 <inp>Es un perro que tiene <f id="1">a white spot</f>  en la frente .</inp>
-<out>Es un perro que tiene <f id="1"></f>  en la frente .</output>
+<out>Es un perro que tiene <f id="1"></f>  en la frente .</out>
 <ref>Es un perro que tiene <f id="1">una mancha blanca</f>  en la frente .</ref>
 
 <inp>El juego espontáneo <f id="1">is full of</f>  significado .</inp>
-<out>El juego espontáneo <f id="1">está lleno de</f>  significado .</output>
+<out>El juego espontáneo <f id="1">está lleno de</f>  significado .</out>
 <ref>El juego espontáneo <f id="1">está lleno de</f>  significado .</ref>
 
 <inp>Siguiendo <f id="1">the orders</f>  del Gobierno , la policía madrileña lleva tres días cerrando el paso a la Puerta del Sol .</inp>
-<out>Siguiendo <f id="1">las órdenes</f>  del Gobierno , la policía madrileña lleva tres días cerrando el paso a la Puerta del Sol .</output>
+<out>Siguiendo <f id="1">las órdenes</f>  del Gobierno , la policía madrileña lleva tres días cerrando el paso a la Puerta del Sol .</out>
 <ref>Siguiendo <f id="1">las órdenes</f>  del Gobierno , la policía madrileña lleva tres días cerrando el paso a la Puerta del Sol .</ref>
 
 <inp>En 1990 sus padres <f id="1">died</f>  en un accidente aéreo .</inp>
-<out>En 1990 sus padres <f id="1">moriste</f>  en un accidente aéreo .</output>
+<out>En 1990 sus padres <f id="1">moriste</f>  en un accidente aéreo .</out>
 <ref>En 1990 sus padres <f id="1">fallecieron<alt>murieron</alt></f>  en un accidente aéreo .</ref>
 
 <inp>Me ha dicho que la cena es <f id="1">at nine o ' clock</f>  .</inp>
-<out>Me ha dicho que la cena es <f id="1"></f>  .</output>
+<out>Me ha dicho que la cena es <f id="1"></f>  .</out>
 <ref>Me ha dicho que la cena es <f id="1">a las nueve</f>  .</ref>
 
 <inp>Los economistas prevén <f id="1">however</f>  que ahora sea menor .</inp>
-<out>Los economistas prevén <f id="1">No obstante</f>  que ahora sea menor .</output>
+<out>Los economistas prevén <f id="1">No obstante</f>  que ahora sea menor .</out>
 <ref>Los economistas prevén <f id="1">sin embargo<alt>no obstante</alt></f>  que ahora sea menor .</ref>
 
 <inp>Fue un público que deseaba ir <f id="1">as far as possible</f>  en el camino iniciado .</inp>
-<out>Fue un público que deseaba ir <f id="1">en la medida de</f>  en el camino iniciado .</output>
+<out>Fue un público que deseaba ir <f id="1">en la medida de</f>  en el camino iniciado .</out>
 <ref>Fue un público que deseaba ir <f id="1">lo más lejos posible</f>  en el camino iniciado .</ref>
 
 <inp>El insomnio afecta <f id="1">at least</f>  a un tercio de la población adulta en algún momento de su vida .</inp>
-<out>El insomnio afecta <f id="1">como mínimo</f>  a un tercio de la población adulta en algún momento de su vida .</output>
+<out>El insomnio afecta <f id="1">como mínimo</f>  a un tercio de la población adulta en algún momento de su vida .</out>
 <ref>El insomnio afecta <f id="1">al menos</f>  a un tercio de la población adulta en algún momento de su vida .</ref>
 
 <inp>Por fin Juanita decide <f id="1">to marry</f>  .</inp>
-<out>Por fin Juanita decide <f id="1">contraer matrimonio con</f>  .</output>
+<out>Por fin Juanita decide <f id="1">contraer matrimonio con</f>  .</out>
 <ref>Por fin Juanita decide <f id="1">casarse</f>  .</ref>
 
 <inp>En España <f id="1">there are</f>  dos tipos de inmigración .</inp>
-<out>En España <f id="1">que no</f>  dos tipos de inmigración .</output>
+<out>En España <f id="1">que no</f>  dos tipos de inmigración .</out>
 <ref>En España <f id="1">hay<alt>existen</alt></f>  dos tipos de inmigración .</ref>
 
 <inp>Los túneles <f id="1">flood</f>  si llueve de forma persistente .</inp>
-<out>Los túneles <f id="1">inundación</f>  si llueve de forma persistente .</output>
+<out>Los túneles <f id="1">inundación</f>  si llueve de forma persistente .</out>
 <ref>Los túneles <f id="1">se inundan</f>  si llueve de forma persistente .</ref>
 
 <inp>Este festejo , de larga tradición en Madrid , <f id="1">has its origin</f>  en los tiempos de Carlos III .</inp>
-<out>Este festejo , de larga tradición en Madrid , <f id="1">su origen en</f>  en los tiempos de Carlos III .</output>
+<out>Este festejo , de larga tradición en Madrid , <f id="1">su origen en</f>  en los tiempos de Carlos III .</out>
 <ref>Este festejo , de larga tradición en Madrid , <f id="1">tiene su origen</f>  en los tiempos de Carlos III .</ref>
 
 <inp>Este problema <f id="1">has nothing to do with</f>  el clima político actual .</inp>
-<out>Este problema <f id="1">no tiene nada que ver</f>  el clima político actual .</output>
+<out>Este problema <f id="1">no tiene nada que ver</f>  el clima político actual .</out>
 <ref>Este problema <f id="1">no tiene nada que ver con</f>  el clima político actual .</ref>
 
 <inp>Ya no <f id="1">watch TV</f>  todos los días .</inp>
-<out>Ya no <f id="1"></f>  todos los días .</output>
+<out>Ya no <f id="1"></f>  todos los días .</out>
 <ref>Ya no <f id="1">vemos la tele<alt>vemos la televisión</alt><alt>vemos tele</alt><alt>ven la televisión</alt><alt>ven tele</alt><alt>ven la tele</alt></f>  todos los días .</ref>
 
 <inp>La policía española ha podido <f id="1">arrest</f>  a una serie de dirigentes de la banda terrorista .</inp>
-<out>La policía española ha podido <f id="1">detención</f>  a una serie de dirigentes de la banda terrorista .</output>
+<out>La policía española ha podido <f id="1">detención</f>  a una serie de dirigentes de la banda terrorista .</out>
 <ref>La policía española ha podido <f id="1">arrestar<alt>capturar</alt><alt>encarcelar</alt><alt>detener</alt></f>  a una serie de dirigentes de la banda terrorista .</ref>
 
 <inp>Los <f id="1">team members</f>  se felicitan después del partido .</inp>
-<out>Los <f id="1">miembros del</f>  se felicitan después del partido .</output>
+<out>Los <f id="1">miembros del</f>  se felicitan después del partido .</out>
 <ref>Los <f id="1">miembros del equipo</f>  se felicitan después del partido .</ref>
 
 <inp>Meses <f id="1">after finishing</f>  su novena sinfonía , el compositor murió .</inp>
-<out>Meses <f id="1">, como</f>  su novena sinfonía , el compositor murió .</output>
+<out>Meses <f id="1">, como</f>  su novena sinfonía , el compositor murió .</out>
 <ref>Meses <f id="1">después de finalizar<alt>después de terminar</alt></f>  su novena sinfonía , el compositor murió .</ref>
 
 <inp>El problema es una cuestión de <f id="1">public health</f>  .</inp>
-<out>El problema es una cuestión de <f id="1">sanidad pública</f>  .</output>
+<out>El problema es una cuestión de <f id="1">sanidad pública</f>  .</out>
 <ref>El problema es una cuestión de <f id="1">salud pública</f>  .</ref>
 
 <inp>La empresa había informado <f id="1">beforehand</f>  a los medios de comunicación .</inp>
-<out>La empresa había informado <f id="1">anticipadamente</f>  a los medios de comunicación .</output>
+<out>La empresa había informado <f id="1">anticipadamente</f>  a los medios de comunicación .</out>
 <ref>La empresa había informado <f id="1">de antemano<alt>previamente</alt></f>  a los medios de comunicación .</ref>
 
 <inp><f id="1">There were</f>  mucha más gente que el otro día .</inp>
-<out><f id="1">en el</f>  mucha más gente que el otro día .</output>
+<out><f id="1">en el</f>  mucha más gente que el otro día .</out>
 <ref><f id="1">Había</f>  mucha más gente que el otro día .</ref>
 
 <inp>Te lo repito <f id="1">more than once</f>  .</inp>
-<out>Te lo repito <f id="1">más de una</f>  .</output>
+<out>Te lo repito <f id="1">más de una</f>  .</out>
 <ref>Te lo repito <f id="1">más de una vez<alt>una vez más</alt></f>  .</ref>
 
 <inp>Lo castigaron por haber <f id="1">lied</f>  .</inp>
-<out>Lo castigaron por haber <f id="1">falsedad</f>  .</output>
+<out>Lo castigaron por haber <f id="1">falsedad</f>  .</out>
 <ref>Lo castigaron por haber <f id="1">mentido</f>  .</ref>
 
 <inp>En este momento lo único que pueden estar gestionando es algo <f id="1">related to</f>  el suministro de wolframio</inp>
-<out>En este momento lo único que pueden estar gestionando es algo <f id="1">relacionado con</f>  el suministro de wolframio</output>
+<out>En este momento lo único que pueden estar gestionando es algo <f id="1">relacionado con</f>  el suministro de wolframio</out>
 <ref>En este momento lo único que pueden estar gestionando es algo <f id="1">relacionado con</f>  el suministro de wolframio</ref>
 
 <inp>Antes de comprar esta cama , <f id="1">we slept</f>  en una de un metro veinte de ancho .</inp>
-<out>Antes de comprar esta cama , <f id="1"></f>  en una de un metro veinte de ancho .</output>
+<out>Antes de comprar esta cama , <f id="1"></f>  en una de un metro veinte de ancho .</out>
 <ref>Antes de comprar esta cama , <f id="1">dormimos</f>  en una de un metro veinte de ancho .</ref>
 
 <inp>Durante el verano hay que lamentar demasiadas <f id="1">fatalities</f>  en las carreteras españolas .</inp>
-<out>Durante el verano hay que lamentar demasiadas <f id="1">fatal</f>  en las carreteras españolas .</output>
+<out>Durante el verano hay que lamentar demasiadas <f id="1">fatal</f>  en las carreteras españolas .</out>
 <ref>Durante el verano hay que lamentar demasiadas <f id="1">víctimas mortales<alt>muertes</alt><alt>fatalidades</alt><alt>fallecimientos</alt></f>  en las carreteras españolas .</ref>
 
 <inp>Creo que es importante cuidarse y <f id="1">the only way</f>  es hacerlo todos los días .</inp>
-<out>Creo que es importante cuidarse y <f id="1">es la única</f>  es hacerlo todos los días .</output>
+<out>Creo que es importante cuidarse y <f id="1">es la única</f>  es hacerlo todos los días .</out>
 <ref>Creo que es importante cuidarse y <f id="1">la única manera<alt>la única forma</alt></f>  es hacerlo todos los días .</ref>
 
 <inp>La siesta <f id="1">daily</f>  hacía que los músculos se relajaran y que el corazón se fortaleciera .</inp>
-<out>La siesta <f id="1">diariamente</f>  hacía que los músculos se relajaran y que el corazón se fortaleciera .</output>
+<out>La siesta <f id="1">diariamente</f>  hacía que los músculos se relajaran y que el corazón se fortaleciera .</out>
 <ref>La siesta <f id="1">diaria</f>  hacía que los músculos se relajaran y que el corazón se fortaleciera .</ref>
 
 <inp><f id="1">He left</f>  a la calle .</inp>
-<out><f id="1"></f>  a la calle .</output>
+<out><f id="1"></f>  a la calle .</out>
 <ref><f id="1">Salió<alt>Se fue</alt><alt>Ha salido</alt></f>  a la calle .</ref>
 
 <inp>Se han definido cuatro <f id="1">goals</f>  para el programa .</inp>
-<out>Se han definido cuatro <f id="1">gol</f>  para el programa .</output>
+<out>Se han definido cuatro <f id="1">gol</f>  para el programa .</out>
 <ref>Se han definido cuatro <f id="1">objetivos</f>  para el programa .</ref>
 
 <inp><f id="1">The meaning of</f>  las figuras peculiares del panfleto antibélico de Picasso sigue siendo enigmático</inp>
-<out><f id="1"></f>  las figuras peculiares del panfleto antibélico de Picasso sigue siendo enigmático</output>
+<out><f id="1"></f>  las figuras peculiares del panfleto antibélico de Picasso sigue siendo enigmático</out>
 <ref><f id="1">El significado de</f>  las figuras peculiares del panfleto antibélico de Picasso sigue siendo enigmático</ref>
 

@@ -26,7 +26,7 @@ for testfiles in task5_files():
             for i in sorted(references):
                 if i in sysoutputs:
                     fout.write(inputs[i]+"\n")
-                    fout.write(unicode(sysoutputs[i]).replace('<output>', '<out>')+"\n")
+                    fout.write(unicode(sysoutputs[i]).replace('output>', 'out>')+"\n")
                     fout.write(unicode(references[i])+"\n\n")
     
 
