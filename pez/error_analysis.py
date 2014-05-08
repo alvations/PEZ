@@ -13,6 +13,11 @@ for testfiles in task5_files():
     if lang in ["en-es", "en-de"]:
         with codecs.open('sensible-error-anal-'+lang+'.xml', 'w', 'utf8') as fout:    
             sysxml = codecs.open(sensible_outputs(lang), 'r', 'utf8')
+            inxml_soup = bs(inxml).find_all('s')
+            
+            inputs = {int(goldsent.get('id')):"<inp>"+unicode(goldsent).split('\n')[1][8:]+"</inp>"
+                       for goldsent in inxml_soup}
+            
             references = {int(goldsent.get('id')):goldsent.find('ref') \
                           for goldsent in  bs(inxml).find_all('s')}
             sysoutputs = {int(sysoutput.get('id')):sysoutput.find('output') \
@@ -20,6 +25,7 @@ for testfiles in task5_files():
             
             for i in sorted(references):
                 if i in sysoutputs:
+                    fout.write(inputs[i]+"\n")
                     fout.write(unicode(sysoutputs[i]).replace('<output>', '<out>')+"\n")
                     fout.write(unicode(references[i])+"\n\n")
     
